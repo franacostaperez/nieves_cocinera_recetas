@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 16,
+  "catalogVersion": 17,
   "recipes": [
     {
       "allergens": [
@@ -1659,142 +1659,151 @@
       "imageURL": "https://raw.githubusercontent.com/franacostaperez/nieves_cocinera_recetas/main/images/bizcocho-almendra-manzana-panasonic.jpg"
     },
     {
-      "id": "gazpacho-gourmet-jamon-thermomix",
+      "id": "gazpacho-andaluz-gourmet-thermomix",
       "revision": 1,
-      "name": "Gazpacho gourmet con crujiente de jamón",
-      "description": "Gazpacho andaluz fino y sin pan, emulsionado en Thermomix y servido con crujiente de jamón serrano preparado en air fryer, brunoise fresca y aceite de oliva.",
+      "name": "Gazpacho andaluz gourmet",
+      "description": "Versión líquida y refinada para Thermomix, con textura sedosa, emulsión de aceite de oliva y presentación fría de estilo gastronómico.",
       "appliance": "Thermomix",
       "category": "Sopas y cremas",
       "servings": 6,
-      "prepMinutes": 20,
-      "cookMinutes": 8,
-      "difficulty": "Media",
-      "estimatedCost": 9.5,
-      "caloriesPerServing": 205,
-      "allergens": [],
-      "tips": "Utiliza tomates muy maduros y fríos. Añade el aceite después del triturado para lograr una emulsión fina y brillante. El jamón se prepara y conserva aparte hasta servir; triturarlo dentro del gazpacho aportaría demasiada sal y estropearía la textura. Revisa la etiqueta del jamón si necesitas evitar sulfitos u otros aditivos.",
-      "variants": "Para una textura ligeramente más densa puedes añadir 10-15 g de miga blanca remojada; en ese caso la receta contendrá gluten. Para una versión vegetariana, sustituye el jamón por almendra laminada tostada.",
-      "storage": "Conserva el gazpacho sin guarnición hasta 2 días en la nevera, en un recipiente hermético. Guarda el jamón crujiente por separado a temperatura ambiente y consúmelo el mismo día.",
+      "prepMinutes": 15,
+      "cookMinutes": 5,
+      "difficulty": "Fácil",
+      "estimatedCost": 7,
+      "caloriesPerServing": 175,
+      "allergens": [
+        "Gluten"
+      ],
+      "tips": "El pan es opcional: omítelo para un resultado más líquido y sin gluten, siempre que el resto de ingredientes sea apto. Utiliza tomates muy maduros y fríos. Añade el aceite sobre la tapa con el cubilete colocado para que caiga lentamente y emulsione sin salpicar.",
+      "variants": "Sírvelo en vasitos o cuencos fríos con gotas de AOVE, microbrotes o perlas de vinagre balsámico. Como acompañamiento opcional, añade una brocheta de langostino cocido —contiene crustáceos—, una pequeña quenelle de sorbete de tomate o espuma de albahaca.",
+      "storage": "Conserva hasta 2 días en la nevera, en un recipiente hermético. Remueve suavemente antes de servir.",
       "freezing": "No se recomienda congelarlo porque la emulsión puede separarse y las verduras pierden frescura.",
-      "reheating": "No necesita recalentado. Sírvelo frío, pero sácalo 5 minutos antes si está excesivamente helado; remueve o mezcla suavemente antes de emplatar.",
+      "reheating": "No necesita recalentado. Se sirve bien frío; retíralo de la nevera 5 minutos antes si está excesivamente helado.",
       "tags": [
         "Thermomix",
         "gazpacho",
-        "jamón serrano",
-        "air fryer",
-        "sin pan",
         "andaluz",
         "gourmet",
-        "verano"
+        "sin cocción",
+        "verano",
+        "sopa fría"
       ],
-      "imageURL": "https://raw.githubusercontent.com/franacostaperez/nieves_cocinera_recetas/main/images/gazpacho-gourmet-jamon-thermomix.jpg",
+      "imageURL": "https://raw.githubusercontent.com/franacostaperez/nieves_cocinera_recetas/main/images/gazpacho-andaluz-gourmet-thermomix.jpg",
       "ingredients": [
         {
-          "name": "Tomate pera maduro",
+          "name": "Tomates maduros",
           "quantity": 1000,
           "unit": "g",
           "category": "Frutas y verduras",
           "isPantryBasic": false,
-          "note": "Frío; reserva unos dados para decorar"
-        },
-        {
-          "name": "Pepino",
-          "quantity": 100,
-          "unit": "g",
-          "category": "Frutas y verduras",
-          "isPantryBasic": false,
-          "note": "Pelado parcialmente; reserva 20 g para decorar"
+          "note": "Tipo pera o rama, bien rojos y aromáticos"
         },
         {
           "name": "Pimiento rojo",
-          "quantity": 80,
+          "quantity": 100,
           "unit": "g",
           "category": "Frutas y verduras",
           "isPantryBasic": false,
           "note": "Sin semillas ni partes blancas"
         },
         {
-          "name": "Ajo",
-          "quantity": 0.5,
+          "name": "Pepino",
+          "quantity": 50,
+          "unit": "g",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Pelado"
+        },
+        {
+          "name": "Cebolla dulce o cebolleta",
+          "quantity": 30,
+          "unit": "g",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Ajo pequeño",
+          "quantity": 1,
           "unit": "ud",
           "category": "Frutas y verduras",
           "isPantryBasic": false,
-          "note": "Sin germen; ajusta al gusto"
+          "note": "Sin germen"
+        },
+        {
+          "name": "Pan blanco del día anterior",
+          "quantity": 40,
+          "unit": "g",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": "Opcional; omitir para una versión más líquida y sin gluten"
         },
         {
           "name": "Vinagre de Jerez",
-          "quantity": 25,
-          "unit": "ml",
+          "quantity": 30,
+          "unit": "g",
           "category": "Despensa",
+          "isPantryBasic": true,
+          "note": "Ajustar al gusto"
+        },
+        {
+          "name": "Aceite de oliva virgen extra",
+          "quantity": 60,
+          "unit": "g",
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "note": "Suave, preferiblemente arbequina"
+        },
+        {
+          "name": "Agua muy fría",
+          "quantity": 200,
+          "unit": "g",
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "note": "Puede sustituirse parcialmente por hielo si se sirve inmediatamente"
+        },
+        {
+          "name": "Sal",
+          "quantity": 10,
+          "unit": "g",
+          "category": "Especias",
           "isPantryBasic": true,
           "note": ""
         },
         {
-          "name": "Sal fina",
-          "quantity": 8,
-          "unit": "g",
-          "category": "Especias",
-          "isPantryBasic": true,
-          "note": "Ajusta después de añadir el jamón"
-        },
-        {
-          "name": "Aceite de oliva virgen extra",
-          "quantity": 80,
+          "name": "Zumo de limón",
+          "quantity": 5,
           "unit": "ml",
-          "category": "Despensa",
-          "isPantryBasic": true,
-          "note": "Más unas gotas para emplatar"
-        },
-        {
-          "name": "Agua muy fría",
-          "quantity": 60,
-          "unit": "ml",
-          "category": "Despensa",
-          "isPantryBasic": true,
-          "note": "Añadir poco a poco según la densidad"
-        },
-        {
-          "name": "Jamón serrano en lonchas finas",
-          "quantity": 60,
-          "unit": "g",
-          "category": "Carnes y pescados",
-          "isPantryBasic": false,
-          "note": "Para el crujiente"
-        },
-        {
-          "name": "Microbrotes",
-          "quantity": 10,
-          "unit": "g",
           "category": "Frutas y verduras",
           "isPantryBasic": false,
-          "note": "Opcionales, para decorar"
+          "note": "Opcional, unas gotas para aportar frescor"
         }
       ],
       "steps": [
         {
           "order": 1,
-          "instruction": "Lava y seca las verduras. Reserva unos dados pequeños de tomate y 20 g de pepino para el emplatado. Corta el resto del tomate, pepino y pimiento en trozos; retira el germen del ajo.",
+          "instruction": "Lava bien los tomates y córtalos en cuartos. Ponlos en el vaso junto con el pimiento, el pepino, la cebolla y el ajo sin germen. Añade también el pan si deseas una textura con más cuerpo.",
           "durationSeconds": null,
           "temperature": null,
           "speed": null,
           "reverse": false,
-          "accessory": "Tabla y cuchillo",
+          "accessory": "Vaso y cubilete",
           "mode": "Preparación"
         },
         {
           "order": 2,
-          "instruction": "Pon en el vaso el tomate, el pepino, el pimiento, el ajo, el vinagre y la sal. Tritura primero 1 minuto a velocidad 5 para romper las verduras de forma uniforme.",
-          "durationSeconds": 60,
+          "instruction": "Coloca el cubilete y tritura 30 segundos a velocidad 5. Baja con la espátula cualquier resto que haya quedado en las paredes.",
+          "durationSeconds": 30,
           "temperature": null,
           "speed": "5",
           "reverse": false,
-          "accessory": "Cubilete",
+          "accessory": "Cubilete y espátula",
           "mode": "Triturado inicial"
         },
         {
           "order": 3,
-          "instruction": "Coloca el cubilete y tritura 2 minutos a velocidad 10. La mezcla debe quedar completamente lisa, sin fragmentos visibles de piel. Nunca realices este triturado con ingredientes calientes.",
-          "durationSeconds": 120,
+          "instruction": "Con el cubilete colocado, programa 3 minutos a velocidad 10. La mezcla debe quedar muy fina, homogénea y sin fragmentos visibles de piel. No realices este triturado con ingredientes calientes.",
+          "durationSeconds": 180,
           "temperature": null,
           "speed": "10",
           "reverse": false,
@@ -1803,7 +1812,17 @@
         },
         {
           "order": 4,
-          "instruction": "Programa 1 minuto a velocidad 5. Con el cubilete puesto, vierte lentamente el aceite sobre la tapa para que caiga en hilo y emulsione. El gazpacho debe adquirir un color ligeramente más anaranjado y una textura sedosa.",
+          "instruction": "Añade el vinagre de Jerez, la sal, el agua muy fría y, si lo deseas, unas gotas de limón. Mezcla 30 segundos a velocidad 5.",
+          "durationSeconds": 30,
+          "temperature": null,
+          "speed": "5",
+          "reverse": false,
+          "accessory": "Cubilete",
+          "mode": "Mezcla"
+        },
+        {
+          "order": 5,
+          "instruction": "Programa 1 minuto a velocidad 5. Mantén el cubilete puesto y vierte el aceite poco a poco sobre la tapa, dejando que caiga alrededor del cubilete para emulsionar. El gazpacho debe quedar brillante y sedoso.",
           "durationSeconds": 60,
           "temperature": null,
           "speed": "5",
@@ -1812,54 +1831,34 @@
           "mode": "Emulsionado"
         },
         {
-          "order": 5,
-          "instruction": "Añade primero 30 ml de agua fría y mezcla 15 segundos a velocidad 3. Comprueba la densidad y añade el resto solo si lo deseas más fluido. Prueba y corrige de sal o vinagre teniendo en cuenta que el jamón añadirá sal al servir.",
-          "durationSeconds": 15,
-          "temperature": null,
-          "speed": "3",
-          "reverse": false,
-          "accessory": "Cubilete",
-          "mode": "Ajuste"
-        },
-        {
           "order": 6,
-          "instruction": "Para un acabado especialmente fino, pasa el gazpacho por un colador de malla fina, presionando con un cucharón. Refrigera al menos 2 horas en un recipiente tapado.",
-          "durationSeconds": 7200,
-          "temperature": "Nevera",
-          "speed": null,
-          "reverse": false,
-          "accessory": "Colador fino",
-          "mode": "Enfriado"
-        },
-        {
-          "order": 7,
-          "instruction": "Coloca las lonchas de jamón separadas en la cesta de la air fryer. Si son muy ligeras, sujétalas con una rejilla compatible; no uses papel suelto que pueda levantarse hacia la resistencia. Cocina a 180 °C durante 5-8 minutos, vigilando desde el minuto 5.",
-          "durationSeconds": 420,
-          "temperature": "180 °C",
-          "speed": null,
-          "reverse": false,
-          "accessory": "Air fryer y rejilla compatible",
-          "mode": "Crujiente de jamón"
-        },
-        {
-          "order": 8,
-          "instruction": "Retira el jamón cuando esté seco y ligeramente dorado, pero no oscuro. Déjalo enfriar sobre papel absorbente: se volverá más crujiente al perder temperatura. Reserva algunas láminas enteras y rompe el resto en migas.",
-          "durationSeconds": 300,
-          "temperature": "Temperatura ambiente",
-          "speed": null,
-          "reverse": false,
-          "accessory": "Papel absorbente",
-          "mode": "Enfriado del jamón"
-        },
-        {
-          "order": 9,
-          "instruction": "Remueve el gazpacho frío y repártelo en platos. Coloca en el centro la brunoise reservada, una lámina de jamón en vertical y unas pocas migas. Termina con gotas de aceite y microbrotes. Sirve inmediatamente para que el jamón permanezca crujiente.",
+          "instruction": "Prueba y ajusta de sal, vinagre o agua. Si deseas un acabado especialmente refinado, pasa el gazpacho por un colador chino o una malla fina, presionando con un cucharón.",
           "durationSeconds": null,
           "temperature": null,
           "speed": null,
           "reverse": false,
-          "accessory": "Platos fríos",
-          "mode": "Emplatado"
+          "accessory": "Colador chino opcional",
+          "mode": "Afinado"
+        },
+        {
+          "order": 7,
+          "instruction": "Pasa el gazpacho a un recipiente hermético y refrigera un mínimo de 2 horas, idealmente 4, para que esté bien frío y los sabores se integren.",
+          "durationSeconds": 7200,
+          "temperature": "Nevera",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Recipiente hermético",
+          "mode": "Reposo en frío"
+        },
+        {
+          "order": 8,
+          "instruction": "Remueve suavemente y sirve en vasitos fríos o cuencos. Decora con unas gotas de aceite y microbrotes. Si eliges langostino, utiliza únicamente langostino ya cocido, mantenlo refrigerado y colócalo en una brocheta justo antes de servir.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Vasos o cuencos fríos",
+          "mode": "Presentación"
         }
       ]
     }
