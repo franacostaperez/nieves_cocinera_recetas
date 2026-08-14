@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 11,
+  "catalogVersion": 12,
   "recipes": [
     {
       "allergens": [
@@ -1522,6 +1522,290 @@
           "reverse": false,
           "accessory": "Rejilla",
           "mode": "Enfriado"
+        }
+      ]
+    },
+    {
+      "id": "rollitos-conejos-pascua-panasonic",
+      "revision": 1,
+      "name": "Rollitos de conejos de Pascua dulces o salados",
+      "description": "Rollitos con forma de conejito en dos versiones, dulce de canela y salada de pimentón y parmesano. La masa se prepara en la Panasonic SD-YR2550SXE con el menú 29 y se termina en horno.",
+      "appliance": "Panificadora Panasonic",
+      "category": "Panes",
+      "servings": 12,
+      "prepMinutes": 40,
+      "cookMinutes": 10,
+      "difficulty": "Fácil",
+      "estimatedCost": 7.5,
+      "caloriesPerServing": 330,
+      "allergens": [
+        "Gluten",
+        "Lácteos",
+        "Huevo"
+      ],
+      "tips": "La Panasonic SD-YR2550SXE prepara esta masa con el menú 29 «Amasado de pasteles» durante 20 minutos. La receta usa levadura química, no levadura seca de panadería: añádela a la cubeta y no al dispensador de levadura. Vigila el horno desde el minuto 12 si utilizas la alternativa convencional. Receta adaptada de Panasonic Experience Fresh.",
+      "variants": "Puedes preparar las dos mitades como indica la receta o hacer toda la masa dulce o salada, duplicando el relleno y la cobertura elegidos. Acabado original: microondas combinado Panasonic, COMBI 10, convección a 190 °C y microondas a 300 W durante 9 minutos. Alternativa: horno convencional precalentado a 190 °C durante 14-18 minutos, hasta que estén dorados y cocidos en el centro.",
+      "storage": "Conserva los rollitos ya fríos hasta 2 días en un recipiente hermético. Guarda en la nevera los salados que lleven cobertura de queso y consúmelos en 24 horas.",
+      "freezing": "Congela los rollitos horneados sin cobertura hasta 1 mes. Descongélalos y caliéntalos antes de añadir la cobertura.",
+      "reheating": "Calienta 4-6 minutos a 160 °C. Añade o renueva la cobertura después de calentarlos.",
+      "tags": [
+        "Panasonic SD-YR2550SXE",
+        "menú 29",
+        "Pascua",
+        "rollitos",
+        "dulce y salado",
+        "Panasonic Experience Fresh"
+      ],
+      "ingredients": [
+        {
+          "name": "Harina de trigo",
+          "quantity": 450,
+          "unit": "g",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": "Para la masa"
+        },
+        {
+          "name": "Leche",
+          "quantity": 170,
+          "unit": "ml",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": "Para la masa"
+        },
+        {
+          "name": "Mantequilla",
+          "quantity": 60,
+          "unit": "g",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": "Blanda; para la masa"
+        },
+        {
+          "name": "Azúcar blanco",
+          "quantity": 25,
+          "unit": "g",
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "note": "Para la masa"
+        },
+        {
+          "name": "Levadura química",
+          "quantity": 2,
+          "unit": "cdta",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": "Para la masa; no usar el dispensador de levadura"
+        },
+        {
+          "name": "Huevo",
+          "quantity": 1,
+          "unit": "ud",
+          "category": "Huevos",
+          "isPantryBasic": false,
+          "note": "Para la masa"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "cdta",
+          "category": "Especias",
+          "isPantryBasic": true,
+          "note": "Para la masa"
+        },
+        {
+          "name": "Azúcar blanco",
+          "quantity": 50,
+          "unit": "g",
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "note": "Para el relleno dulce"
+        },
+        {
+          "name": "Azúcar moreno",
+          "quantity": 50,
+          "unit": "g",
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "note": "Para el relleno dulce"
+        },
+        {
+          "name": "Canela molida",
+          "quantity": 1,
+          "unit": "cdta",
+          "category": "Especias",
+          "isPantryBasic": false,
+          "note": "Para el relleno dulce"
+        },
+        {
+          "name": "Azúcar glas",
+          "quantity": 140,
+          "unit": "g",
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "note": "Para la cobertura dulce"
+        },
+        {
+          "name": "Agua",
+          "quantity": 30,
+          "unit": "g",
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "note": "Para la cobertura dulce"
+        },
+        {
+          "name": "Pimentón",
+          "quantity": 1,
+          "unit": "cdta",
+          "category": "Especias",
+          "isPantryBasic": false,
+          "note": "Para el relleno salado"
+        },
+        {
+          "name": "Ajo en polvo",
+          "quantity": 1,
+          "unit": "cdta",
+          "category": "Especias",
+          "isPantryBasic": false,
+          "note": "Para el relleno salado"
+        },
+        {
+          "name": "Perejil picado",
+          "quantity": 1,
+          "unit": "pizca",
+          "category": "Especias",
+          "isPantryBasic": false,
+          "note": "Para el relleno salado"
+        },
+        {
+          "name": "Aceite de oliva",
+          "quantity": 1,
+          "unit": "cda",
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "note": "Para el relleno salado"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "pizca",
+          "category": "Especias",
+          "isPantryBasic": true,
+          "note": "Para el relleno salado"
+        },
+        {
+          "name": "Leche",
+          "quantity": 125,
+          "unit": "ml",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": "Para la cobertura salada"
+        },
+        {
+          "name": "Parmesano rallado",
+          "quantity": 30,
+          "unit": "g",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": "Para la cobertura salada"
+        },
+        {
+          "name": "Mantequilla",
+          "quantity": 10,
+          "unit": "g",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": "Para la cobertura salada"
+        },
+        {
+          "name": "Harina de trigo",
+          "quantity": 10,
+          "unit": "g",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": "Para la cobertura salada"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Extrae la cubeta y coloca la pala de amasado. Añade la harina, la levadura química, la leche, la mantequilla blanda, los 25 g de azúcar, el huevo y la cucharadita de sal. La levadura química va directamente en la cubeta; no uses el dispensador de levadura.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Cubeta y pala de amasado",
+          "mode": "Carga de ingredientes"
+        },
+        {
+          "order": 2,
+          "instruction": "Coloca y bloquea la cubeta. En la Panasonic SD-YR2550SXE selecciona el menú 29 «Amasado de pasteles» y amasa durante 20 minutos. Detén el programa al completar ese tiempo y extrae la masa.",
+          "durationSeconds": 1200,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Panasonic SD-YR2550SXE",
+          "mode": "Menú 29 · 20 minutos"
+        },
+        {
+          "order": 3,
+          "instruction": "Divide la masa en dos partes iguales. Con un rodillo, extiende cada mitad formando un rectángulo de aproximadamente 8 mm de grosor.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Rodillo y superficie enharinada",
+          "mode": "Formado"
+        },
+        {
+          "order": 4,
+          "instruction": "Para el relleno dulce, mezcla en un bol los 50 g de azúcar blanco, los 50 g de azúcar moreno y la canela. Para el relleno salado, mezcla en otro bol el pimentón, el ajo en polvo, el perejil, el aceite y una pizca de sal.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Dos boles",
+          "mode": "Preparación de rellenos"
+        },
+        {
+          "order": 5,
+          "instruction": "Reparte el relleno dulce sobre un rectángulo y el salado sobre el otro. Enrolla ambos desde el lado largo y córtalos en rodajas de unos 3 cm. Reserva algunos recortes o tiras de masa de unos 2 cm, dóblalos y colócalos sobre cada rollito para formar las orejas.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Cuchillo y bandeja",
+          "mode": "Formado de conejitos"
+        },
+        {
+          "order": 6,
+          "instruction": "Coloca los conejitos separados sobre papel de horno. Acabado original: usa un microondas combinado Panasonic con COMBI 10, convección a 190 °C y microondas a 300 W durante 9 minutos. Si utilizas horno convencional, precaliéntalo a 190 °C y hornéalos aproximadamente 14-18 minutos, hasta que estén dorados y el centro esté cocido.",
+          "durationSeconds": 900,
+          "temperature": "190 °C",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Microondas combinado u horno",
+          "mode": "COMBI 10 · 9 min / horno · 14-18 min"
+        },
+        {
+          "order": 7,
+          "instruction": "Mientras se hornean, prepara la cobertura dulce mezclando el azúcar glas con el agua hasta obtener un glaseado. Para la cobertura salada, derrite 10 g de mantequilla, añade 10 g de harina y cocina un minuto removiendo; incorpora poco a poco los 125 ml de leche, cocina hasta que espese y añade el parmesano.",
+          "durationSeconds": 300,
+          "temperature": "Fuego medio-bajo",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Bol, cazo y varillas",
+          "mode": "Coberturas"
+        },
+        {
+          "order": 8,
+          "instruction": "Deja reposar los rollitos 5 minutos. Vierte el glaseado sobre los dulces y la salsa de parmesano sobre los salados. Sirve templados.",
+          "durationSeconds": 300,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Rejilla o fuente",
+          "mode": "Acabado"
         }
       ]
     }
