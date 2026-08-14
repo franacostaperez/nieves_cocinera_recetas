@@ -1,5 +1,256 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 1,
-  "recipes": []
+  "catalogVersion": 2,
+  "recipes": [
+    {
+      "id": "ropa-vieja-canaria-thermomix",
+      "revision": 1,
+      "name": "Ropa vieja canaria",
+      "description": "Plato tradicional canario de garbanzos, carne desmenuzada, papas y sofrito, adaptado a Thermomix respetando la textura de cada ingrediente.",
+      "appliance": "Thermomix",
+      "category": "Legumbres",
+      "servings": 6,
+      "prepMinutes": 25,
+      "cookMinutes": 50,
+      "difficulty": "Media",
+      "estimatedCost": 12.5,
+      "caloriesPerServing": 520,
+      "allergens": [
+        "Sulfitos"
+      ],
+      "tips": "Usa carne ya cocida y fría para desmenuzarla fácilmente. Mantén siempre el giro inverso desde que incorpores la carne y los garbanzos; una velocidad alta los trituraría. Escurre bien los garbanzos para evitar exceso de líquido.",
+      "variants": "Puedes usar solo pollo, solo ternera o una mezcla de ambas carnes. Para una versión sin vino, sustitúyelo por la misma cantidad de caldo.",
+      "storage": "Conserva hasta 3 días en la nevera, en un recipiente hermético.",
+      "freezing": "Puede congelarse sin las papas durante un máximo de 2 meses. Añade papas recién hechas al servir.",
+      "reheating": "Calienta 8-10 minutos a 90 °C, giro inverso y velocidad cuchara, o suavemente en una sartén.",
+      "tags": [
+        "canaria",
+        "tradicional",
+        "garbanzos",
+        "aprovechamiento",
+        "Thermomix"
+      ],
+      "imageURL": null,
+      "ingredients": [
+        {
+          "name": "Carne de ternera cocida",
+          "quantity": 250,
+          "unit": "g",
+          "category": "Carnes y pescados",
+          "isPantryBasic": false,
+          "note": "Fría y en trozos"
+        },
+        {
+          "name": "Pollo cocido",
+          "quantity": 250,
+          "unit": "g",
+          "category": "Carnes y pescados",
+          "isPantryBasic": false,
+          "note": "Sin piel ni huesos"
+        },
+        {
+          "name": "Garbanzos cocidos",
+          "quantity": 500,
+          "unit": "g",
+          "category": "Conservas",
+          "isPantryBasic": false,
+          "note": "Aclarados y bien escurridos"
+        },
+        {
+          "name": "Papas",
+          "quantity": 600,
+          "unit": "g",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Peladas y cortadas en dados de 2 cm"
+        },
+        {
+          "name": "Cebolla",
+          "quantity": 180,
+          "unit": "g",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "En cuartos"
+        },
+        {
+          "name": "Pimiento rojo",
+          "quantity": 120,
+          "unit": "g",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "En trozos"
+        },
+        {
+          "name": "Pimiento verde",
+          "quantity": 100,
+          "unit": "g",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "En trozos"
+        },
+        {
+          "name": "Ajo",
+          "quantity": 3,
+          "unit": "ud",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Pelados"
+        },
+        {
+          "name": "Tomate triturado",
+          "quantity": 250,
+          "unit": "g",
+          "category": "Conservas",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Vino blanco",
+          "quantity": 80,
+          "unit": "ml",
+          "category": "Bebidas",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Caldo de carne o pollo",
+          "quantity": 100,
+          "unit": "ml",
+          "category": "Conservas",
+          "isPantryBasic": false,
+          "note": "Caliente"
+        },
+        {
+          "name": "Aceite de oliva",
+          "quantity": 50,
+          "unit": "g",
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "note": ""
+        },
+        {
+          "name": "Pimentón dulce",
+          "quantity": 1,
+          "unit": "cdta",
+          "category": "Especias",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Tomillo seco",
+          "quantity": 1,
+          "unit": "cdta",
+          "category": "Especias",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Laurel",
+          "quantity": 1,
+          "unit": "ud",
+          "category": "Especias",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "cdta",
+          "category": "Especias",
+          "isPantryBasic": true,
+          "note": "Ajustar al final"
+        },
+        {
+          "name": "Pimienta negra",
+          "quantity": 1,
+          "unit": "pizca",
+          "category": "Especias",
+          "isPantryBasic": true,
+          "note": ""
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Pon 500 g de agua en el vaso. Coloca las papas en el recipiente Varoma, procurando dejar libres algunas ranuras, sitúalo en su posición y cocina al vapor. Retira el Varoma con cuidado, desecha el agua del vaso y reserva las papas.",
+          "durationSeconds": 1500,
+          "temperature": "Varoma",
+          "speed": "2",
+          "reverse": false,
+          "accessory": "Varoma",
+          "mode": null
+        },
+        {
+          "order": 2,
+          "instruction": "Con el vaso limpio y seco, pon la ternera y el pollo cocidos. Desmenuza brevemente con giro inverso para separar las fibras sin convertir la carne en una pasta. Retira y reserva. Si quedan trozos grandes, sepáralos a mano.",
+          "durationSeconds": 4,
+          "temperature": null,
+          "speed": "4",
+          "reverse": true,
+          "accessory": null,
+          "mode": null
+        },
+        {
+          "order": 3,
+          "instruction": "Pon en el vaso la cebolla, los pimientos y los ajos. Trocea y baja los restos de las paredes con la espátula.",
+          "durationSeconds": 5,
+          "temperature": null,
+          "speed": "5",
+          "reverse": false,
+          "accessory": null,
+          "mode": null
+        },
+        {
+          "order": 4,
+          "instruction": "Añade el aceite y sofríe sin cubilete. Coloca el cestillo sobre la tapa para evitar salpicaduras.",
+          "durationSeconds": 600,
+          "temperature": "120 °C",
+          "speed": "1",
+          "reverse": false,
+          "accessory": "Cestillo sobre la tapa",
+          "mode": "Sofreír"
+        },
+        {
+          "order": 5,
+          "instruction": "Añade el tomate triturado, el pimentón, el tomillo, el laurel y la pimienta. Cocina con el cestillo sobre la tapa.",
+          "durationSeconds": 480,
+          "temperature": "120 °C",
+          "speed": "1",
+          "reverse": false,
+          "accessory": "Cestillo sobre la tapa",
+          "mode": null
+        },
+        {
+          "order": 6,
+          "instruction": "Vierte el vino blanco y cocina sin cubilete para favorecer la evaporación del alcohol, manteniendo el cestillo sobre la tapa.",
+          "durationSeconds": 300,
+          "temperature": "Varoma",
+          "speed": "1",
+          "reverse": false,
+          "accessory": "Cestillo sobre la tapa",
+          "mode": null
+        },
+        {
+          "order": 7,
+          "instruction": "Incorpora el caldo, la carne desmenuzada y los garbanzos. Mezcla y cocina suavemente con giro inverso para conservar los garbanzos enteros.",
+          "durationSeconds": 600,
+          "temperature": "100 °C",
+          "speed": "Cuchara",
+          "reverse": true,
+          "accessory": "Cubilete",
+          "mode": null
+        },
+        {
+          "order": 8,
+          "instruction": "Añade las papas cocidas reservadas. Mezcla con la espátula y calienta brevemente con giro inverso. Prueba y ajusta de sal. Deja reposar 5 minutos en una fuente antes de servir.",
+          "durationSeconds": 180,
+          "temperature": "100 °C",
+          "speed": "Cuchara",
+          "reverse": true,
+          "accessory": "Cubilete",
+          "mode": null
+        }
+      ]
+    }
+  ]
 }
