@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 8,
+  "catalogVersion": 9,
   "recipes": [
     {
       "allergens": [
@@ -759,6 +759,606 @@
           "speed": null,
           "reverse": false,
           "accessory": "Rejilla",
+          "mode": "Enfriado"
+        }
+      ]
+    },
+    {
+      "id": "pizza-napolitana-pesto-tomates-amarillos-burrata-panasonic",
+      "revision": 1,
+      "name": "Pizza napolitana con pesto, tomates amarillos y burrata",
+      "description": "Dos pizzas de fermentación lenta, con masa preparada en la Panasonic SD-YR2550SXE y terminadas en horno con tomate, burrata, pesto y albahaca.",
+      "appliance": "Panificadora Panasonic",
+      "category": "Pizzas",
+      "servings": 4,
+      "prepMinutes": 900,
+      "cookMinutes": 20,
+      "difficulty": "Media",
+      "estimatedCost": 13,
+      "caloriesPerServing": 720,
+      "allergens": [
+        "Gluten",
+        "Lácteos",
+        "Frutos secos"
+      ],
+      "tips": "Usa agua templada, nunca caliente, y mantén la levadura fresca separada de la sal al cargar la cubeta. Tras la fermentación, abre cada bola con las yemas desde el centro hacia fuera sin aplastar el borde. Receta adaptada de Panasonic Experience Fresh.",
+      "variants": "Sustituye los tomates amarillos por tomates cherry maduros si no los encuentras. Para una versión sin frutos secos, usa un pesto de albahaca específicamente certificado sin frutos secos.",
+      "storage": "Conserva la pizza ya horneada hasta 2 días en la nevera, bien tapada. La masa puede permanecer en frío hasta 24 horas en total.",
+      "freezing": "Congela las bolas de masa bien envueltas después del programa y antes de la fermentación final, hasta 1 mes. Descongela 24 horas en la nevera.",
+      "reheating": "Calienta 5-7 minutos a 190 °C sobre una bandeja ya caliente. Añade burrata fresca después de recalentar para que no pierda su textura.",
+      "tags": [
+        "Panasonic SD-YR2550SXE",
+        "masa de pizza",
+        "fermentación lenta",
+        "pizza",
+        "burrata",
+        "pesto",
+        "Panasonic Experience Fresh"
+      ],
+      "imageURL": "https://franacostaperez.github.io/nieves_cocinera_recetas/images/pizza-napolitana-pesto-tomates-amarillos-burrata.jpg",
+      "ingredients": [
+        {
+          "name": "Harina de trigo Manitoba",
+          "quantity": 300,
+          "unit": "g",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": "De fuerza"
+        },
+        {
+          "name": "Harina integral de trigo italiana tipo 1 o 2",
+          "quantity": 100,
+          "unit": "g",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Agua",
+          "quantity": 320,
+          "unit": "ml",
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "note": "Templada, aproximadamente 25-30 °C"
+        },
+        {
+          "name": "Aceite de oliva virgen extra",
+          "quantity": 16,
+          "unit": "ml",
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "note": "Para la masa"
+        },
+        {
+          "name": "Sal",
+          "quantity": 8,
+          "unit": "g",
+          "category": "Especias",
+          "isPantryBasic": true,
+          "note": ""
+        },
+        {
+          "name": "Levadura fresca de panadería",
+          "quantity": 10,
+          "unit": "g",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Salsa de tomate",
+          "quantity": 150,
+          "unit": "ml",
+          "category": "Conservas",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Tomates cherry amarillos",
+          "quantity": 100,
+          "unit": "g",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Cortados por la mitad"
+        },
+        {
+          "name": "Pesto de albahaca",
+          "quantity": 70,
+          "unit": "g",
+          "category": "Salsas",
+          "isPantryBasic": false,
+          "note": "Comprueba sus alérgenos"
+        },
+        {
+          "name": "Burrata pequeña",
+          "quantity": 2,
+          "unit": "ud",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Hojas de albahaca fresca",
+          "quantity": 12,
+          "unit": "ud",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Cantidad orientativa"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Extrae la cubeta e instala la pala de amasado. Vierte el agua templada y el aceite; añade las dos harinas. Coloca la sal en un extremo y la levadura fresca desmenuzada en el extremo opuesto, sin contacto directo.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Cubeta y pala de amasado",
+          "mode": "Carga de ingredientes"
+        },
+        {
+          "order": 2,
+          "instruction": "Coloca la cubeta, cierra la tapa y selecciona el programa «Masa de pizza» de la Panasonic SD-YR2550SXE. Deja que complete el ciclo. Al finalizar, la masa debe verse lisa, elástica y ligeramente pegajosa, pero despegarse de las paredes.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Panasonic SD-YR2550SXE",
+          "mode": "Masa de pizza"
+        },
+        {
+          "order": 3,
+          "instruction": "Pasa la masa a un recipiente ligeramente aceitado, tápalo sin comprimirla y refrigera 12 horas. Debe aumentar de volumen y mostrar pequeñas burbujas.",
+          "durationSeconds": 43200,
+          "temperature": "Nevera",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Recipiente con tapa",
+          "mode": "Fermentación en frío"
+        },
+        {
+          "order": 4,
+          "instruction": "Divide la masa en dos porciones iguales, forma bolas tensando suavemente la superficie y colócalas separadas en recipientes enharinados. Tapa y deja fermentar 2-3 horas a temperatura ambiente, hasta que estén aireadas y recuperen lentamente la forma al presionarlas.",
+          "durationSeconds": 9000,
+          "temperature": "Temperatura ambiente",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Dos recipientes",
+          "mode": "Fermentación final"
+        },
+        {
+          "order": 5,
+          "instruction": "Precalienta el horno a 220 °C con una bandeja o piedra en la parte baja. Sobre papel de horno, abre cada bola con las yemas desde el centro hacia fuera, conservando un borde de 1-2 cm. Reparte la salsa de tomate y los tomates amarillos.",
+          "durationSeconds": 1200,
+          "temperature": "Horno 220 °C",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Horno y papel de horno",
+          "mode": "Precalentado y formado"
+        },
+        {
+          "order": 6,
+          "instruction": "Hornea cada pizza unos 15 minutos en la zona baja. Pásala a la zona alta durante los últimos 5 minutos. Retírala cuando el borde esté inflado y dorado, la base firme y el tomate haya perdido el exceso de agua.",
+          "durationSeconds": 1200,
+          "temperature": "Horno 220 °C",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Bandeja o piedra",
+          "mode": "Horneado"
+        },
+        {
+          "order": 7,
+          "instruction": "Fuera del horno, reparte la burrata escurrida en trozos, el pesto y las hojas de albahaca. Sirve enseguida; no vuelvas a hornear la burrata.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Tabla de servir",
+          "mode": "Acabado"
+        }
+      ]
+    },
+    {
+      "id": "pan-arandanos-nueces-panasonic",
+      "revision": 1,
+      "name": "Pan con arándanos y nueces",
+      "description": "Pan tierno de leche y yogur con arándanos secos y nueces, preparado en la Panasonic SD-YR2550SXE con dispensadores automáticos.",
+      "appliance": "Panificadora Panasonic",
+      "category": "Panes",
+      "servings": 10,
+      "prepMinutes": 12,
+      "cookMinutes": 240,
+      "difficulty": "Media",
+      "estimatedCost": 5.5,
+      "caloriesPerServing": 230,
+      "allergens": [
+        "Gluten",
+        "Lácteos",
+        "Huevo",
+        "Frutos secos"
+      ],
+      "tips": "Todos los ingredientes deben estar a temperatura ambiente. Seca los arándanos si están húmedos y trocea las nueces sin pulverizarlas para que el dispensador funcione bien. Receta adaptada de Panasonic Experience Fresh.",
+      "variants": "Puedes sustituir los arándanos por pasas o albaricoques secos troceados, manteniendo un máximo total de 90 g entre fruta y nueces.",
+      "storage": "Conserva hasta 3 días a temperatura ambiente, completamente frío y en una bolsa o recipiente hermético.",
+      "freezing": "Congela en rebanadas hasta 2 meses, separadas con papel para poder sacar solo las necesarias.",
+      "reheating": "Tuesta las rebanadas directamente desde congeladas o caliéntalas 3-4 minutos a 160 °C.",
+      "tags": [
+        "Panasonic SD-YR2550SXE",
+        "pan con pasas",
+        "arándanos",
+        "nueces",
+        "pan dulce",
+        "Panasonic Experience Fresh"
+      ],
+      "imageURL": "https://franacostaperez.github.io/nieves_cocinera_recetas/images/pan-arandanos-nueces-panasonic.jpg",
+      "ingredients": [
+        {
+          "name": "Leche entera",
+          "quantity": 125,
+          "unit": "ml",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": "A temperatura ambiente"
+        },
+        {
+          "name": "Yogur natural sin azúcar",
+          "quantity": 125,
+          "unit": "g",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": "Un yogur"
+        },
+        {
+          "name": "Huevo",
+          "quantity": 1,
+          "unit": "ud",
+          "category": "Huevos",
+          "isPantryBasic": false,
+          "note": "Tamaño M, batido ligeramente"
+        },
+        {
+          "name": "Mantequilla",
+          "quantity": 30,
+          "unit": "g",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": "Blanda, a temperatura ambiente"
+        },
+        {
+          "name": "Harina de fuerza",
+          "quantity": 375,
+          "unit": "g",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Sal fina",
+          "quantity": 1,
+          "unit": "cdta",
+          "category": "Especias",
+          "isPantryBasic": true,
+          "note": "Cucharadita colmada"
+        },
+        {
+          "name": "Levadura seca de panadería",
+          "quantity": 1,
+          "unit": "cdta",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Azúcar",
+          "quantity": 1,
+          "unit": "cda",
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "note": ""
+        },
+        {
+          "name": "Arándanos rojos secos",
+          "quantity": 45,
+          "unit": "g",
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "note": "Sueltos y secos"
+        },
+        {
+          "name": "Nueces",
+          "quantity": 45,
+          "unit": "g",
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "note": "Troceadas gruesas"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Extrae la cubeta e instala firmemente la pala de amasado. Comprueba que los dispensadores estén limpios y secos.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Cubeta, pala y dispensadores",
+          "mode": "Preparación"
+        },
+        {
+          "order": 2,
+          "instruction": "Añade a la cubeta, en este orden, la leche, el yogur, el huevo y la mantequilla. Cubre los líquidos con la harina; coloca el azúcar y la sal en extremos separados sobre la harina.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Cubeta de la panificadora",
+          "mode": "Carga de ingredientes"
+        },
+        {
+          "order": 3,
+          "instruction": "Pon la levadura seca en el dispensador de levadura. Coloca los arándanos y las nueces troceadas en el dispensador de frutos secos, sin prensarlos y sin superar su capacidad.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Dispensadores automáticos",
+          "mode": "Dosificación"
+        },
+        {
+          "order": 4,
+          "instruction": "Coloca y bloquea la cubeta. Selecciona el programa «Pan con pasas», hogaza de 750 g y nivel de tostado bajo. Inicia el ciclo y no abras la tapa durante el levado.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Panasonic SD-YR2550SXE",
+          "mode": "Pan con pasas · 750 g · tostado bajo"
+        },
+        {
+          "order": 5,
+          "instruction": "Deja que la máquina complete amasado, incorporación automática, levado y horneado. Al finalizar, la parte superior debe estar firme y dorada y el pan debe desprenderse ligeramente de las paredes.",
+          "durationSeconds": 14400,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Panasonic SD-YR2550SXE",
+          "mode": "Programa automático"
+        },
+        {
+          "order": 6,
+          "instruction": "Con guantes, extrae la cubeta en cuanto termine y desmolda con cuidado. Si la pala queda en el pan, espera unos minutos y retírala con el gancho sin desgarrar la miga.",
+          "durationSeconds": 300,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Guantes y gancho para pala",
+          "mode": "Desmoldado"
+        },
+        {
+          "order": 7,
+          "instruction": "Enfría el pan sobre una rejilla al menos 60 minutos. Córtalo solo cuando la base ya no desprenda vapor y la miga esté asentada.",
+          "durationSeconds": 3600,
+          "temperature": "Temperatura ambiente",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Rejilla",
+          "mode": "Enfriado"
+        }
+      ]
+    },
+    {
+      "id": "pan-platano-panasonic",
+      "revision": 1,
+      "name": "Pan de plátano",
+      "description": "Bizcocho jugoso de plátano con nueces, pasas sultanas y semillas de amapola, horneado en la Panasonic SD-YR2550SXE mediante la función Solo horneado.",
+      "appliance": "Panificadora Panasonic",
+      "category": "Repostería",
+      "servings": 10,
+      "prepMinutes": 18,
+      "cookMinutes": 60,
+      "difficulty": "Fácil",
+      "estimatedCost": 8,
+      "caloriesPerServing": 380,
+      "allergens": [
+        "Gluten",
+        "Lácteos",
+        "Huevo",
+        "Frutos secos"
+      ],
+      "tips": "Usa plátanos muy maduros y pesa la harina después de tamizarla. En esta receta la mezcla se prepara fuera de la máquina: no uses un programa de amasado. Receta adaptada de Panasonic Experience Fresh.",
+      "variants": "Puedes omitir las semillas de amapola o sustituir las sultanas por arándanos secos. No aumentes la cantidad total de fruta y frutos secos para evitar una miga húmeda y pesada.",
+      "storage": "Conserva hasta 4 días, completamente frío y bien envuelto. En clima cálido, guárdalo en la nevera y déjalo templar antes de servir.",
+      "freezing": "Congela en rebanadas bien envueltas hasta 2 meses. Descongela a temperatura ambiente.",
+      "reheating": "Templa una rebanada 3-4 minutos a 150 °C o tuéstala suavemente. Evita recalentar la pieza completa varias veces.",
+      "tags": [
+        "Panasonic SD-YR2550SXE",
+        "Solo horneado",
+        "plátano",
+        "bizcocho",
+        "nueces",
+        "Panasonic Experience Fresh"
+      ],
+      "imageURL": "https://franacostaperez.github.io/nieves_cocinera_recetas/images/pan-platano-panasonic.jpg",
+      "ingredients": [
+        {
+          "name": "Mantequilla",
+          "quantity": 100,
+          "unit": "g",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": "Blanda, a temperatura ambiente"
+        },
+        {
+          "name": "Azúcar glas",
+          "quantity": 175,
+          "unit": "g",
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Huevo",
+          "quantity": 2,
+          "unit": "ud",
+          "category": "Huevos",
+          "isPantryBasic": false,
+          "note": "Tamaño L, batidos"
+        },
+        {
+          "name": "Harina de trigo con levadura incorporada",
+          "quantity": 200,
+          "unit": "g",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": "Tamizada"
+        },
+        {
+          "name": "Levadura química",
+          "quantity": 0.5,
+          "unit": "cdta",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Plátano maduro",
+          "quantity": 200,
+          "unit": "g",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Peso sin piel"
+        },
+        {
+          "name": "Yogur natural",
+          "quantity": 85,
+          "unit": "g",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Nuez moscada molida",
+          "quantity": 0.5,
+          "unit": "cdta",
+          "category": "Especias",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Pasas sultanas",
+          "quantity": 125,
+          "unit": "g",
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Nueces",
+          "quantity": 100,
+          "unit": "g",
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "note": "Tostadas, frías y troceadas"
+        },
+        {
+          "name": "Semillas de amapola",
+          "quantity": 50,
+          "unit": "g",
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "note": ""
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Tuesta ligeramente las nueces en una sartén seca y déjalas enfriar por completo. Extrae la cubeta de la panificadora, retira la pala de amasado y fórrala con papel de horno bien ajustado, sin que sobresalga por encima del borde.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Sartén, cubeta y papel de horno",
+          "mode": "Preparación"
+        },
+        {
+          "order": 2,
+          "instruction": "En un bol, bate la mantequilla blanda con el azúcar glas hasta obtener una crema pálida y esponjosa. Incorpora los huevos batidos poco a poco; si la mezcla parece cortarse, añade una cucharada de la harina.",
+          "durationSeconds": 300,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Bol y varillas",
+          "mode": "Batido"
+        },
+        {
+          "order": 3,
+          "instruction": "Tamiza juntos la harina con levadura y la levadura química. Incorpóralas en dos o tres tandas con una espátula, usando movimientos envolventes y sin batir en exceso.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Tamiz y espátula",
+          "mode": "Mezcla"
+        },
+        {
+          "order": 4,
+          "instruction": "Machaca los plátanos hasta obtener un puré con pequeños grumos. Mézclalo con el yogur y la nuez moscada; incorpóralo a la masa hasta que no queden vetas secas.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Bol y tenedor",
+          "mode": "Mezcla húmeda"
+        },
+        {
+          "order": 5,
+          "instruction": "Añade las sultanas, las nueces frías y las semillas de amapola. Remueve solo lo necesario para repartirlas de forma uniforme.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Espátula",
+          "mode": "Incorporación"
+        },
+        {
+          "order": 6,
+          "instruction": "Vierte la masa en la cubeta forrada y alisa la superficie. Golpea la cubeta una sola vez suavemente sobre la encimera para eliminar bolsas grandes de aire y vuelve a colocarla en la máquina.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Cubeta sin pala",
+          "mode": "Llenado"
+        },
+        {
+          "order": 7,
+          "instruction": "Selecciona la función «Solo horneado / Bake Only» y programa 60 minutos. Inicia el horneado con la tapa cerrada.",
+          "durationSeconds": 3600,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Panasonic SD-YR2550SXE",
+          "mode": "Solo horneado · 60 minutos"
+        },
+        {
+          "order": 8,
+          "instruction": "A los 45 minutos, abre brevemente y presiona con suavidad el centro: debe recuperar la forma. Comprueba también con una brocheta; si sale con masa húmeda, cierra y continúa, revisando cada 5 minutos hasta que salga con migas húmedas pero sin masa cruda.",
+          "durationSeconds": 900,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Brocheta",
+          "mode": "Control de cocción"
+        },
+        {
+          "order": 9,
+          "instruction": "Al terminar, extrae la cubeta con guantes y deja reposar 10 minutos. Desmolda tirando del papel y enfría sobre una rejilla al menos 60 minutos antes de cortar.",
+          "durationSeconds": 4200,
+          "temperature": "Temperatura ambiente",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Guantes y rejilla",
           "mode": "Enfriado"
         }
       ]
