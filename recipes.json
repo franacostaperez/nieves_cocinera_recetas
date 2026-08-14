@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 2,
+  "catalogVersion": 3,
   "recipes": [
     {
       "id": "ropa-vieja-canaria-thermomix",
-      "revision": 1,
+      "revision": 2,
       "name": "Ropa vieja canaria",
       "description": "Plato tradicional canario de garbanzos, carne desmenuzada, papas y sofrito, adaptado a Thermomix respetando la textura de cada ingrediente.",
       "appliance": "Thermomix",
@@ -30,7 +30,7 @@
         "aprovechamiento",
         "Thermomix"
       ],
-      "imageURL": null,
+      "imageURL": "https://franacostaperez.github.io/nieves_cocinera_recetas/images/ropa-vieja-canaria.jpg",
       "ingredients": [
         {
           "name": "Carne de ternera cocida",
