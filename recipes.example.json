@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 2,
+  "recipes": [
+    {
+      "id": "crema-puerro-remota",
+      "revision": 1,
+      "name": "Crema de puerro y manzana",
+      "description": "Crema suave con un punto dulce, preparada de forma segura en Thermomix.",
+      "appliance": "Thermomix",
+      "category": "Sopas y cremas",
+      "servings": 4,
+      "prepMinutes": 12,
+      "cookMinutes": 30,
+      "difficulty": "Fácil",
+      "estimatedCost": 6.5,
+      "caloriesPerServing": 230,
+      "allergens": ["Lácteos"],
+      "tips": "Espera un minuto antes de triturar una preparación caliente y aumenta la velocidad progresivamente.",
+      "variants": "Sustituye la nata por bebida vegetal sin azúcar.",
+      "storage": "Hasta 3 días refrigerada en un recipiente cerrado.",
+      "freezing": "Se puede congelar hasta 2 meses.",
+      "reheating": "Calienta suavemente y remueve antes de servir.",
+      "tags": ["vegetariana", "crema"],
+      "imageURL": null,
+      "ingredients": [
+        {"name":"Puerro","quantity":400,"unit":"g","category":"Frutas y verduras","isPantryBasic":false,"note":"Solo la parte blanca"},
+        {"name":"Manzana","quantity":1,"unit":"ud","category":"Frutas y verduras","isPantryBasic":false,"note":"Pelada y sin corazón"},
+        {"name":"Papa","quantity":180,"unit":"g","category":"Frutas y verduras","isPantryBasic":false,"note":"En dados"},
+        {"name":"Caldo vegetal","quantity":550,"unit":"ml","category":"Conservas","isPantryBasic":false,"note":""},
+        {"name":"Aceite de oliva","quantity":25,"unit":"g","category":"Despensa","isPantryBasic":true,"note":""},
+        {"name":"Nata para cocinar","quantity":60,"unit":"ml","category":"Lácteos","isPantryBasic":false,"note":""}
+      ],
+      "steps": [
+        {"order":1,"instruction":"Lava muy bien el puerro, pela la manzana y la papa y córtalos en trozos regulares.","durationSeconds":null,"temperature":null,"speed":null,"reverse":false,"accessory":null,"mode":null},
+        {"order":2,"instruction":"Pon el puerro y el aceite en el vaso y trocea.","durationSeconds":5,"temperature":null,"speed":"5","reverse":false,"accessory":null,"mode":null},
+        {"order":3,"instruction":"Baja los restos con la espátula y sofríe sin cubilete.","durationSeconds":420,"temperature":"120 °C","speed":"1","reverse":false,"accessory":null,"mode":null},
+        {"order":4,"instruction":"Añade la manzana, la papa y el caldo. Cocina con el cubilete colocado.","durationSeconds":1200,"temperature":"100 °C","speed":"1","reverse":false,"accessory":null,"mode":null},
+        {"order":5,"instruction":"Deja que baje ligeramente la temperatura durante un minuto. Añade la nata y tritura aumentando la velocidad de forma progresiva.","durationSeconds":60,"temperature":null,"speed":"5-10 progresiva","reverse":false,"accessory":null,"mode":null},
+        {"order":6,"instruction":"Comprueba la textura, rectifica de sal y sirve.","durationSeconds":null,"temperature":null,"speed":null,"reverse":false,"accessory":null,"mode":null}
+      ]
+    }
+  ]
+}
