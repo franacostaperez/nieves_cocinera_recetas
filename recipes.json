@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 15,
+  "catalogVersion": 16,
   "recipes": [
     {
       "allergens": [
@@ -1657,6 +1657,211 @@
       "tips": "En la Panasonic SD-YR2550SXE, el programa 13 «Solo cocción» indicado para la Croustina equivale al menú 26 «Solo horneado». Retira la pala antes de verter la masa y no uses programas de amasado. El tiempo se configura en 1 hora y 30 minutos. Receta adaptada de Panasonic Experience Fresh.",
       "variants": "Puedes sustituir las pasas por arándanos secos. Si no encuentras malta de arroz, utiliza una capa muy fina de sirope de arce o de agave para dar brillo a la manzana. Comprueba que todos los ingredientes alternativos sean veganos si deseas mantener esa característica.",
       "imageURL": "https://raw.githubusercontent.com/franacostaperez/nieves_cocinera_recetas/main/images/bizcocho-almendra-manzana-panasonic.jpg"
+    },
+    {
+      "id": "gazpacho-gourmet-jamon-thermomix",
+      "revision": 1,
+      "name": "Gazpacho gourmet con crujiente de jamón",
+      "description": "Gazpacho andaluz fino y sin pan, emulsionado en Thermomix y servido con crujiente de jamón serrano preparado en air fryer, brunoise fresca y aceite de oliva.",
+      "appliance": "Thermomix",
+      "category": "Sopas y cremas",
+      "servings": 6,
+      "prepMinutes": 20,
+      "cookMinutes": 8,
+      "difficulty": "Media",
+      "estimatedCost": 9.5,
+      "caloriesPerServing": 205,
+      "allergens": [],
+      "tips": "Utiliza tomates muy maduros y fríos. Añade el aceite después del triturado para lograr una emulsión fina y brillante. El jamón se prepara y conserva aparte hasta servir; triturarlo dentro del gazpacho aportaría demasiada sal y estropearía la textura. Revisa la etiqueta del jamón si necesitas evitar sulfitos u otros aditivos.",
+      "variants": "Para una textura ligeramente más densa puedes añadir 10-15 g de miga blanca remojada; en ese caso la receta contendrá gluten. Para una versión vegetariana, sustituye el jamón por almendra laminada tostada.",
+      "storage": "Conserva el gazpacho sin guarnición hasta 2 días en la nevera, en un recipiente hermético. Guarda el jamón crujiente por separado a temperatura ambiente y consúmelo el mismo día.",
+      "freezing": "No se recomienda congelarlo porque la emulsión puede separarse y las verduras pierden frescura.",
+      "reheating": "No necesita recalentado. Sírvelo frío, pero sácalo 5 minutos antes si está excesivamente helado; remueve o mezcla suavemente antes de emplatar.",
+      "tags": [
+        "Thermomix",
+        "gazpacho",
+        "jamón serrano",
+        "air fryer",
+        "sin pan",
+        "andaluz",
+        "gourmet",
+        "verano"
+      ],
+      "imageURL": "https://raw.githubusercontent.com/franacostaperez/nieves_cocinera_recetas/main/images/gazpacho-gourmet-jamon-thermomix.jpg",
+      "ingredients": [
+        {
+          "name": "Tomate pera maduro",
+          "quantity": 1000,
+          "unit": "g",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Frío; reserva unos dados para decorar"
+        },
+        {
+          "name": "Pepino",
+          "quantity": 100,
+          "unit": "g",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Pelado parcialmente; reserva 20 g para decorar"
+        },
+        {
+          "name": "Pimiento rojo",
+          "quantity": 80,
+          "unit": "g",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Sin semillas ni partes blancas"
+        },
+        {
+          "name": "Ajo",
+          "quantity": 0.5,
+          "unit": "ud",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Sin germen; ajusta al gusto"
+        },
+        {
+          "name": "Vinagre de Jerez",
+          "quantity": 25,
+          "unit": "ml",
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "note": ""
+        },
+        {
+          "name": "Sal fina",
+          "quantity": 8,
+          "unit": "g",
+          "category": "Especias",
+          "isPantryBasic": true,
+          "note": "Ajusta después de añadir el jamón"
+        },
+        {
+          "name": "Aceite de oliva virgen extra",
+          "quantity": 80,
+          "unit": "ml",
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "note": "Más unas gotas para emplatar"
+        },
+        {
+          "name": "Agua muy fría",
+          "quantity": 60,
+          "unit": "ml",
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "note": "Añadir poco a poco según la densidad"
+        },
+        {
+          "name": "Jamón serrano en lonchas finas",
+          "quantity": 60,
+          "unit": "g",
+          "category": "Carnes y pescados",
+          "isPantryBasic": false,
+          "note": "Para el crujiente"
+        },
+        {
+          "name": "Microbrotes",
+          "quantity": 10,
+          "unit": "g",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Opcionales, para decorar"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Lava y seca las verduras. Reserva unos dados pequeños de tomate y 20 g de pepino para el emplatado. Corta el resto del tomate, pepino y pimiento en trozos; retira el germen del ajo.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Tabla y cuchillo",
+          "mode": "Preparación"
+        },
+        {
+          "order": 2,
+          "instruction": "Pon en el vaso el tomate, el pepino, el pimiento, el ajo, el vinagre y la sal. Tritura primero 1 minuto a velocidad 5 para romper las verduras de forma uniforme.",
+          "durationSeconds": 60,
+          "temperature": null,
+          "speed": "5",
+          "reverse": false,
+          "accessory": "Cubilete",
+          "mode": "Triturado inicial"
+        },
+        {
+          "order": 3,
+          "instruction": "Coloca el cubilete y tritura 2 minutos a velocidad 10. La mezcla debe quedar completamente lisa, sin fragmentos visibles de piel. Nunca realices este triturado con ingredientes calientes.",
+          "durationSeconds": 120,
+          "temperature": null,
+          "speed": "10",
+          "reverse": false,
+          "accessory": "Cubilete",
+          "mode": "Triturado fino"
+        },
+        {
+          "order": 4,
+          "instruction": "Programa 1 minuto a velocidad 5. Con el cubilete puesto, vierte lentamente el aceite sobre la tapa para que caiga en hilo y emulsione. El gazpacho debe adquirir un color ligeramente más anaranjado y una textura sedosa.",
+          "durationSeconds": 60,
+          "temperature": null,
+          "speed": "5",
+          "reverse": false,
+          "accessory": "Cubilete",
+          "mode": "Emulsionado"
+        },
+        {
+          "order": 5,
+          "instruction": "Añade primero 30 ml de agua fría y mezcla 15 segundos a velocidad 3. Comprueba la densidad y añade el resto solo si lo deseas más fluido. Prueba y corrige de sal o vinagre teniendo en cuenta que el jamón añadirá sal al servir.",
+          "durationSeconds": 15,
+          "temperature": null,
+          "speed": "3",
+          "reverse": false,
+          "accessory": "Cubilete",
+          "mode": "Ajuste"
+        },
+        {
+          "order": 6,
+          "instruction": "Para un acabado especialmente fino, pasa el gazpacho por un colador de malla fina, presionando con un cucharón. Refrigera al menos 2 horas en un recipiente tapado.",
+          "durationSeconds": 7200,
+          "temperature": "Nevera",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Colador fino",
+          "mode": "Enfriado"
+        },
+        {
+          "order": 7,
+          "instruction": "Coloca las lonchas de jamón separadas en la cesta de la air fryer. Si son muy ligeras, sujétalas con una rejilla compatible; no uses papel suelto que pueda levantarse hacia la resistencia. Cocina a 180 °C durante 5-8 minutos, vigilando desde el minuto 5.",
+          "durationSeconds": 420,
+          "temperature": "180 °C",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Air fryer y rejilla compatible",
+          "mode": "Crujiente de jamón"
+        },
+        {
+          "order": 8,
+          "instruction": "Retira el jamón cuando esté seco y ligeramente dorado, pero no oscuro. Déjalo enfriar sobre papel absorbente: se volverá más crujiente al perder temperatura. Reserva algunas láminas enteras y rompe el resto en migas.",
+          "durationSeconds": 300,
+          "temperature": "Temperatura ambiente",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Papel absorbente",
+          "mode": "Enfriado del jamón"
+        },
+        {
+          "order": 9,
+          "instruction": "Remueve el gazpacho frío y repártelo en platos. Coloca en el centro la brunoise reservada, una lámina de jamón en vertical y unas pocas migas. Termina con gotas de aceite y microbrotes. Sirve inmediatamente para que el jamón permanezca crujiente.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Platos fríos",
+          "mode": "Emplatado"
+        }
+      ]
     }
   ],
   "schemaVersion": 1
