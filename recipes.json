@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 4,
+  "catalogVersion": 5,
   "recipes": [
     {
       "id": "ropa-vieja-canaria-thermomix",
@@ -434,6 +434,168 @@
           "speed": "Cuchara",
           "reverse": true,
           "accessory": "Cubilete",
+          "mode": null
+        }
+      ]
+    },
+    {
+      "id": "gofio-escaldado-vitroceramica",
+      "revision": 1,
+      "name": "Gofio escaldado canario",
+      "description": "Preparación canaria tradicional de gofio de millo escaldado con caldo de pescado aromático, servida con gajos de cebolla roja.",
+      "appliance": "Vitrocerámica",
+      "category": "Entrantes",
+      "servings": 6,
+      "prepMinutes": 10,
+      "cookMinutes": 15,
+      "difficulty": "Fácil",
+      "estimatedCost": 5.5,
+      "caloriesPerServing": 225,
+      "allergens": [
+        "Pescado",
+        "Revisar posibles trazas de gluten en el gofio"
+      ],
+      "tips": "La cantidad exacta de caldo depende de la molienda y del tostado del gofio. Añádelo gradualmente: la textura correcta es espesa, lisa y húmeda, y el surco de la cuchara permanece visible. No hiervas el gofio directamente en el cazo.",
+      "variants": "Para un sabor más suave usa caldo de verduras, aunque dejará de ser la versión marinera tradicional. Puedes omitir la hierbabuena o sustituirla por unas hojas de cilantro.",
+      "storage": "Guarda hasta 2 días en la nevera, bien tapado. Se endurece al enfriarse; recupera la textura mezclando pequeñas cantidades de caldo caliente.",
+      "freezing": "No se recomienda congelarlo porque pierde su textura cremosa y puede quedar granuloso.",
+      "reheating": "Templa en un cazo a potencia baja (2-3 de 9), removiendo y añadiendo caldo poco a poco. No dejes que hierva.",
+      "tags": [
+        "canaria",
+        "tradicional",
+        "gofio",
+        "vitrocerámica",
+        "millo",
+        "pescado"
+      ],
+      "imageURL": "https://franacostaperez.github.io/nieves_cocinera_recetas/images/gofio-escaldado-vitroceramica.jpg",
+      "ingredients": [
+        {
+          "name": "Gofio de millo",
+          "quantity": 300,
+          "unit": "g",
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "note": "Preferiblemente de tueste medio"
+        },
+        {
+          "name": "Caldo de pescado",
+          "quantity": 800,
+          "unit": "ml",
+          "category": "Conservas",
+          "isPantryBasic": false,
+          "note": "Colado y con poca sal"
+        },
+        {
+          "name": "Ajo",
+          "quantity": 2,
+          "unit": "ud",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Pelados y ligeramente aplastados"
+        },
+        {
+          "name": "Hierbabuena",
+          "quantity": 1,
+          "unit": "ud",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Una ramita, opcional"
+        },
+        {
+          "name": "Cebolla roja",
+          "quantity": 1,
+          "unit": "ud",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Cortada en gajos para acompañar"
+        },
+        {
+          "name": "Aceite de oliva virgen extra",
+          "quantity": 15,
+          "unit": "ml",
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "note": "Opcional, para terminar"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "pizca",
+          "category": "Especias",
+          "isPantryBasic": true,
+          "note": "Solo si el caldo lo necesita"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Vierte el caldo en un cazo de 1,5-2 litros. Añade los ajos aplastados y la hierbabuena. Coloca el cazo en la zona de vitrocerámica y calienta a potencia media-alta (7 de 9) hasta que aparezca un hervor continuo.",
+          "durationSeconds": 420,
+          "temperature": "Potencia 7/9",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Cazo de 1,5-2 l",
+          "mode": "Calentar"
+        },
+        {
+          "order": 2,
+          "instruction": "Cuando hierva, baja a potencia media (4 de 9), tapa parcialmente y mantén un hervor suave durante 3 minutos. El caldo debe burbujear de forma regular sin desbordarse.",
+          "durationSeconds": 180,
+          "temperature": "Potencia 4/9",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Cazo parcialmente tapado",
+          "mode": "Hervor suave"
+        },
+        {
+          "order": 3,
+          "instruction": "Prueba el caldo y corrige de sal solo si es necesario. Apaga la vitrocerámica, retira inmediatamente el cazo de la zona caliente y cuela el caldo. Reserva unos 150 ml aparte para ajustar la textura.",
+          "durationSeconds": 60,
+          "temperature": "Fuera del fuego",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Colador y jarra resistente al calor",
+          "mode": null
+        },
+        {
+          "order": 4,
+          "instruction": "Pon el gofio en un lebrillo o cuenco amplio resistente al calor y forma un hueco en el centro. Vierte primero unos 500 ml de caldo muy caliente en hilo fino mientras remueves enérgicamente con una cuchara de madera desde el centro hacia fuera.",
+          "durationSeconds": 120,
+          "temperature": "Fuera del fuego",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Lebrillo o cuenco y cuchara de madera",
+          "mode": "Escaldar"
+        },
+        {
+          "order": 5,
+          "instruction": "Continúa añadiendo el caldo reservado en tandas de 30-50 ml y mezcla bien después de cada adición. Detente cuando no queden bolsas de gofio seco y la mezcla esté lisa, húmeda y suficientemente firme para que el surco de la cuchara permanezca visible.",
+          "durationSeconds": 180,
+          "temperature": "Fuera del fuego",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Cuchara de madera",
+          "mode": "Mezclar"
+        },
+        {
+          "order": 6,
+          "instruction": "Si queda demasiado espeso, incorpora una cucharada de caldo caliente cada vez. Si queda fluido, espolvorea una cucharada de gofio y mezcla antes de añadir más. Forma los surcos tradicionales en espiral y deja reposar 3 minutos, cubierto de manera suelta.",
+          "durationSeconds": 180,
+          "temperature": "Reposo",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Paño o tapa sin cerrar",
+          "mode": null
+        },
+        {
+          "order": 7,
+          "instruction": "Sirve templado en el mismo cuenco, con los gajos de cebolla roja al lado para usarlos como cuchara. Termina con un hilo fino de aceite de oliva si lo deseas.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": null,
           "mode": null
         }
       ]
