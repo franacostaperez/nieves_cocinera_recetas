@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 12,
+  "catalogVersion": 13,
   "recipes": [
     {
       "allergens": [
@@ -1806,6 +1806,245 @@
           "reverse": false,
           "accessory": "Rejilla o fuente",
           "mode": "Acabado"
+        }
+      ]
+    },
+    {
+      "id": "bizcocho-almendra-manzana-panasonic",
+      "revision": 1,
+      "name": "Bizcocho suave de almendra y manzana",
+      "description": "Bizcocho vegano de manzana, almendra, pasas y canela, mezclado a mano y horneado en la Panasonic SD-YR2550SXE con el menú 26 «Solo horneado».",
+      "appliance": "Panificadora Panasonic",
+      "category": "Repostería",
+      "servings": 10,
+      "prepMinutes": 25,
+      "cookMinutes": 90,
+      "difficulty": "Fácil",
+      "estimatedCost": 7,
+      "caloriesPerServing": 295,
+      "allergens": [
+        "Gluten",
+        "Frutos secos",
+        "Soja"
+      ],
+      "tips": "En la Panasonic SD-YR2550SXE, el programa 13 «Solo cocción» indicado para la Croustina equivale al menú 26 «Solo horneado». Retira la pala antes de verter la masa y no uses programas de amasado. El tiempo se configura en 1 hora y 30 minutos. Receta adaptada de Panasonic Experience Fresh.",
+      "variants": "Puedes sustituir las pasas por arándanos secos. Si no encuentras malta de arroz, utiliza una capa muy fina de sirope de arce o de agave para dar brillo a la manzana. Comprueba que todos los ingredientes alternativos sean veganos si deseas mantener esa característica.",
+      "storage": "Conserva el bizcocho completamente frío y bien tapado hasta 2 días a temperatura ambiente o 4 días en la nevera.",
+      "freezing": "Congela en rebanadas bien envueltas hasta 2 meses. Descongela a temperatura ambiente.",
+      "reheating": "Deja templar las porciones refrigeradas o caliéntalas 3-4 minutos a 150 °C.",
+      "tags": [
+        "Panasonic SD-YR2550SXE",
+        "menú 26",
+        "Solo horneado",
+        "bizcocho vegano",
+        "manzana",
+        "almendra",
+        "Panasonic Experience Fresh"
+      ],
+      "ingredients": [
+        {
+          "name": "Harina de trigo duro",
+          "quantity": 220,
+          "unit": "g",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": "Según la receta original"
+        },
+        {
+          "name": "Harina de almendras",
+          "quantity": 65,
+          "unit": "g",
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "note": "Almendra molida"
+        },
+        {
+          "name": "Crémor tártaro",
+          "quantity": 10,
+          "unit": "g",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": "Impulsor indicado en la receta original"
+        },
+        {
+          "name": "Pasas",
+          "quantity": 60,
+          "unit": "g",
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "note": "Remojadas y bien escurridas"
+        },
+        {
+          "name": "Azúcar de caña",
+          "quantity": 50,
+          "unit": "g",
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "note": "Reserva una pizca para decorar"
+        },
+        {
+          "name": "Bebida de soja",
+          "quantity": 260,
+          "unit": "ml",
+          "category": "Bebidas",
+          "isPantryBasic": false,
+          "note": "Sin azúcar"
+        },
+        {
+          "name": "Aceite de girasol",
+          "quantity": 80,
+          "unit": "g",
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "note": "De sabor suave"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "pizca",
+          "category": "Especias",
+          "isPantryBasic": true,
+          "note": ""
+        },
+        {
+          "name": "Canela molida",
+          "quantity": 1,
+          "unit": "cda",
+          "category": "Especias",
+          "isPantryBasic": false,
+          "note": "Reserva una pizca para decorar"
+        },
+        {
+          "name": "Limón",
+          "quantity": 0.5,
+          "unit": "ud",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Ralladura de la piel y zumo"
+        },
+        {
+          "name": "Vainilla",
+          "quantity": 1,
+          "unit": "pizca",
+          "category": "Especias",
+          "isPantryBasic": false,
+          "note": "Al gusto"
+        },
+        {
+          "name": "Manzana",
+          "quantity": 2,
+          "unit": "ud",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Una en dados y otra en láminas finas"
+        },
+        {
+          "name": "Almendras laminadas",
+          "quantity": 25,
+          "unit": "g",
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "note": "Cantidad orientativa para decorar"
+        },
+        {
+          "name": "Malta de arroz",
+          "quantity": 1,
+          "unit": "cda",
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "note": "Diluida con unas gotas de agua, para pincelar"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Pon las pasas en agua caliente durante 10 minutos. Después escúrrelas y sécalas bien. Ralla solo la parte amarilla de medio limón y exprime su zumo.",
+          "durationSeconds": 600,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Bol, colador y rallador",
+          "mode": "Preparación"
+        },
+        {
+          "order": 2,
+          "instruction": "En un bol grande mezcla la harina de trigo duro, la harina de almendras, el azúcar, la ralladura de limón, la sal, la vainilla, la canela y el crémor tártaro.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Bol grande y espátula",
+          "mode": "Ingredientes secos"
+        },
+        {
+          "order": 3,
+          "instruction": "En otro recipiente mezcla la bebida de soja con el zumo de medio limón y deja reposar 5 minutos. Añade el aceite de girasol y mezcla.",
+          "durationSeconds": 300,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Jarra o bol",
+          "mode": "Ingredientes líquidos"
+        },
+        {
+          "order": 4,
+          "instruction": "Vierte los líquidos sobre los ingredientes secos y mezcla con una espátula solo hasta obtener una masa homogénea. Incorpora las pasas escurridas y una de las manzanas cortada en dados pequeños.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Bol y espátula",
+          "mode": "Mezcla manual"
+        },
+        {
+          "order": 5,
+          "instruction": "Extrae la cubeta de la Panasonic SD-YR2550SXE y retira la pala de amasado. Forra la cubeta con papel de horno bien ajustado, sin que sobresalga por encima del borde, y vierte la masa. Alisa la superficie.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Cubeta sin pala y papel de horno",
+          "mode": "Llenado"
+        },
+        {
+          "order": 6,
+          "instruction": "Corta la segunda manzana en láminas finas y distribúyelas sobre la superficie. Pincélalas con la malta de arroz diluida con unas gotas de agua y termina con almendras laminadas y una pizca de canela y azúcar de caña.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Pincel de cocina",
+          "mode": "Decoración"
+        },
+        {
+          "order": 7,
+          "instruction": "Coloca y bloquea la cubeta. Selecciona el menú 26 «Solo horneado» de la Panasonic SD-YR2550SXE, ajusta 1 hora y 30 minutos y pulsa Inicio.",
+          "durationSeconds": 5400,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Panasonic SD-YR2550SXE",
+          "mode": "Menú 26 · Solo horneado · 90 minutos"
+        },
+        {
+          "order": 8,
+          "instruction": "Al finalizar, introduce una brocheta en el centro: debe salir sin masa cruda. Si aún está húmedo, programa unos minutos adicionales de «Solo horneado» y comprueba de nuevo sin superar la capacidad indicada por el manual.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Brocheta",
+          "mode": "Comprobación"
+        },
+        {
+          "order": 9,
+          "instruction": "Extrae la cubeta con guantes y deja reposar 5 minutos. Desmolda con cuidado, retira el papel y deja enfriar completamente sobre una rejilla antes de cortar.",
+          "durationSeconds": 300,
+          "temperature": "Temperatura ambiente",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Guantes y rejilla",
+          "mode": "Desmoldado y enfriado"
         }
       ]
     }
