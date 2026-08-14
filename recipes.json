@@ -1,604 +1,604 @@
 {
-  "catalogVersion" : 14,
-  "recipes" : [
+  "catalogVersion": 15,
+  "recipes": [
     {
-      "allergens" : [
+      "allergens": [
         "Sulfitos"
       ],
-      "appliance" : "Thermomix",
-      "caloriesPerServing" : 520,
-      "category" : "Legumbres",
-      "cookMinutes" : 50,
-      "description" : "Plato tradicional canario de garbanzos, carne desmenuzada, papas y sofrito, adaptado a Thermomix respetando la textura de cada ingrediente.",
-      "difficulty" : "Media",
-      "estimatedCost" : 12.5,
-      "freezing" : "Puede congelarse sin las papas durante un máximo de 2 meses. Añade papas recién hechas al servir.",
-      "id" : "ropa-vieja-canaria-thermomix",
-      "imageURL" : "https://franacostaperez.github.io/nieves_cocinera_recetas/images/ropa-vieja-canaria.jpg",
-      "ingredients" : [
+      "appliance": "Thermomix",
+      "caloriesPerServing": 520,
+      "category": "Legumbres",
+      "cookMinutes": 50,
+      "description": "Plato tradicional canario de garbanzos, carne desmenuzada, papas y sofrito, adaptado a Thermomix respetando la textura de cada ingrediente.",
+      "difficulty": "Media",
+      "estimatedCost": 12.5,
+      "freezing": "Puede congelarse sin las papas durante un máximo de 2 meses. Añade papas recién hechas al servir.",
+      "id": "ropa-vieja-canaria-thermomix",
+      "imageURL": "https://franacostaperez.github.io/nieves_cocinera_recetas/images/ropa-vieja-canaria.jpg",
+      "ingredients": [
         {
-          "category" : "Carnes y pescados",
-          "isPantryBasic" : false,
-          "name" : "Carne de ternera cocida",
-          "note" : "Fría y en trozos",
-          "quantity" : 250,
-          "unit" : "g"
+          "category": "Carnes y pescados",
+          "isPantryBasic": false,
+          "name": "Carne de ternera cocida",
+          "note": "Fría y en trozos",
+          "quantity": 250,
+          "unit": "g"
         },
         {
-          "category" : "Carnes y pescados",
-          "isPantryBasic" : false,
-          "name" : "Pollo cocido",
-          "note" : "Sin piel ni huesos",
-          "quantity" : 250,
-          "unit" : "g"
+          "category": "Carnes y pescados",
+          "isPantryBasic": false,
+          "name": "Pollo cocido",
+          "note": "Sin piel ni huesos",
+          "quantity": 250,
+          "unit": "g"
         },
         {
-          "category" : "Conservas",
-          "isPantryBasic" : false,
-          "name" : "Garbanzos cocidos",
-          "note" : "Aclarados y bien escurridos",
-          "quantity" : 500,
-          "unit" : "g"
+          "category": "Conservas",
+          "isPantryBasic": false,
+          "name": "Garbanzos cocidos",
+          "note": "Aclarados y bien escurridos",
+          "quantity": 500,
+          "unit": "g"
         },
         {
-          "category" : "Frutas y verduras",
-          "isPantryBasic" : false,
-          "name" : "Papas",
-          "note" : "Peladas y cortadas en dados de 2 cm",
-          "quantity" : 600,
-          "unit" : "g"
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "name": "Papas",
+          "note": "Peladas y cortadas en dados de 2 cm",
+          "quantity": 600,
+          "unit": "g"
         },
         {
-          "category" : "Frutas y verduras",
-          "isPantryBasic" : false,
-          "name" : "Cebolla",
-          "note" : "En cuartos",
-          "quantity" : 180,
-          "unit" : "g"
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "name": "Cebolla",
+          "note": "En cuartos",
+          "quantity": 180,
+          "unit": "g"
         },
         {
-          "category" : "Frutas y verduras",
-          "isPantryBasic" : false,
-          "name" : "Pimiento rojo",
-          "note" : "En trozos",
-          "quantity" : 120,
-          "unit" : "g"
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "name": "Pimiento rojo",
+          "note": "En trozos",
+          "quantity": 120,
+          "unit": "g"
         },
         {
-          "category" : "Frutas y verduras",
-          "isPantryBasic" : false,
-          "name" : "Pimiento verde",
-          "note" : "En trozos",
-          "quantity" : 100,
-          "unit" : "g"
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "name": "Pimiento verde",
+          "note": "En trozos",
+          "quantity": 100,
+          "unit": "g"
         },
         {
-          "category" : "Frutas y verduras",
-          "isPantryBasic" : false,
-          "name" : "Ajo",
-          "note" : "Pelados",
-          "quantity" : 3,
-          "unit" : "ud"
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "name": "Ajo",
+          "note": "Pelados",
+          "quantity": 3,
+          "unit": "ud"
         },
         {
-          "category" : "Conservas",
-          "isPantryBasic" : false,
-          "name" : "Tomate triturado",
-          "note" : "",
-          "quantity" : 250,
-          "unit" : "g"
+          "category": "Conservas",
+          "isPantryBasic": false,
+          "name": "Tomate triturado",
+          "note": "",
+          "quantity": 250,
+          "unit": "g"
         },
         {
-          "category" : "Bebidas",
-          "isPantryBasic" : false,
-          "name" : "Vino blanco",
-          "note" : "",
-          "quantity" : 80,
-          "unit" : "ml"
+          "category": "Bebidas",
+          "isPantryBasic": false,
+          "name": "Vino blanco",
+          "note": "",
+          "quantity": 80,
+          "unit": "ml"
         },
         {
-          "category" : "Conservas",
-          "isPantryBasic" : false,
-          "name" : "Caldo de carne o pollo",
-          "note" : "Caliente",
-          "quantity" : 100,
-          "unit" : "ml"
+          "category": "Conservas",
+          "isPantryBasic": false,
+          "name": "Caldo de carne o pollo",
+          "note": "Caliente",
+          "quantity": 100,
+          "unit": "ml"
         },
         {
-          "category" : "Despensa",
-          "isPantryBasic" : true,
-          "name" : "Aceite de oliva",
-          "note" : "",
-          "quantity" : 50,
-          "unit" : "g"
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "name": "Aceite de oliva",
+          "note": "",
+          "quantity": 50,
+          "unit": "g"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : false,
-          "name" : "Pimentón dulce",
-          "note" : "",
-          "quantity" : 1,
-          "unit" : "cdta"
+          "category": "Especias",
+          "isPantryBasic": false,
+          "name": "Pimentón dulce",
+          "note": "",
+          "quantity": 1,
+          "unit": "cdta"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : false,
-          "name" : "Tomillo seco",
-          "note" : "",
-          "quantity" : 1,
-          "unit" : "cdta"
+          "category": "Especias",
+          "isPantryBasic": false,
+          "name": "Tomillo seco",
+          "note": "",
+          "quantity": 1,
+          "unit": "cdta"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : false,
-          "name" : "Laurel",
-          "note" : "",
-          "quantity" : 1,
-          "unit" : "ud"
+          "category": "Especias",
+          "isPantryBasic": false,
+          "name": "Laurel",
+          "note": "",
+          "quantity": 1,
+          "unit": "ud"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : true,
-          "name" : "Sal",
-          "note" : "Ajustar al final",
-          "quantity" : 1,
-          "unit" : "cdta"
+          "category": "Especias",
+          "isPantryBasic": true,
+          "name": "Sal",
+          "note": "Ajustar al final",
+          "quantity": 1,
+          "unit": "cdta"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : true,
-          "name" : "Pimienta negra",
-          "note" : "",
-          "quantity" : 1,
-          "unit" : "pizca"
+          "category": "Especias",
+          "isPantryBasic": true,
+          "name": "Pimienta negra",
+          "note": "",
+          "quantity": 1,
+          "unit": "pizca"
         }
       ],
-      "name" : "Ropa vieja canaria",
-      "prepMinutes" : 25,
-      "reheating" : "Calienta 8-10 minutos a 90 °C, giro inverso y velocidad cuchara, o suavemente en una sartén.",
-      "revision" : 2,
-      "servings" : 6,
-      "steps" : [
+      "name": "Ropa vieja canaria",
+      "prepMinutes": 25,
+      "reheating": "Calienta 8-10 minutos a 90 °C, giro inverso y velocidad cuchara, o suavemente en una sartén.",
+      "revision": 2,
+      "servings": 6,
+      "steps": [
         {
-          "accessory" : "Varoma",
-          "durationSeconds" : 1500,
-          "instruction" : "Pon 500 g de agua en el vaso. Coloca las papas en el recipiente Varoma, procurando dejar libres algunas ranuras, sitúalo en su posición y cocina al vapor. Retira el Varoma con cuidado, desecha el agua del vaso y reserva las papas.",
-          "order" : 1,
-          "reverse" : false,
-          "speed" : "2",
-          "temperature" : "Varoma"
+          "accessory": "Varoma",
+          "durationSeconds": 1500,
+          "instruction": "Pon 500 g de agua en el vaso. Coloca las papas en el recipiente Varoma, procurando dejar libres algunas ranuras, sitúalo en su posición y cocina al vapor. Retira el Varoma con cuidado, desecha el agua del vaso y reserva las papas.",
+          "order": 1,
+          "reverse": false,
+          "speed": "2",
+          "temperature": "Varoma"
         },
         {
-          "durationSeconds" : 4,
-          "instruction" : "Con el vaso limpio y seco, pon la ternera y el pollo cocidos. Desmenuza brevemente con giro inverso para separar las fibras sin convertir la carne en una pasta. Retira y reserva. Si quedan trozos grandes, sepáralos a mano.",
-          "order" : 2,
-          "reverse" : true,
-          "speed" : "4"
+          "durationSeconds": 4,
+          "instruction": "Con el vaso limpio y seco, pon la ternera y el pollo cocidos. Desmenuza brevemente con giro inverso para separar las fibras sin convertir la carne en una pasta. Retira y reserva. Si quedan trozos grandes, sepáralos a mano.",
+          "order": 2,
+          "reverse": true,
+          "speed": "4"
         },
         {
-          "durationSeconds" : 5,
-          "instruction" : "Pon en el vaso la cebolla, los pimientos y los ajos. Trocea y baja los restos de las paredes con la espátula.",
-          "order" : 3,
-          "reverse" : false,
-          "speed" : "5"
+          "durationSeconds": 5,
+          "instruction": "Pon en el vaso la cebolla, los pimientos y los ajos. Trocea y baja los restos de las paredes con la espátula.",
+          "order": 3,
+          "reverse": false,
+          "speed": "5"
         },
         {
-          "accessory" : "Cestillo sobre la tapa",
-          "durationSeconds" : 600,
-          "instruction" : "Añade el aceite y sofríe sin cubilete. Coloca el cestillo sobre la tapa para evitar salpicaduras.",
-          "mode" : "Sofreír",
-          "order" : 4,
-          "reverse" : false,
-          "speed" : "1",
-          "temperature" : "120 °C"
+          "accessory": "Cestillo sobre la tapa",
+          "durationSeconds": 600,
+          "instruction": "Añade el aceite y sofríe sin cubilete. Coloca el cestillo sobre la tapa para evitar salpicaduras.",
+          "mode": "Sofreír",
+          "order": 4,
+          "reverse": false,
+          "speed": "1",
+          "temperature": "120 °C"
         },
         {
-          "accessory" : "Cestillo sobre la tapa",
-          "durationSeconds" : 480,
-          "instruction" : "Añade el tomate triturado, el pimentón, el tomillo, el laurel y la pimienta. Cocina con el cestillo sobre la tapa.",
-          "order" : 5,
-          "reverse" : false,
-          "speed" : "1",
-          "temperature" : "120 °C"
+          "accessory": "Cestillo sobre la tapa",
+          "durationSeconds": 480,
+          "instruction": "Añade el tomate triturado, el pimentón, el tomillo, el laurel y la pimienta. Cocina con el cestillo sobre la tapa.",
+          "order": 5,
+          "reverse": false,
+          "speed": "1",
+          "temperature": "120 °C"
         },
         {
-          "accessory" : "Cestillo sobre la tapa",
-          "durationSeconds" : 300,
-          "instruction" : "Vierte el vino blanco y cocina sin cubilete para favorecer la evaporación del alcohol, manteniendo el cestillo sobre la tapa.",
-          "order" : 6,
-          "reverse" : false,
-          "speed" : "1",
-          "temperature" : "Varoma"
+          "accessory": "Cestillo sobre la tapa",
+          "durationSeconds": 300,
+          "instruction": "Vierte el vino blanco y cocina sin cubilete para favorecer la evaporación del alcohol, manteniendo el cestillo sobre la tapa.",
+          "order": 6,
+          "reverse": false,
+          "speed": "1",
+          "temperature": "Varoma"
         },
         {
-          "accessory" : "Cubilete",
-          "durationSeconds" : 600,
-          "instruction" : "Incorpora el caldo, la carne desmenuzada y los garbanzos. Mezcla y cocina suavemente con giro inverso para conservar los garbanzos enteros.",
-          "order" : 7,
-          "reverse" : true,
-          "speed" : "Cuchara",
-          "temperature" : "100 °C"
+          "accessory": "Cubilete",
+          "durationSeconds": 600,
+          "instruction": "Incorpora el caldo, la carne desmenuzada y los garbanzos. Mezcla y cocina suavemente con giro inverso para conservar los garbanzos enteros.",
+          "order": 7,
+          "reverse": true,
+          "speed": "Cuchara",
+          "temperature": "100 °C"
         },
         {
-          "accessory" : "Cubilete",
-          "durationSeconds" : 180,
-          "instruction" : "Añade las papas cocidas reservadas. Mezcla con la espátula y calienta brevemente con giro inverso. Prueba y ajusta de sal. Deja reposar 5 minutos en una fuente antes de servir.",
-          "order" : 8,
-          "reverse" : true,
-          "speed" : "Cuchara",
-          "temperature" : "100 °C"
+          "accessory": "Cubilete",
+          "durationSeconds": 180,
+          "instruction": "Añade las papas cocidas reservadas. Mezcla con la espátula y calienta brevemente con giro inverso. Prueba y ajusta de sal. Deja reposar 5 minutos en una fuente antes de servir.",
+          "order": 8,
+          "reverse": true,
+          "speed": "Cuchara",
+          "temperature": "100 °C"
         }
       ],
-      "storage" : "Conserva hasta 3 días en la nevera, en un recipiente hermético.",
-      "tags" : [
+      "storage": "Conserva hasta 3 días en la nevera, en un recipiente hermético.",
+      "tags": [
         "canaria",
         "tradicional",
         "garbanzos",
         "aprovechamiento",
         "Thermomix"
       ],
-      "tips" : "Usa carne ya cocida y fría para desmenuzarla fácilmente. Mantén siempre el giro inverso desde que incorpores la carne y los garbanzos; una velocidad alta los trituraría. Escurre bien los garbanzos para evitar exceso de líquido.",
-      "variants" : "Puedes usar solo pollo, solo ternera o una mezcla de ambas carnes. Para una versión sin vino, sustitúyelo por la misma cantidad de caldo."
+      "tips": "Usa carne ya cocida y fría para desmenuzarla fácilmente. Mantén siempre el giro inverso desde que incorpores la carne y los garbanzos; una velocidad alta los trituraría. Escurre bien los garbanzos para evitar exceso de líquido.",
+      "variants": "Puedes usar solo pollo, solo ternera o una mezcla de ambas carnes. Para una versión sin vino, sustitúyelo por la misma cantidad de caldo."
     },
     {
-      "allergens" : [
+      "allergens": [
         "Lácteos",
         "Mostaza",
         "Sulfitos"
       ],
-      "appliance" : "Thermomix",
-      "caloriesPerServing" : 245,
-      "category" : "Salsas",
-      "cookMinutes" : 30,
-      "description" : "Salsa cremosa y aromática con pimienta verde y negra, ideal para solomillo, entrecot, cerdo o pollo, preparada íntegramente en Thermomix.",
-      "difficulty" : "Fácil",
-      "estimatedCost" : 6.5,
-      "freezing" : "Puede congelarse hasta 1 mes, aunque la textura puede separarse ligeramente. Emulsiona de nuevo al recalentar.",
-      "id" : "salsa-pimienta-carne-thermomix",
-      "imageURL" : "https://franacostaperez.github.io/nieves_cocinera_recetas/images/salsa-pimienta-thermomix.jpg",
-      "ingredients" : [
+      "appliance": "Thermomix",
+      "caloriesPerServing": 245,
+      "category": "Salsas",
+      "cookMinutes": 30,
+      "description": "Salsa cremosa y aromática con pimienta verde y negra, ideal para solomillo, entrecot, cerdo o pollo, preparada íntegramente en Thermomix.",
+      "difficulty": "Fácil",
+      "estimatedCost": 6.5,
+      "freezing": "Puede congelarse hasta 1 mes, aunque la textura puede separarse ligeramente. Emulsiona de nuevo al recalentar.",
+      "id": "salsa-pimienta-carne-thermomix",
+      "imageURL": "https://franacostaperez.github.io/nieves_cocinera_recetas/images/salsa-pimienta-thermomix.jpg",
+      "ingredients": [
         {
-          "category" : "Frutas y verduras",
-          "isPantryBasic" : false,
-          "name" : "Chalota",
-          "note" : "Pelada y en mitades",
-          "quantity" : 60,
-          "unit" : "g"
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "name": "Chalota",
+          "note": "Pelada y en mitades",
+          "quantity": 60,
+          "unit": "g"
         },
         {
-          "category" : "Lácteos",
-          "isPantryBasic" : false,
-          "name" : "Mantequilla",
-          "note" : "",
-          "quantity" : 25,
-          "unit" : "g"
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "name": "Mantequilla",
+          "note": "",
+          "quantity": 25,
+          "unit": "g"
         },
         {
-          "category" : "Despensa",
-          "isPantryBasic" : true,
-          "name" : "Aceite de oliva",
-          "note" : "",
-          "quantity" : 10,
-          "unit" : "g"
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "name": "Aceite de oliva",
+          "note": "",
+          "quantity": 10,
+          "unit": "g"
         },
         {
-          "category" : "Bebidas",
-          "isPantryBasic" : false,
-          "name" : "Brandy",
-          "note" : "",
-          "quantity" : 40,
-          "unit" : "ml"
+          "category": "Bebidas",
+          "isPantryBasic": false,
+          "name": "Brandy",
+          "note": "",
+          "quantity": 40,
+          "unit": "ml"
         },
         {
-          "category" : "Conservas",
-          "isPantryBasic" : false,
-          "name" : "Caldo de carne",
-          "note" : "Preferiblemente bajo en sal",
-          "quantity" : 120,
-          "unit" : "ml"
+          "category": "Conservas",
+          "isPantryBasic": false,
+          "name": "Caldo de carne",
+          "note": "Preferiblemente bajo en sal",
+          "quantity": 120,
+          "unit": "ml"
         },
         {
-          "category" : "Lácteos",
-          "isPantryBasic" : false,
-          "name" : "Nata para cocinar",
-          "note" : "Con al menos 18 % de materia grasa",
-          "quantity" : 250,
-          "unit" : "ml"
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "name": "Nata para cocinar",
+          "note": "Con al menos 18 % de materia grasa",
+          "quantity": 250,
+          "unit": "ml"
         },
         {
-          "category" : "Despensa",
-          "isPantryBasic" : false,
-          "name" : "Mostaza de Dijon",
-          "note" : "",
-          "quantity" : 1,
-          "unit" : "cdta"
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "name": "Mostaza de Dijon",
+          "note": "",
+          "quantity": 1,
+          "unit": "cdta"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : false,
-          "name" : "Pimienta verde en salmuera",
-          "note" : "Escurrida y enjuagada",
-          "quantity" : 20,
-          "unit" : "g"
+          "category": "Especias",
+          "isPantryBasic": false,
+          "name": "Pimienta verde en salmuera",
+          "note": "Escurrida y enjuagada",
+          "quantity": 20,
+          "unit": "g"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : false,
-          "name" : "Pimienta negra",
-          "note" : "Recién molida gruesa",
-          "quantity" : 1,
-          "unit" : "cdta"
+          "category": "Especias",
+          "isPantryBasic": false,
+          "name": "Pimienta negra",
+          "note": "Recién molida gruesa",
+          "quantity": 1,
+          "unit": "cdta"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : true,
-          "name" : "Sal",
-          "note" : "Ajustar al final",
-          "quantity" : 1,
-          "unit" : "pizca"
+          "category": "Especias",
+          "isPantryBasic": true,
+          "name": "Sal",
+          "note": "Ajustar al final",
+          "quantity": 1,
+          "unit": "pizca"
         }
       ],
-      "name" : "Salsa de pimienta para carne",
-      "prepMinutes" : 8,
-      "reheating" : "Calienta 6 minutos a 80 °C y velocidad 3. No dejes que hierva para evitar que la nata se corte.",
-      "revision" : 1,
-      "servings" : 6,
-      "steps" : [
+      "name": "Salsa de pimienta para carne",
+      "prepMinutes": 8,
+      "reheating": "Calienta 6 minutos a 80 °C y velocidad 3. No dejes que hierva para evitar que la nata se corte.",
+      "revision": 1,
+      "servings": 6,
+      "steps": [
         {
-          "durationSeconds" : 5,
-          "instruction" : "Pon la chalota en el vaso y trocea. Baja los restos de las paredes con la espátula.",
-          "order" : 1,
-          "reverse" : false,
-          "speed" : "5"
+          "durationSeconds": 5,
+          "instruction": "Pon la chalota en el vaso y trocea. Baja los restos de las paredes con la espátula.",
+          "order": 1,
+          "reverse": false,
+          "speed": "5"
         },
         {
-          "accessory" : "Cestillo sobre la tapa",
-          "durationSeconds" : 480,
-          "instruction" : "Añade la mantequilla y el aceite. Sofríe sin cubilete, colocando el cestillo sobre la tapa para evitar salpicaduras.",
-          "order" : 2,
-          "reverse" : false,
-          "speed" : "1",
-          "temperature" : "120 °C"
+          "accessory": "Cestillo sobre la tapa",
+          "durationSeconds": 480,
+          "instruction": "Añade la mantequilla y el aceite. Sofríe sin cubilete, colocando el cestillo sobre la tapa para evitar salpicaduras.",
+          "order": 2,
+          "reverse": false,
+          "speed": "1",
+          "temperature": "120 °C"
         },
         {
-          "accessory" : "Cestillo sobre la tapa",
-          "durationSeconds" : 240,
-          "instruction" : "Añade el brandy. Cocina sin cubilete para que se evapore el alcohol; mantén el cestillo sobre la tapa. No acerques ninguna llama al aparato.",
-          "order" : 3,
-          "reverse" : false,
-          "speed" : "1",
-          "temperature" : "Varoma"
+          "accessory": "Cestillo sobre la tapa",
+          "durationSeconds": 240,
+          "instruction": "Añade el brandy. Cocina sin cubilete para que se evapore el alcohol; mantén el cestillo sobre la tapa. No acerques ninguna llama al aparato.",
+          "order": 3,
+          "reverse": false,
+          "speed": "1",
+          "temperature": "Varoma"
         },
         {
-          "accessory" : "Cestillo sobre la tapa",
-          "durationSeconds" : 720,
-          "instruction" : "Incorpora el caldo, la nata, la mostaza y la pimienta negra. Cocina con el cestillo sobre la tapa para permitir una evaporación controlada.",
-          "order" : 4,
-          "reverse" : false,
-          "speed" : "2",
-          "temperature" : "98 °C"
+          "accessory": "Cestillo sobre la tapa",
+          "durationSeconds": 720,
+          "instruction": "Incorpora el caldo, la nata, la mostaza y la pimienta negra. Cocina con el cestillo sobre la tapa para permitir una evaporación controlada.",
+          "order": 4,
+          "reverse": false,
+          "speed": "2",
+          "temperature": "98 °C"
         },
         {
-          "accessory" : "Cubilete",
-          "durationSeconds" : 30,
-          "instruction" : "Deja reposar la salsa 2 minutos para que baje ligeramente la temperatura. Coloca el cubilete y tritura de forma progresiva para obtener una textura fina.",
-          "order" : 5,
-          "reverse" : false,
-          "speed" : "5-7 progresiva"
+          "accessory": "Cubilete",
+          "durationSeconds": 30,
+          "instruction": "Deja reposar la salsa 2 minutos para que baje ligeramente la temperatura. Coloca el cubilete y tritura de forma progresiva para obtener una textura fina.",
+          "order": 5,
+          "reverse": false,
+          "speed": "5-7 progresiva"
         },
         {
-          "accessory" : "Cubilete",
-          "durationSeconds" : 240,
-          "instruction" : "Añade la pimienta verde escurrida y mezcla suavemente con giro inverso para mantener los granos enteros.",
-          "order" : 6,
-          "reverse" : true,
-          "speed" : "Cuchara",
-          "temperature" : "90 °C"
+          "accessory": "Cubilete",
+          "durationSeconds": 240,
+          "instruction": "Añade la pimienta verde escurrida y mezcla suavemente con giro inverso para mantener los granos enteros.",
+          "order": 6,
+          "reverse": true,
+          "speed": "Cuchara",
+          "temperature": "90 °C"
         },
         {
-          "accessory" : "Cubilete",
-          "durationSeconds" : 15,
-          "instruction" : "Prueba y ajusta de sal. Sirve inmediatamente sobre la carne o conserva caliente a un máximo de 70 °C durante pocos minutos.",
-          "order" : 7,
-          "reverse" : true,
-          "speed" : "Cuchara"
+          "accessory": "Cubilete",
+          "durationSeconds": 15,
+          "instruction": "Prueba y ajusta de sal. Sirve inmediatamente sobre la carne o conserva caliente a un máximo de 70 °C durante pocos minutos.",
+          "order": 7,
+          "reverse": true,
+          "speed": "Cuchara"
         }
       ],
-      "storage" : "Hasta 3 días en la nevera, en un recipiente hermético.",
-      "tags" : [
+      "storage": "Hasta 3 días en la nevera, en un recipiente hermético.",
+      "tags": [
         "salsa",
         "carne",
         "pimienta",
         "Thermomix",
         "sin gluten"
       ],
-      "tips" : "La salsa espesa al enfriarse. Si queda demasiado densa, añade 20-30 ml de caldo caliente y mezcla 15 segundos a velocidad 3. Añade los granos de pimienta después de triturar para conservar su textura.",
-      "variants" : "Para una salsa más suave, reduce la pimienta verde a 12 g. Puedes sustituir el brandy por vino blanco seco o por caldo si prefieres evitar el alcohol."
+      "tips": "La salsa espesa al enfriarse. Si queda demasiado densa, añade 20-30 ml de caldo caliente y mezcla 15 segundos a velocidad 3. Añade los granos de pimienta después de triturar para conservar su textura.",
+      "variants": "Para una salsa más suave, reduce la pimienta verde a 12 g. Puedes sustituir el brandy por vino blanco seco o por caldo si prefieres evitar el alcohol."
     },
     {
-      "allergens" : [
+      "allergens": [
         "Gluten",
         "Lácteos",
         "Huevo",
         "Frutos secos"
       ],
-      "appliance" : "Panificadora Panasonic",
-      "caloriesPerServing" : 510,
-      "category" : "Meriendas",
-      "cookMinutes" : 12,
-      "description" : "Cookies tiernas con chocolate con leche, pecanas y almendras; la Panasonic SD-YR2550SXE prepara la masa con el menú 26 y el horneado se completa en horno convencional.",
-      "difficulty" : "Fácil",
-      "estimatedCost" : 14,
-      "freezing" : "La masa formada en rollo puede congelarse hasta 2 meses. Descongela una noche en la nevera antes de cortar y hornear.",
-      "id" : "cookies-chocolate-nueces-dulce-leche-panasonic",
-      "imageURL" : "https://franacostaperez.github.io/nieves_cocinera_recetas/images/cookies-chocolate-nueces-dulce-leche.jpg",
-      "ingredients" : [
+      "appliance": "Panificadora Panasonic",
+      "caloriesPerServing": 510,
+      "category": "Meriendas",
+      "cookMinutes": 12,
+      "description": "Cookies tiernas con chocolate con leche, pecanas y almendras; la Panasonic SD-YR2550SXE prepara la masa con el menú 26 y el horneado se completa en horno convencional.",
+      "difficulty": "Fácil",
+      "estimatedCost": 14,
+      "freezing": "La masa formada en rollo puede congelarse hasta 2 meses. Descongela una noche en la nevera antes de cortar y hornear.",
+      "id": "cookies-chocolate-nueces-dulce-leche-panasonic",
+      "imageURL": "https://franacostaperez.github.io/nieves_cocinera_recetas/images/cookies-chocolate-nueces-dulce-leche.jpg",
+      "ingredients": [
         {
-          "category" : "Lácteos",
-          "isPantryBasic" : false,
-          "name" : "Mantequilla",
-          "note" : "Blanda, cortada en dados",
-          "quantity" : 170,
-          "unit" : "g"
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "name": "Mantequilla",
+          "note": "Blanda, cortada en dados",
+          "quantity": 170,
+          "unit": "g"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : false,
-          "name" : "Vaina de vainilla",
-          "note" : "Solo las semillas",
-          "quantity" : 1,
-          "unit" : "ud"
+          "category": "Especias",
+          "isPantryBasic": false,
+          "name": "Vaina de vainilla",
+          "note": "Solo las semillas",
+          "quantity": 1,
+          "unit": "ud"
         },
         {
-          "category" : "Despensa",
-          "isPantryBasic" : false,
-          "name" : "Chocolate con leche",
-          "note" : "Picado en trozos pequeños",
-          "quantity" : 200,
-          "unit" : "g"
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "name": "Chocolate con leche",
+          "note": "Picado en trozos pequeños",
+          "quantity": 200,
+          "unit": "g"
         },
         {
-          "category" : "Despensa",
-          "isPantryBasic" : false,
-          "name" : "Azúcar moreno",
-          "note" : "",
-          "quantity" : 180,
-          "unit" : "g"
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "name": "Azúcar moreno",
+          "note": "",
+          "quantity": 180,
+          "unit": "g"
         },
         {
-          "category" : "Huevos",
-          "isPantryBasic" : false,
-          "name" : "Huevo",
-          "note" : "Tamaño M",
-          "quantity" : 1,
-          "unit" : "ud"
+          "category": "Huevos",
+          "isPantryBasic": false,
+          "name": "Huevo",
+          "note": "Tamaño M",
+          "quantity": 1,
+          "unit": "ud"
         },
         {
-          "category" : "Panadería",
-          "isPantryBasic" : false,
-          "name" : "Harina de trigo",
-          "note" : "",
-          "quantity" : 320,
-          "unit" : "g"
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "name": "Harina de trigo",
+          "note": "",
+          "quantity": 320,
+          "unit": "g"
         },
         {
-          "category" : "Panadería",
-          "isPantryBasic" : false,
-          "name" : "Levadura química",
-          "note" : "",
-          "quantity" : 1,
-          "unit" : "cdta"
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "name": "Levadura química",
+          "note": "",
+          "quantity": 1,
+          "unit": "cdta"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : false,
-          "name" : "Flor de sal",
-          "note" : "",
-          "quantity" : 1,
-          "unit" : "pizca"
+          "category": "Especias",
+          "isPantryBasic": false,
+          "name": "Flor de sal",
+          "note": "",
+          "quantity": 1,
+          "unit": "pizca"
         },
         {
-          "category" : "Frutos secos",
-          "isPantryBasic" : false,
-          "name" : "Pecanas y almendras",
-          "note" : "Picadas; para la masa",
-          "quantity" : 75,
-          "unit" : "g"
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "name": "Pecanas y almendras",
+          "note": "Picadas; para la masa",
+          "quantity": 75,
+          "unit": "g"
         },
         {
-          "category" : "Frutos secos",
-          "isPantryBasic" : false,
-          "name" : "Almendras",
-          "note" : "Enteras o troceadas; para decorar",
-          "quantity" : 60,
-          "unit" : "g"
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "name": "Almendras",
+          "note": "Enteras o troceadas; para decorar",
+          "quantity": 60,
+          "unit": "g"
         },
         {
-          "category" : "Lácteos",
-          "isPantryBasic" : false,
-          "name" : "Dulce de leche",
-          "note" : "Para decorar",
-          "quantity" : 165,
-          "unit" : "g"
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "name": "Dulce de leche",
+          "note": "Para decorar",
+          "quantity": 165,
+          "unit": "g"
         },
         {
-          "category" : "Frutos secos",
-          "isPantryBasic" : false,
-          "name" : "Crema de almendras",
-          "note" : "100 % almendra; para decorar",
-          "quantity" : 100,
-          "unit" : "g"
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "name": "Crema de almendras",
+          "note": "100 % almendra; para decorar",
+          "quantity": 100,
+          "unit": "g"
         }
       ],
-      "name" : "Cookies blandas de chocolate, nueces y dulce de leche",
-      "prepMinutes" : 60,
-      "reheating" : "Templa una cookie sin cobertura durante 3-4 minutos en horno a 150 °C. No calientes el dulce de leche en exceso.",
-      "revision" : 1,
-      "servings" : 12,
-      "steps" : [
+      "name": "Cookies blandas de chocolate, nueces y dulce de leche",
+      "prepMinutes": 60,
+      "reheating": "Templa una cookie sin cobertura durante 3-4 minutos en horno a 150 °C. No calientes el dulce de leche en exceso.",
+      "revision": 1,
+      "servings": 12,
+      "steps": [
         {
-          "accessory" : "Cubeta y pala de amasado",
-          "instruction" : "Ablanda la mantequilla a temperatura ambiente y córtala en dados. Pica por separado el chocolate y los 75 g de pecanas y almendras destinados a la masa. Instala la pala de amasado en la cubeta.",
-          "order" : 1,
-          "reverse" : false
+          "accessory": "Cubeta y pala de amasado",
+          "instruction": "Ablanda la mantequilla a temperatura ambiente y córtala en dados. Pica por separado el chocolate y los 75 g de pecanas y almendras destinados a la masa. Instala la pala de amasado en la cubeta.",
+          "order": 1,
+          "reverse": false
         },
         {
-          "accessory" : "Cubeta de la panificadora",
-          "instruction" : "Pon en la cubeta la levadura química, la harina, la mantequilla, las semillas de vainilla, el azúcar moreno y el huevo. Mantén reservados el chocolate y los frutos secos picados.",
-          "order" : 2,
-          "reverse" : false
+          "accessory": "Cubeta de la panificadora",
+          "instruction": "Pon en la cubeta la levadura química, la harina, la mantequilla, las semillas de vainilla, el azúcar moreno y el huevo. Mantén reservados el chocolate y los frutos secos picados.",
+          "order": 2,
+          "reverse": false
         },
         {
-          "accessory" : "Pala de amasado",
-          "durationSeconds" : 1800,
-          "instruction" : "Selecciona el menú 26 de la Panasonic SD-YR2550SXE y ajusta 30 minutos. Inicia el programa para mezclar y amasar.",
-          "mode" : "Menú 26 · 30 minutos",
-          "order" : 3,
-          "reverse" : false
+          "accessory": "Pala de amasado",
+          "durationSeconds": 1800,
+          "instruction": "Selecciona el menú 26 de la Panasonic SD-YR2550SXE y ajusta 30 minutos. Inicia el programa para mezclar y amasar.",
+          "mode": "Menú 26 · 30 minutos",
+          "order": 3,
+          "reverse": false
         },
         {
-          "accessory" : "Cubeta de la panificadora",
-          "instruction" : "Cuando hayan transcurrido aproximadamente 15 minutos, abre brevemente la tapa, incorpora el chocolate y los frutos secos picados y vuelve a cerrarla para que termine el programa.",
-          "mode" : "Mitad del menú 26",
-          "order" : 4,
-          "reverse" : false
+          "accessory": "Cubeta de la panificadora",
+          "instruction": "Cuando hayan transcurrido aproximadamente 15 minutos, abre brevemente la tapa, incorpora el chocolate y los frutos secos picados y vuelve a cerrarla para que termine el programa.",
+          "mode": "Mitad del menú 26",
+          "order": 4,
+          "reverse": false
         },
         {
-          "accessory" : "Papel reutilizable o film",
-          "durationSeconds" : 1800,
-          "instruction" : "Al finalizar, saca la masa, forma un cilindro compacto de unos 6 cm de diámetro y envuélvelo. Refrigera 30 minutos, hasta que esté firme y pueda cortarse sin deformarse.",
-          "mode" : "Reposo en frío",
-          "order" : 5,
-          "reverse" : false,
-          "temperature" : "Nevera"
+          "accessory": "Papel reutilizable o film",
+          "durationSeconds": 1800,
+          "instruction": "Al finalizar, saca la masa, forma un cilindro compacto de unos 6 cm de diámetro y envuélvelo. Refrigera 30 minutos, hasta que esté firme y pueda cortarse sin deformarse.",
+          "mode": "Reposo en frío",
+          "order": 5,
+          "reverse": false,
+          "temperature": "Nevera"
         },
         {
-          "accessory" : "Bandeja y papel de horno",
-          "durationSeconds" : 900,
-          "instruction" : "Durante los últimos 15 minutos de frío, precalienta un horno convencional a 180 °C, calor arriba y abajo. Cubre una bandeja con papel de horno.",
-          "mode" : "Horno convencional",
-          "order" : 6,
-          "reverse" : false,
-          "temperature" : "Horno 180 °C"
+          "accessory": "Bandeja y papel de horno",
+          "durationSeconds": 900,
+          "instruction": "Durante los últimos 15 minutos de frío, precalienta un horno convencional a 180 °C, calor arriba y abajo. Cubre una bandeja con papel de horno.",
+          "mode": "Horno convencional",
+          "order": 6,
+          "reverse": false,
+          "temperature": "Horno 180 °C"
         },
         {
-          "accessory" : "Bandeja y rejilla",
-          "durationSeconds" : 720,
-          "instruction" : "Corta el cilindro en 12 rodajas similares y colócalas separadas y alternadas en la bandeja. Hornea 12 minutos. Retíralas cuando los bordes estén asentados pero los centros aún se vean blandos. Déjalas 5 minutos en la bandeja y después enfríalas sobre rejilla.",
-          "mode" : "Hornear fuera de la panificadora",
-          "order" : 7,
-          "reverse" : false,
-          "temperature" : "Horno 180 °C"
+          "accessory": "Bandeja y rejilla",
+          "durationSeconds": 720,
+          "instruction": "Corta el cilindro en 12 rodajas similares y colócalas separadas y alternadas en la bandeja. Hornea 12 minutos. Retíralas cuando los bordes estén asentados pero los centros aún se vean blandos. Déjalas 5 minutos en la bandeja y después enfríalas sobre rejilla.",
+          "mode": "Hornear fuera de la panificadora",
+          "order": 7,
+          "reverse": false,
+          "temperature": "Horno 180 °C"
         },
         {
-          "accessory" : "Manga pastelera opcional",
-          "instruction" : "Cuando estén completamente frías, decora con pequeñas porciones de dulce de leche y crema de almendras. Termina con las almendras y alguna pecana, procurando que la cobertura no oculte toda la cookie.",
-          "order" : 8,
-          "reverse" : false
+          "accessory": "Manga pastelera opcional",
+          "instruction": "Cuando estén completamente frías, decora con pequeñas porciones de dulce de leche y crema de almendras. Termina con las almendras y alguna pecana, procurando que la cobertura no oculte toda la cookie.",
+          "order": 8,
+          "reverse": false
         }
       ],
-      "storage" : "Conserva las cookies sin cobertura hasta 4 días en un recipiente hermético. Una vez decoradas, mantenlas refrigeradas y consúmelas en 3 días.",
-      "tags" : [
+      "storage": "Conserva las cookies sin cobertura hasta 4 días en un recipiente hermético. Una vez decoradas, mantenlas refrigeradas y consúmelas en 3 días.",
+      "tags": [
         "Panasonic SD-YR2550SXE",
         "menú 26",
         "cookies",
@@ -606,136 +606,136 @@
         "nueces",
         "Panasonic Experience Fresh"
       ],
-      "tips" : "El menú 26 de la SD-YR2550SXE prepara la masa durante 30 minutos, pero no hornea estas cookies. Vigila el horno: deben salir con el borde asentado y el centro todavía blando, porque terminan de fijarse al enfriarse. Receta adaptada de Panasonic Experience Fresh.",
-      "variants" : "Puedes sustituir el chocolate con leche por chocolate negro. Para una presentación menos dulce, reduce el dulce de leche de la cobertura o sírvelo aparte."
+      "tips": "El menú 26 de la SD-YR2550SXE prepara la masa durante 30 minutos, pero no hornea estas cookies. Vigila el horno: deben salir con el borde asentado y el centro todavía blando, porque terminan de fijarse al enfriarse. Receta adaptada de Panasonic Experience Fresh.",
+      "variants": "Puedes sustituir el chocolate con leche por chocolate negro. Para una presentación menos dulce, reduce el dulce de leche de la cobertura o sírvelo aparte."
     },
     {
-      "allergens" : [
+      "allergens": [
         "Gluten",
         "Lácteos"
       ],
-      "appliance" : "Panificadora Panasonic",
-      "caloriesPerServing" : 165,
-      "category" : "Panes",
-      "cookMinutes" : 240,
-      "description" : "Pan blanco clásico de miga tierna y corteza dorada, adaptado a la Panasonic SD-YR2550SXE con el menú 1, tamaño M y dispensador de levadura.",
-      "difficulty" : "Fácil",
-      "estimatedCost" : 2.2,
-      "freezing" : "Congela el pan ya frío y cortado en rebanadas durante un máximo de 2 meses. Separa las rebanadas con papel para extraer solo las necesarias.",
-      "id" : "pan-blanco-basico-panasonic",
-      "imageURL" : "https://franacostaperez.github.io/nieves_cocinera_recetas/images/pan-blanco-basico-panasonic.jpg",
-      "ingredients" : [
+      "appliance": "Panificadora Panasonic",
+      "caloriesPerServing": 165,
+      "category": "Panes",
+      "cookMinutes": 240,
+      "description": "Pan blanco clásico de miga tierna y corteza dorada, adaptado a la Panasonic SD-YR2550SXE con el menú 1, tamaño M y dispensador de levadura.",
+      "difficulty": "Fácil",
+      "estimatedCost": 2.2,
+      "freezing": "Congela el pan ya frío y cortado en rebanadas durante un máximo de 2 meses. Separa las rebanadas con papel para extraer solo las necesarias.",
+      "id": "pan-blanco-basico-panasonic",
+      "imageURL": "https://franacostaperez.github.io/nieves_cocinera_recetas/images/pan-blanco-basico-panasonic.jpg",
+      "ingredients": [
         {
-          "category" : "Panadería",
-          "isPantryBasic" : false,
-          "name" : "Harina blanca de fuerza",
-          "note" : "Harina de fuerza para pan",
-          "quantity" : 400,
-          "unit" : "g"
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "name": "Harina blanca de fuerza",
+          "note": "Harina de fuerza para pan",
+          "quantity": 400,
+          "unit": "g"
         },
         {
-          "category" : "Lácteos",
-          "isPantryBasic" : false,
-          "name" : "Mantequilla",
-          "note" : "Cortada en dados pequeños",
-          "quantity" : 20,
-          "unit" : "g"
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "name": "Mantequilla",
+          "note": "Cortada en dados pequeños",
+          "quantity": 20,
+          "unit": "g"
         },
         {
-          "category" : "Despensa",
-          "isPantryBasic" : true,
-          "name" : "Azúcar",
-          "note" : "Cucharada rasa",
-          "quantity" : 1,
-          "unit" : "cda"
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "name": "Azúcar",
+          "note": "Cucharada rasa",
+          "quantity": 1,
+          "unit": "cda"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : true,
-          "name" : "Sal",
-          "note" : "Cucharaditas rasas",
-          "quantity" : 1.5,
-          "unit" : "cdta"
+          "category": "Especias",
+          "isPantryBasic": true,
+          "name": "Sal",
+          "note": "Cucharaditas rasas",
+          "quantity": 1.5,
+          "unit": "cdta"
         },
         {
-          "category" : "Despensa",
-          "isPantryBasic" : true,
-          "name" : "Agua",
-          "note" : "A temperatura ambiente",
-          "quantity" : 280,
-          "unit" : "ml"
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "name": "Agua",
+          "note": "A temperatura ambiente",
+          "quantity": 280,
+          "unit": "ml"
         },
         {
-          "category" : "Panadería",
-          "isPantryBasic" : false,
-          "name" : "Levadura seca de panadería",
-          "note" : "En el dispensador de levadura",
-          "quantity" : 0.75,
-          "unit" : "cdta"
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "name": "Levadura seca de panadería",
+          "note": "En el dispensador de levadura",
+          "quantity": 0.75,
+          "unit": "cdta"
         }
       ],
-      "name" : "Pan blanco básico",
-      "prepMinutes" : 10,
-      "reheating" : "Tuesta directamente desde congelado o calienta una rebanada 3-4 minutos a 160 °C. No recalientes la hogaza completa repetidamente.",
-      "revision" : 1,
-      "servings" : 10,
-      "steps" : [
+      "name": "Pan blanco básico",
+      "prepMinutes": 10,
+      "reheating": "Tuesta directamente desde congelado o calienta una rebanada 3-4 minutos a 160 °C. No recalientes la hogaza completa repetidamente.",
+      "revision": 1,
+      "servings": 10,
+      "steps": [
         {
-          "accessory" : "Cubeta y pala de amasado",
-          "instruction" : "Extrae la cubeta de la panificadora para evitar que caigan ingredientes dentro del aparato. Encaja firmemente la pala de amasado en su eje y comprueba que la cubeta esté limpia y seca.",
-          "mode" : "Preparación",
-          "order" : 1,
-          "reverse" : false
+          "accessory": "Cubeta y pala de amasado",
+          "instruction": "Extrae la cubeta de la panificadora para evitar que caigan ingredientes dentro del aparato. Encaja firmemente la pala de amasado en su eje y comprueba que la cubeta esté limpia y seca.",
+          "mode": "Preparación",
+          "order": 1,
+          "reverse": false
         },
         {
-          "accessory" : "Cubeta de la panificadora",
-          "instruction" : "Añade a la cubeta, en este orden: harina de fuerza, mantequilla, azúcar, sal y finalmente el agua. Reparte el azúcar y la sal en zonas distintas sobre la harina antes de verter el agua; evita que queden sobre el eje.",
-          "mode" : "Carga de ingredientes",
-          "order" : 2,
-          "reverse" : false
+          "accessory": "Cubeta de la panificadora",
+          "instruction": "Añade a la cubeta, en este orden: harina de fuerza, mantequilla, azúcar, sal y finalmente el agua. Reparte el azúcar y la sal en zonas distintas sobre la harina antes de verter el agua; evita que queden sobre el eje.",
+          "mode": "Carga de ingredientes",
+          "order": 2,
+          "reverse": false
         },
         {
-          "accessory" : "Dispensador de levadura",
-          "instruction" : "Pon los ¾ de cucharadita de levadura seca en el dispensador de levadura de la Panasonic SD-YR2550SXE. Asegúrate de que el compartimento esté seco y que la levadura no entre todavía en contacto con el agua ni con la sal.",
-          "mode" : "Dosificación automática",
-          "order" : 3,
-          "reverse" : false
+          "accessory": "Dispensador de levadura",
+          "instruction": "Pon los ¾ de cucharadita de levadura seca en el dispensador de levadura de la Panasonic SD-YR2550SXE. Asegúrate de que el compartimento esté seco y que la levadura no entre todavía en contacto con el agua ni con la sal.",
+          "mode": "Dosificación automática",
+          "order": 3,
+          "reverse": false
         },
         {
-          "accessory" : "Panasonic SD-YR2550SXE",
-          "instruction" : "Vuelve a colocar la cubeta, gírala hasta bloquearla y cierra la tapa. Selecciona el menú 1 (Básico), tamaño M y el nivel de tostado que prefieras; para la primera prueba se recomienda tostado medio.",
-          "mode" : "Menú 1 · tamaño M · tostado medio",
-          "order" : 4,
-          "reverse" : false
+          "accessory": "Panasonic SD-YR2550SXE",
+          "instruction": "Vuelve a colocar la cubeta, gírala hasta bloquearla y cierra la tapa. Selecciona el menú 1 (Básico), tamaño M y el nivel de tostado que prefieras; para la primera prueba se recomienda tostado medio.",
+          "mode": "Menú 1 · tamaño M · tostado medio",
+          "order": 4,
+          "reverse": false
         },
         {
-          "accessory" : "Panasonic SD-YR2550SXE",
-          "durationSeconds" : 14400,
-          "instruction" : "Pulsa Inicio y deja que la máquina complete amasado, levado y horneado sin abrir la tapa. El programa dura aproximadamente 4 horas; al terminar, la corteza debe verse uniformemente dorada y la parte superior firme.",
-          "mode" : "Programa automático",
-          "order" : 5,
-          "reverse" : false
+          "accessory": "Panasonic SD-YR2550SXE",
+          "durationSeconds": 14400,
+          "instruction": "Pulsa Inicio y deja que la máquina complete amasado, levado y horneado sin abrir la tapa. El programa dura aproximadamente 4 horas; al terminar, la corteza debe verse uniformemente dorada y la parte superior firme.",
+          "mode": "Programa automático",
+          "order": 5,
+          "reverse": false
         },
         {
-          "accessory" : "Guantes y gancho para pala",
-          "durationSeconds" : 300,
-          "instruction" : "Cuando suene el aviso final, desenchufa el aparato y extrae inmediatamente la cubeta usando guantes. Desmolda con movimientos suaves; si la pala queda dentro del pan, espera unos minutos y retírala con el gancho cuando puedas manipularlo sin quemarte.",
-          "mode" : "Desmoldado",
-          "order" : 6,
-          "reverse" : false
+          "accessory": "Guantes y gancho para pala",
+          "durationSeconds": 300,
+          "instruction": "Cuando suene el aviso final, desenchufa el aparato y extrae inmediatamente la cubeta usando guantes. Desmolda con movimientos suaves; si la pala queda dentro del pan, espera unos minutos y retírala con el gancho cuando puedas manipularlo sin quemarte.",
+          "mode": "Desmoldado",
+          "order": 6,
+          "reverse": false
         },
         {
-          "accessory" : "Rejilla",
-          "durationSeconds" : 3600,
-          "instruction" : "Coloca el pan sobre una rejilla y deja que se enfríe al menos 60 minutos antes de cortarlo. Estará listo cuando la base ya no desprenda vapor y la miga no se comprima ni se vuelva gomosa al pasar el cuchillo.",
-          "mode" : "Enfriado",
-          "order" : 7,
-          "reverse" : false,
-          "temperature" : "Temperatura ambiente"
+          "accessory": "Rejilla",
+          "durationSeconds": 3600,
+          "instruction": "Coloca el pan sobre una rejilla y deja que se enfríe al menos 60 minutos antes de cortarlo. Estará listo cuando la base ya no desprenda vapor y la miga no se comprima ni se vuelva gomosa al pasar el cuchillo.",
+          "mode": "Enfriado",
+          "order": 7,
+          "reverse": false,
+          "temperature": "Temperatura ambiente"
         }
       ],
-      "storage" : "Conserva hasta 3 días a temperatura ambiente, completamente frío y dentro de una bolsa o recipiente bien cerrado.",
-      "tags" : [
+      "storage": "Conserva hasta 3 días a temperatura ambiente, completamente frío y dentro de una bolsa o recipiente bien cerrado.",
+      "tags": [
         "Panasonic SD-YR2550SXE",
         "menú 1",
         "pan blanco",
@@ -743,181 +743,181 @@
         "desayuno",
         "Panasonic Experience Fresh"
       ],
-      "tips" : "Pesa los ingredientes con precisión y usa harina blanca de fuerza. En la SD-YR2550SXE la levadura va en su dispensador, separada de la sal y del agua. No abras la tapa durante el levado ni el horneado. Receta adaptada de Panasonic Experience Fresh.",
-      "variants" : "Para añadir semillas, frutos secos o pasas, utiliza el menú 3 (Pasas básico) y no superes 80 g para una hogaza M. Colócalos en el dispensador de pasas/frutos secos."
+      "tips": "Pesa los ingredientes con precisión y usa harina blanca de fuerza. En la SD-YR2550SXE la levadura va en su dispensador, separada de la sal y del agua. No abras la tapa durante el levado ni el horneado. Receta adaptada de Panasonic Experience Fresh.",
+      "variants": "Para añadir semillas, frutos secos o pasas, utiliza el menú 3 (Pasas básico) y no superes 80 g para una hogaza M. Colócalos en el dispensador de pasas/frutos secos."
     },
     {
-      "allergens" : [
+      "allergens": [
         "Gluten",
         "Lácteos",
         "Frutos secos"
       ],
-      "appliance" : "Panificadora Panasonic",
-      "caloriesPerServing" : 720,
-      "category" : "Pizzas",
-      "cookMinutes" : 20,
-      "description" : "Dos pizzas de fermentación lenta, con masa preparada en la Panasonic SD-YR2550SXE y terminadas en horno con tomate, burrata, pesto y albahaca.",
-      "difficulty" : "Media",
-      "estimatedCost" : 13,
-      "freezing" : "Congela las bolas de masa bien envueltas después del programa y antes de la fermentación final, hasta 1 mes. Descongela 24 horas en la nevera.",
-      "id" : "pizza-napolitana-pesto-tomates-amarillos-burrata-panasonic",
-      "imageURL" : "https://raw.githubusercontent.com/franacostaperez/nieves_cocinera_recetas/main/images/pizza-napolitana-pesto-tomates-amarillos-burrata.jpg",
-      "ingredients" : [
+      "appliance": "Panificadora Panasonic",
+      "caloriesPerServing": 720,
+      "category": "Pizzas",
+      "cookMinutes": 20,
+      "description": "Dos pizzas de fermentación lenta, con masa preparada en la Panasonic SD-YR2550SXE y terminadas en horno con tomate, burrata, pesto y albahaca.",
+      "difficulty": "Media",
+      "estimatedCost": 13,
+      "freezing": "Congela las bolas de masa bien envueltas después del programa y antes de la fermentación final, hasta 1 mes. Descongela 24 horas en la nevera.",
+      "id": "pizza-napolitana-pesto-tomates-amarillos-burrata-panasonic",
+      "imageURL": "https://raw.githubusercontent.com/franacostaperez/nieves_cocinera_recetas/main/images/pizza-napolitana-pesto-tomates-amarillos-burrata.jpg",
+      "ingredients": [
         {
-          "category" : "Panadería",
-          "isPantryBasic" : false,
-          "name" : "Harina de trigo Manitoba",
-          "note" : "De fuerza",
-          "quantity" : 300,
-          "unit" : "g"
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "name": "Harina de trigo Manitoba",
+          "note": "De fuerza",
+          "quantity": 300,
+          "unit": "g"
         },
         {
-          "category" : "Panadería",
-          "isPantryBasic" : false,
-          "name" : "Harina integral de trigo italiana tipo 1 o 2",
-          "note" : "",
-          "quantity" : 100,
-          "unit" : "g"
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "name": "Harina integral de trigo italiana tipo 1 o 2",
+          "note": "",
+          "quantity": 100,
+          "unit": "g"
         },
         {
-          "category" : "Despensa",
-          "isPantryBasic" : true,
-          "name" : "Agua",
-          "note" : "Templada, aproximadamente 25-30 °C",
-          "quantity" : 320,
-          "unit" : "ml"
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "name": "Agua",
+          "note": "Templada, aproximadamente 25-30 °C",
+          "quantity": 320,
+          "unit": "ml"
         },
         {
-          "category" : "Despensa",
-          "isPantryBasic" : true,
-          "name" : "Aceite de oliva virgen extra",
-          "note" : "Para la masa",
-          "quantity" : 16,
-          "unit" : "ml"
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "name": "Aceite de oliva virgen extra",
+          "note": "Para la masa",
+          "quantity": 16,
+          "unit": "ml"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : true,
-          "name" : "Sal",
-          "note" : "",
-          "quantity" : 8,
-          "unit" : "g"
+          "category": "Especias",
+          "isPantryBasic": true,
+          "name": "Sal",
+          "note": "",
+          "quantity": 8,
+          "unit": "g"
         },
         {
-          "category" : "Panadería",
-          "isPantryBasic" : false,
-          "name" : "Levadura fresca de panadería",
-          "note" : "",
-          "quantity" : 10,
-          "unit" : "g"
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "name": "Levadura fresca de panadería",
+          "note": "",
+          "quantity": 10,
+          "unit": "g"
         },
         {
-          "category" : "Conservas",
-          "isPantryBasic" : false,
-          "name" : "Salsa de tomate",
-          "note" : "",
-          "quantity" : 150,
-          "unit" : "ml"
+          "category": "Conservas",
+          "isPantryBasic": false,
+          "name": "Salsa de tomate",
+          "note": "",
+          "quantity": 150,
+          "unit": "ml"
         },
         {
-          "category" : "Frutas y verduras",
-          "isPantryBasic" : false,
-          "name" : "Tomates cherry amarillos",
-          "note" : "Cortados por la mitad",
-          "quantity" : 100,
-          "unit" : "g"
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "name": "Tomates cherry amarillos",
+          "note": "Cortados por la mitad",
+          "quantity": 100,
+          "unit": "g"
         },
         {
-          "category" : "Salsas",
-          "isPantryBasic" : false,
-          "name" : "Pesto de albahaca",
-          "note" : "Comprueba sus alérgenos",
-          "quantity" : 70,
-          "unit" : "g"
+          "category": "Salsas",
+          "isPantryBasic": false,
+          "name": "Pesto de albahaca",
+          "note": "Comprueba sus alérgenos",
+          "quantity": 70,
+          "unit": "g"
         },
         {
-          "category" : "Lácteos",
-          "isPantryBasic" : false,
-          "name" : "Burrata pequeña",
-          "note" : "",
-          "quantity" : 2,
-          "unit" : "ud"
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "name": "Burrata pequeña",
+          "note": "",
+          "quantity": 2,
+          "unit": "ud"
         },
         {
-          "category" : "Frutas y verduras",
-          "isPantryBasic" : false,
-          "name" : "Hojas de albahaca fresca",
-          "note" : "Cantidad orientativa",
-          "quantity" : 12,
-          "unit" : "ud"
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "name": "Hojas de albahaca fresca",
+          "note": "Cantidad orientativa",
+          "quantity": 12,
+          "unit": "ud"
         }
       ],
-      "name" : "Pizza napolitana con pesto, tomates amarillos y burrata",
-      "prepMinutes" : 900,
-      "reheating" : "Calienta 5-7 minutos a 190 °C sobre una bandeja ya caliente. Añade burrata fresca después de recalentar para que no pierda su textura.",
-      "revision" : 2,
-      "servings" : 4,
-      "steps" : [
+      "name": "Pizza napolitana con pesto, tomates amarillos y burrata",
+      "prepMinutes": 900,
+      "reheating": "Calienta 5-7 minutos a 190 °C sobre una bandeja ya caliente. Añade burrata fresca después de recalentar para que no pierda su textura.",
+      "revision": 2,
+      "servings": 4,
+      "steps": [
         {
-          "accessory" : "Cubeta y pala de amasado",
-          "instruction" : "Extrae la cubeta e instala la pala de amasado. Vierte el agua templada y el aceite; añade las dos harinas. Coloca la sal en un extremo y la levadura fresca desmenuzada en el extremo opuesto, sin contacto directo.",
-          "mode" : "Carga de ingredientes",
-          "order" : 1,
-          "reverse" : false
+          "accessory": "Cubeta y pala de amasado",
+          "instruction": "Extrae la cubeta e instala la pala de amasado. Vierte el agua templada y el aceite; añade las dos harinas. Coloca la sal en un extremo y la levadura fresca desmenuzada en el extremo opuesto, sin contacto directo.",
+          "mode": "Carga de ingredientes",
+          "order": 1,
+          "reverse": false
         },
         {
-          "accessory" : "Panasonic SD-YR2550SXE",
-          "instruction" : "Coloca la cubeta, cierra la tapa y selecciona el programa «Masa de pizza» de la Panasonic SD-YR2550SXE. Deja que complete el ciclo. Al finalizar, la masa debe verse lisa, elástica y ligeramente pegajosa, pero despegarse de las paredes.",
-          "mode" : "Masa de pizza",
-          "order" : 2,
-          "reverse" : false
+          "accessory": "Panasonic SD-YR2550SXE",
+          "instruction": "Coloca la cubeta, cierra la tapa y selecciona el programa «Masa de pizza» de la Panasonic SD-YR2550SXE. Deja que complete el ciclo. Al finalizar, la masa debe verse lisa, elástica y ligeramente pegajosa, pero despegarse de las paredes.",
+          "mode": "Masa de pizza",
+          "order": 2,
+          "reverse": false
         },
         {
-          "accessory" : "Recipiente con tapa",
-          "durationSeconds" : 43200,
-          "instruction" : "Pasa la masa a un recipiente ligeramente aceitado, tápalo sin comprimirla y refrigera 12 horas. Debe aumentar de volumen y mostrar pequeñas burbujas.",
-          "mode" : "Fermentación en frío",
-          "order" : 3,
-          "reverse" : false,
-          "temperature" : "Nevera"
+          "accessory": "Recipiente con tapa",
+          "durationSeconds": 43200,
+          "instruction": "Pasa la masa a un recipiente ligeramente aceitado, tápalo sin comprimirla y refrigera 12 horas. Debe aumentar de volumen y mostrar pequeñas burbujas.",
+          "mode": "Fermentación en frío",
+          "order": 3,
+          "reverse": false,
+          "temperature": "Nevera"
         },
         {
-          "accessory" : "Dos recipientes",
-          "durationSeconds" : 9000,
-          "instruction" : "Divide la masa en dos porciones iguales, forma bolas tensando suavemente la superficie y colócalas separadas en recipientes enharinados. Tapa y deja fermentar 2-3 horas a temperatura ambiente, hasta que estén aireadas y recuperen lentamente la forma al presionarlas.",
-          "mode" : "Fermentación final",
-          "order" : 4,
-          "reverse" : false,
-          "temperature" : "Temperatura ambiente"
+          "accessory": "Dos recipientes",
+          "durationSeconds": 9000,
+          "instruction": "Divide la masa en dos porciones iguales, forma bolas tensando suavemente la superficie y colócalas separadas en recipientes enharinados. Tapa y deja fermentar 2-3 horas a temperatura ambiente, hasta que estén aireadas y recuperen lentamente la forma al presionarlas.",
+          "mode": "Fermentación final",
+          "order": 4,
+          "reverse": false,
+          "temperature": "Temperatura ambiente"
         },
         {
-          "accessory" : "Horno y papel de horno",
-          "durationSeconds" : 1200,
-          "instruction" : "Precalienta el horno a 220 °C con una bandeja o piedra en la parte baja. Sobre papel de horno, abre cada bola con las yemas desde el centro hacia fuera, conservando un borde de 1-2 cm. Reparte la salsa de tomate y los tomates amarillos.",
-          "mode" : "Precalentado y formado",
-          "order" : 5,
-          "reverse" : false,
-          "temperature" : "Horno 220 °C"
+          "accessory": "Horno y papel de horno",
+          "durationSeconds": 1200,
+          "instruction": "Precalienta el horno a 220 °C con una bandeja o piedra en la parte baja. Sobre papel de horno, abre cada bola con las yemas desde el centro hacia fuera, conservando un borde de 1-2 cm. Reparte la salsa de tomate y los tomates amarillos.",
+          "mode": "Precalentado y formado",
+          "order": 5,
+          "reverse": false,
+          "temperature": "Horno 220 °C"
         },
         {
-          "accessory" : "Bandeja o piedra",
-          "durationSeconds" : 1200,
-          "instruction" : "Hornea cada pizza unos 15 minutos en la zona baja. Pásala a la zona alta durante los últimos 5 minutos. Retírala cuando el borde esté inflado y dorado, la base firme y el tomate haya perdido el exceso de agua.",
-          "mode" : "Horneado",
-          "order" : 6,
-          "reverse" : false,
-          "temperature" : "Horno 220 °C"
+          "accessory": "Bandeja o piedra",
+          "durationSeconds": 1200,
+          "instruction": "Hornea cada pizza unos 15 minutos en la zona baja. Pásala a la zona alta durante los últimos 5 minutos. Retírala cuando el borde esté inflado y dorado, la base firme y el tomate haya perdido el exceso de agua.",
+          "mode": "Horneado",
+          "order": 6,
+          "reverse": false,
+          "temperature": "Horno 220 °C"
         },
         {
-          "accessory" : "Tabla de servir",
-          "instruction" : "Fuera del horno, reparte la burrata escurrida en trozos, el pesto y las hojas de albahaca. Sirve enseguida; no vuelvas a hornear la burrata.",
-          "mode" : "Acabado",
-          "order" : 7,
-          "reverse" : false
+          "accessory": "Tabla de servir",
+          "instruction": "Fuera del horno, reparte la burrata escurrida en trozos, el pesto y las hojas de albahaca. Sirve enseguida; no vuelvas a hornear la burrata.",
+          "mode": "Acabado",
+          "order": 7,
+          "reverse": false
         }
       ],
-      "storage" : "Conserva la pizza ya horneada hasta 2 días en la nevera, bien tapada. La masa puede permanecer en frío hasta 24 horas en total.",
-      "tags" : [
+      "storage": "Conserva la pizza ya horneada hasta 2 días en la nevera, bien tapada. La masa puede permanecer en frío hasta 24 horas en total.",
+      "tags": [
         "Panasonic SD-YR2550SXE",
         "masa de pizza",
         "fermentación lenta",
@@ -926,170 +926,170 @@
         "pesto",
         "Panasonic Experience Fresh"
       ],
-      "tips" : "Usa agua templada, nunca caliente, y mantén la levadura fresca separada de la sal al cargar la cubeta. Tras la fermentación, abre cada bola con las yemas desde el centro hacia fuera sin aplastar el borde. Receta adaptada de Panasonic Experience Fresh.",
-      "variants" : "Sustituye los tomates amarillos por tomates cherry maduros si no los encuentras. Para una versión sin frutos secos, usa un pesto de albahaca específicamente certificado sin frutos secos."
+      "tips": "Usa agua templada, nunca caliente, y mantén la levadura fresca separada de la sal al cargar la cubeta. Tras la fermentación, abre cada bola con las yemas desde el centro hacia fuera sin aplastar el borde. Receta adaptada de Panasonic Experience Fresh.",
+      "variants": "Sustituye los tomates amarillos por tomates cherry maduros si no los encuentras. Para una versión sin frutos secos, usa un pesto de albahaca específicamente certificado sin frutos secos."
     },
     {
-      "allergens" : [
+      "allergens": [
         "Gluten",
         "Lácteos",
         "Huevo",
         "Frutos secos"
       ],
-      "appliance" : "Panificadora Panasonic",
-      "caloriesPerServing" : 230,
-      "category" : "Panes",
-      "cookMinutes" : 240,
-      "description" : "Pan tierno de leche y yogur con arándanos secos y nueces, preparado en la Panasonic SD-YR2550SXE con dispensadores automáticos.",
-      "difficulty" : "Media",
-      "estimatedCost" : 5.5,
-      "freezing" : "Congela en rebanadas hasta 2 meses, separadas con papel para poder sacar solo las necesarias.",
-      "id" : "pan-arandanos-nueces-panasonic",
-      "imageURL" : "https://raw.githubusercontent.com/franacostaperez/nieves_cocinera_recetas/main/images/pan-arandanos-nueces-panasonic.jpg",
-      "ingredients" : [
+      "appliance": "Panificadora Panasonic",
+      "caloriesPerServing": 230,
+      "category": "Panes",
+      "cookMinutes": 240,
+      "description": "Pan tierno de leche y yogur con arándanos secos y nueces, preparado en la Panasonic SD-YR2550SXE con dispensadores automáticos.",
+      "difficulty": "Media",
+      "estimatedCost": 5.5,
+      "freezing": "Congela en rebanadas hasta 2 meses, separadas con papel para poder sacar solo las necesarias.",
+      "id": "pan-arandanos-nueces-panasonic",
+      "imageURL": "https://raw.githubusercontent.com/franacostaperez/nieves_cocinera_recetas/main/images/pan-arandanos-nueces-panasonic.jpg",
+      "ingredients": [
         {
-          "category" : "Lácteos",
-          "isPantryBasic" : false,
-          "name" : "Leche entera",
-          "note" : "A temperatura ambiente",
-          "quantity" : 125,
-          "unit" : "ml"
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "name": "Leche entera",
+          "note": "A temperatura ambiente",
+          "quantity": 125,
+          "unit": "ml"
         },
         {
-          "category" : "Lácteos",
-          "isPantryBasic" : false,
-          "name" : "Yogur natural sin azúcar",
-          "note" : "Un yogur",
-          "quantity" : 125,
-          "unit" : "g"
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "name": "Yogur natural sin azúcar",
+          "note": "Un yogur",
+          "quantity": 125,
+          "unit": "g"
         },
         {
-          "category" : "Huevos",
-          "isPantryBasic" : false,
-          "name" : "Huevo",
-          "note" : "Tamaño M, batido ligeramente",
-          "quantity" : 1,
-          "unit" : "ud"
+          "category": "Huevos",
+          "isPantryBasic": false,
+          "name": "Huevo",
+          "note": "Tamaño M, batido ligeramente",
+          "quantity": 1,
+          "unit": "ud"
         },
         {
-          "category" : "Lácteos",
-          "isPantryBasic" : false,
-          "name" : "Mantequilla",
-          "note" : "Blanda, a temperatura ambiente",
-          "quantity" : 30,
-          "unit" : "g"
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "name": "Mantequilla",
+          "note": "Blanda, a temperatura ambiente",
+          "quantity": 30,
+          "unit": "g"
         },
         {
-          "category" : "Panadería",
-          "isPantryBasic" : false,
-          "name" : "Harina de fuerza",
-          "note" : "",
-          "quantity" : 375,
-          "unit" : "g"
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "name": "Harina de fuerza",
+          "note": "",
+          "quantity": 375,
+          "unit": "g"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : true,
-          "name" : "Sal fina",
-          "note" : "Cucharadita colmada",
-          "quantity" : 1,
-          "unit" : "cdta"
+          "category": "Especias",
+          "isPantryBasic": true,
+          "name": "Sal fina",
+          "note": "Cucharadita colmada",
+          "quantity": 1,
+          "unit": "cdta"
         },
         {
-          "category" : "Panadería",
-          "isPantryBasic" : false,
-          "name" : "Levadura seca de panadería",
-          "note" : "",
-          "quantity" : 1,
-          "unit" : "cdta"
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "name": "Levadura seca de panadería",
+          "note": "",
+          "quantity": 1,
+          "unit": "cdta"
         },
         {
-          "category" : "Despensa",
-          "isPantryBasic" : true,
-          "name" : "Azúcar",
-          "note" : "",
-          "quantity" : 1,
-          "unit" : "cda"
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "name": "Azúcar",
+          "note": "",
+          "quantity": 1,
+          "unit": "cda"
         },
         {
-          "category" : "Frutos secos",
-          "isPantryBasic" : false,
-          "name" : "Arándanos rojos secos",
-          "note" : "Sueltos y secos",
-          "quantity" : 45,
-          "unit" : "g"
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "name": "Arándanos rojos secos",
+          "note": "Sueltos y secos",
+          "quantity": 45,
+          "unit": "g"
         },
         {
-          "category" : "Frutos secos",
-          "isPantryBasic" : false,
-          "name" : "Nueces",
-          "note" : "Troceadas gruesas",
-          "quantity" : 45,
-          "unit" : "g"
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "name": "Nueces",
+          "note": "Troceadas gruesas",
+          "quantity": 45,
+          "unit": "g"
         }
       ],
-      "name" : "Pan con arándanos y nueces",
-      "prepMinutes" : 12,
-      "reheating" : "Tuesta las rebanadas directamente desde congeladas o caliéntalas 3-4 minutos a 160 °C.",
-      "revision" : 2,
-      "servings" : 10,
-      "steps" : [
+      "name": "Pan con arándanos y nueces",
+      "prepMinutes": 12,
+      "reheating": "Tuesta las rebanadas directamente desde congeladas o caliéntalas 3-4 minutos a 160 °C.",
+      "revision": 2,
+      "servings": 10,
+      "steps": [
         {
-          "accessory" : "Cubeta, pala y dispensadores",
-          "instruction" : "Extrae la cubeta e instala firmemente la pala de amasado. Comprueba que los dispensadores estén limpios y secos.",
-          "mode" : "Preparación",
-          "order" : 1,
-          "reverse" : false
+          "accessory": "Cubeta, pala y dispensadores",
+          "instruction": "Extrae la cubeta e instala firmemente la pala de amasado. Comprueba que los dispensadores estén limpios y secos.",
+          "mode": "Preparación",
+          "order": 1,
+          "reverse": false
         },
         {
-          "accessory" : "Cubeta de la panificadora",
-          "instruction" : "Añade a la cubeta, en este orden, la leche, el yogur, el huevo y la mantequilla. Cubre los líquidos con la harina; coloca el azúcar y la sal en extremos separados sobre la harina.",
-          "mode" : "Carga de ingredientes",
-          "order" : 2,
-          "reverse" : false
+          "accessory": "Cubeta de la panificadora",
+          "instruction": "Añade a la cubeta, en este orden, la leche, el yogur, el huevo y la mantequilla. Cubre los líquidos con la harina; coloca el azúcar y la sal en extremos separados sobre la harina.",
+          "mode": "Carga de ingredientes",
+          "order": 2,
+          "reverse": false
         },
         {
-          "accessory" : "Dispensadores automáticos",
-          "instruction" : "Pon la levadura seca en el dispensador de levadura. Coloca los arándanos y las nueces troceadas en el dispensador de frutos secos, sin prensarlos y sin superar su capacidad.",
-          "mode" : "Dosificación",
-          "order" : 3,
-          "reverse" : false
+          "accessory": "Dispensadores automáticos",
+          "instruction": "Pon la levadura seca en el dispensador de levadura. Coloca los arándanos y las nueces troceadas en el dispensador de frutos secos, sin prensarlos y sin superar su capacidad.",
+          "mode": "Dosificación",
+          "order": 3,
+          "reverse": false
         },
         {
-          "accessory" : "Panasonic SD-YR2550SXE",
-          "instruction" : "Coloca y bloquea la cubeta. Selecciona el programa «Pan con pasas», hogaza de 750 g y nivel de tostado bajo. Inicia el ciclo y no abras la tapa durante el levado.",
-          "mode" : "Pan con pasas · 750 g · tostado bajo",
-          "order" : 4,
-          "reverse" : false
+          "accessory": "Panasonic SD-YR2550SXE",
+          "instruction": "Coloca y bloquea la cubeta. Selecciona el programa «Pan con pasas», hogaza de 750 g y nivel de tostado bajo. Inicia el ciclo y no abras la tapa durante el levado.",
+          "mode": "Pan con pasas · 750 g · tostado bajo",
+          "order": 4,
+          "reverse": false
         },
         {
-          "accessory" : "Panasonic SD-YR2550SXE",
-          "durationSeconds" : 14400,
-          "instruction" : "Deja que la máquina complete amasado, incorporación automática, levado y horneado. Al finalizar, la parte superior debe estar firme y dorada y el pan debe desprenderse ligeramente de las paredes.",
-          "mode" : "Programa automático",
-          "order" : 5,
-          "reverse" : false
+          "accessory": "Panasonic SD-YR2550SXE",
+          "durationSeconds": 14400,
+          "instruction": "Deja que la máquina complete amasado, incorporación automática, levado y horneado. Al finalizar, la parte superior debe estar firme y dorada y el pan debe desprenderse ligeramente de las paredes.",
+          "mode": "Programa automático",
+          "order": 5,
+          "reverse": false
         },
         {
-          "accessory" : "Guantes y gancho para pala",
-          "durationSeconds" : 300,
-          "instruction" : "Con guantes, extrae la cubeta en cuanto termine y desmolda con cuidado. Si la pala queda en el pan, espera unos minutos y retírala con el gancho sin desgarrar la miga.",
-          "mode" : "Desmoldado",
-          "order" : 6,
-          "reverse" : false
+          "accessory": "Guantes y gancho para pala",
+          "durationSeconds": 300,
+          "instruction": "Con guantes, extrae la cubeta en cuanto termine y desmolda con cuidado. Si la pala queda en el pan, espera unos minutos y retírala con el gancho sin desgarrar la miga.",
+          "mode": "Desmoldado",
+          "order": 6,
+          "reverse": false
         },
         {
-          "accessory" : "Rejilla",
-          "durationSeconds" : 3600,
-          "instruction" : "Enfría el pan sobre una rejilla al menos 60 minutos. Córtalo solo cuando la base ya no desprenda vapor y la miga esté asentada.",
-          "mode" : "Enfriado",
-          "order" : 7,
-          "reverse" : false,
-          "temperature" : "Temperatura ambiente"
+          "accessory": "Rejilla",
+          "durationSeconds": 3600,
+          "instruction": "Enfría el pan sobre una rejilla al menos 60 minutos. Córtalo solo cuando la base ya no desprenda vapor y la miga esté asentada.",
+          "mode": "Enfriado",
+          "order": 7,
+          "reverse": false,
+          "temperature": "Temperatura ambiente"
         }
       ],
-      "storage" : "Conserva hasta 3 días a temperatura ambiente, completamente frío y en una bolsa o recipiente hermético.",
-      "tags" : [
+      "storage": "Conserva hasta 3 días a temperatura ambiente, completamente frío y en una bolsa o recipiente hermético.",
+      "tags": [
         "Panasonic SD-YR2550SXE",
         "pan con pasas",
         "arándanos",
@@ -1097,193 +1097,193 @@
         "pan dulce",
         "Panasonic Experience Fresh"
       ],
-      "tips" : "Todos los ingredientes deben estar a temperatura ambiente. Seca los arándanos si están húmedos y trocea las nueces sin pulverizarlas para que el dispensador funcione bien. Receta adaptada de Panasonic Experience Fresh.",
-      "variants" : "Puedes sustituir los arándanos por pasas o albaricoques secos troceados, manteniendo un máximo total de 90 g entre fruta y nueces."
+      "tips": "Todos los ingredientes deben estar a temperatura ambiente. Seca los arándanos si están húmedos y trocea las nueces sin pulverizarlas para que el dispensador funcione bien. Receta adaptada de Panasonic Experience Fresh.",
+      "variants": "Puedes sustituir los arándanos por pasas o albaricoques secos troceados, manteniendo un máximo total de 90 g entre fruta y nueces."
     },
     {
-      "allergens" : [
+      "allergens": [
         "Gluten",
         "Lácteos",
         "Huevo",
         "Frutos secos"
       ],
-      "appliance" : "Panificadora Panasonic",
-      "caloriesPerServing" : 380,
-      "category" : "Repostería",
-      "cookMinutes" : 60,
-      "description" : "Bizcocho jugoso de plátano con nueces, pasas sultanas y semillas de amapola, horneado en la Panasonic SD-YR2550SXE mediante la función Solo horneado.",
-      "difficulty" : "Fácil",
-      "estimatedCost" : 8,
-      "freezing" : "Congela en rebanadas bien envueltas hasta 2 meses. Descongela a temperatura ambiente.",
-      "id" : "pan-platano-panasonic",
-      "imageURL" : "https://franacostaperez.github.io/nieves_cocinera_recetas/images/pan-platano-panasonic.jpg",
-      "ingredients" : [
+      "appliance": "Panificadora Panasonic",
+      "caloriesPerServing": 380,
+      "category": "Repostería",
+      "cookMinutes": 60,
+      "description": "Bizcocho jugoso de plátano con nueces, pasas sultanas y semillas de amapola, horneado en la Panasonic SD-YR2550SXE mediante la función Solo horneado.",
+      "difficulty": "Fácil",
+      "estimatedCost": 8,
+      "freezing": "Congela en rebanadas bien envueltas hasta 2 meses. Descongela a temperatura ambiente.",
+      "id": "pan-platano-panasonic",
+      "imageURL": "https://franacostaperez.github.io/nieves_cocinera_recetas/images/pan-platano-panasonic.jpg",
+      "ingredients": [
         {
-          "category" : "Lácteos",
-          "isPantryBasic" : false,
-          "name" : "Mantequilla",
-          "note" : "Blanda, a temperatura ambiente",
-          "quantity" : 100,
-          "unit" : "g"
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "name": "Mantequilla",
+          "note": "Blanda, a temperatura ambiente",
+          "quantity": 100,
+          "unit": "g"
         },
         {
-          "category" : "Despensa",
-          "isPantryBasic" : false,
-          "name" : "Azúcar glas",
-          "note" : "",
-          "quantity" : 175,
-          "unit" : "g"
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "name": "Azúcar glas",
+          "note": "",
+          "quantity": 175,
+          "unit": "g"
         },
         {
-          "category" : "Huevos",
-          "isPantryBasic" : false,
-          "name" : "Huevo",
-          "note" : "Tamaño L, batidos",
-          "quantity" : 2,
-          "unit" : "ud"
+          "category": "Huevos",
+          "isPantryBasic": false,
+          "name": "Huevo",
+          "note": "Tamaño L, batidos",
+          "quantity": 2,
+          "unit": "ud"
         },
         {
-          "category" : "Panadería",
-          "isPantryBasic" : false,
-          "name" : "Harina de trigo con levadura incorporada",
-          "note" : "Tamizada",
-          "quantity" : 200,
-          "unit" : "g"
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "name": "Harina de trigo con levadura incorporada",
+          "note": "Tamizada",
+          "quantity": 200,
+          "unit": "g"
         },
         {
-          "category" : "Panadería",
-          "isPantryBasic" : false,
-          "name" : "Levadura química",
-          "note" : "",
-          "quantity" : 0.5,
-          "unit" : "cdta"
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "name": "Levadura química",
+          "note": "",
+          "quantity": 0.5,
+          "unit": "cdta"
         },
         {
-          "category" : "Frutas y verduras",
-          "isPantryBasic" : false,
-          "name" : "Plátano maduro",
-          "note" : "Peso sin piel",
-          "quantity" : 200,
-          "unit" : "g"
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "name": "Plátano maduro",
+          "note": "Peso sin piel",
+          "quantity": 200,
+          "unit": "g"
         },
         {
-          "category" : "Lácteos",
-          "isPantryBasic" : false,
-          "name" : "Yogur natural",
-          "note" : "",
-          "quantity" : 85,
-          "unit" : "g"
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "name": "Yogur natural",
+          "note": "",
+          "quantity": 85,
+          "unit": "g"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : false,
-          "name" : "Nuez moscada molida",
-          "note" : "",
-          "quantity" : 0.5,
-          "unit" : "cdta"
+          "category": "Especias",
+          "isPantryBasic": false,
+          "name": "Nuez moscada molida",
+          "note": "",
+          "quantity": 0.5,
+          "unit": "cdta"
         },
         {
-          "category" : "Frutos secos",
-          "isPantryBasic" : false,
-          "name" : "Pasas sultanas",
-          "note" : "",
-          "quantity" : 125,
-          "unit" : "g"
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "name": "Pasas sultanas",
+          "note": "",
+          "quantity": 125,
+          "unit": "g"
         },
         {
-          "category" : "Frutos secos",
-          "isPantryBasic" : false,
-          "name" : "Nueces",
-          "note" : "Tostadas, frías y troceadas",
-          "quantity" : 100,
-          "unit" : "g"
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "name": "Nueces",
+          "note": "Tostadas, frías y troceadas",
+          "quantity": 100,
+          "unit": "g"
         },
         {
-          "category" : "Despensa",
-          "isPantryBasic" : false,
-          "name" : "Semillas de amapola",
-          "note" : "",
-          "quantity" : 50,
-          "unit" : "g"
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "name": "Semillas de amapola",
+          "note": "",
+          "quantity": 50,
+          "unit": "g"
         }
       ],
-      "name" : "Pan de plátano",
-      "prepMinutes" : 18,
-      "reheating" : "Templa una rebanada 3-4 minutos a 150 °C o tuéstala suavemente. Evita recalentar la pieza completa varias veces.",
-      "revision" : 1,
-      "servings" : 10,
-      "steps" : [
+      "name": "Pan de plátano",
+      "prepMinutes": 18,
+      "reheating": "Templa una rebanada 3-4 minutos a 150 °C o tuéstala suavemente. Evita recalentar la pieza completa varias veces.",
+      "revision": 1,
+      "servings": 10,
+      "steps": [
         {
-          "accessory" : "Sartén, cubeta y papel de horno",
-          "instruction" : "Tuesta ligeramente las nueces en una sartén seca y déjalas enfriar por completo. Extrae la cubeta de la panificadora, retira la pala de amasado y fórrala con papel de horno bien ajustado, sin que sobresalga por encima del borde.",
-          "mode" : "Preparación",
-          "order" : 1,
-          "reverse" : false
+          "accessory": "Sartén, cubeta y papel de horno",
+          "instruction": "Tuesta ligeramente las nueces en una sartén seca y déjalas enfriar por completo. Extrae la cubeta de la panificadora, retira la pala de amasado y fórrala con papel de horno bien ajustado, sin que sobresalga por encima del borde.",
+          "mode": "Preparación",
+          "order": 1,
+          "reverse": false
         },
         {
-          "accessory" : "Bol y varillas",
-          "durationSeconds" : 300,
-          "instruction" : "En un bol, bate la mantequilla blanda con el azúcar glas hasta obtener una crema pálida y esponjosa. Incorpora los huevos batidos poco a poco; si la mezcla parece cortarse, añade una cucharada de la harina.",
-          "mode" : "Batido",
-          "order" : 2,
-          "reverse" : false
+          "accessory": "Bol y varillas",
+          "durationSeconds": 300,
+          "instruction": "En un bol, bate la mantequilla blanda con el azúcar glas hasta obtener una crema pálida y esponjosa. Incorpora los huevos batidos poco a poco; si la mezcla parece cortarse, añade una cucharada de la harina.",
+          "mode": "Batido",
+          "order": 2,
+          "reverse": false
         },
         {
-          "accessory" : "Tamiz y espátula",
-          "instruction" : "Tamiza juntos la harina con levadura y la levadura química. Incorpóralas en dos o tres tandas con una espátula, usando movimientos envolventes y sin batir en exceso.",
-          "mode" : "Mezcla",
-          "order" : 3,
-          "reverse" : false
+          "accessory": "Tamiz y espátula",
+          "instruction": "Tamiza juntos la harina con levadura y la levadura química. Incorpóralas en dos o tres tandas con una espátula, usando movimientos envolventes y sin batir en exceso.",
+          "mode": "Mezcla",
+          "order": 3,
+          "reverse": false
         },
         {
-          "accessory" : "Bol y tenedor",
-          "instruction" : "Machaca los plátanos hasta obtener un puré con pequeños grumos. Mézclalo con el yogur y la nuez moscada; incorpóralo a la masa hasta que no queden vetas secas.",
-          "mode" : "Mezcla húmeda",
-          "order" : 4,
-          "reverse" : false
+          "accessory": "Bol y tenedor",
+          "instruction": "Machaca los plátanos hasta obtener un puré con pequeños grumos. Mézclalo con el yogur y la nuez moscada; incorpóralo a la masa hasta que no queden vetas secas.",
+          "mode": "Mezcla húmeda",
+          "order": 4,
+          "reverse": false
         },
         {
-          "accessory" : "Espátula",
-          "instruction" : "Añade las sultanas, las nueces frías y las semillas de amapola. Remueve solo lo necesario para repartirlas de forma uniforme.",
-          "mode" : "Incorporación",
-          "order" : 5,
-          "reverse" : false
+          "accessory": "Espátula",
+          "instruction": "Añade las sultanas, las nueces frías y las semillas de amapola. Remueve solo lo necesario para repartirlas de forma uniforme.",
+          "mode": "Incorporación",
+          "order": 5,
+          "reverse": false
         },
         {
-          "accessory" : "Cubeta sin pala",
-          "instruction" : "Vierte la masa en la cubeta forrada y alisa la superficie. Golpea la cubeta una sola vez suavemente sobre la encimera para eliminar bolsas grandes de aire y vuelve a colocarla en la máquina.",
-          "mode" : "Llenado",
-          "order" : 6,
-          "reverse" : false
+          "accessory": "Cubeta sin pala",
+          "instruction": "Vierte la masa en la cubeta forrada y alisa la superficie. Golpea la cubeta una sola vez suavemente sobre la encimera para eliminar bolsas grandes de aire y vuelve a colocarla en la máquina.",
+          "mode": "Llenado",
+          "order": 6,
+          "reverse": false
         },
         {
-          "accessory" : "Panasonic SD-YR2550SXE",
-          "durationSeconds" : 3600,
-          "instruction" : "Selecciona la función «Solo horneado / Bake Only» y programa 60 minutos. Inicia el horneado con la tapa cerrada.",
-          "mode" : "Solo horneado · 60 minutos",
-          "order" : 7,
-          "reverse" : false
+          "accessory": "Panasonic SD-YR2550SXE",
+          "durationSeconds": 3600,
+          "instruction": "Selecciona la función «Solo horneado / Bake Only» y programa 60 minutos. Inicia el horneado con la tapa cerrada.",
+          "mode": "Solo horneado · 60 minutos",
+          "order": 7,
+          "reverse": false
         },
         {
-          "accessory" : "Brocheta",
-          "durationSeconds" : 900,
-          "instruction" : "A los 45 minutos, abre brevemente y presiona con suavidad el centro: debe recuperar la forma. Comprueba también con una brocheta; si sale con masa húmeda, cierra y continúa, revisando cada 5 minutos hasta que salga con migas húmedas pero sin masa cruda.",
-          "mode" : "Control de cocción",
-          "order" : 8,
-          "reverse" : false
+          "accessory": "Brocheta",
+          "durationSeconds": 900,
+          "instruction": "A los 45 minutos, abre brevemente y presiona con suavidad el centro: debe recuperar la forma. Comprueba también con una brocheta; si sale con masa húmeda, cierra y continúa, revisando cada 5 minutos hasta que salga con migas húmedas pero sin masa cruda.",
+          "mode": "Control de cocción",
+          "order": 8,
+          "reverse": false
         },
         {
-          "accessory" : "Guantes y rejilla",
-          "durationSeconds" : 4200,
-          "instruction" : "Al terminar, extrae la cubeta con guantes y deja reposar 10 minutos. Desmolda tirando del papel y enfría sobre una rejilla al menos 60 minutos antes de cortar.",
-          "mode" : "Enfriado",
-          "order" : 9,
-          "reverse" : false,
-          "temperature" : "Temperatura ambiente"
+          "accessory": "Guantes y rejilla",
+          "durationSeconds": 4200,
+          "instruction": "Al terminar, extrae la cubeta con guantes y deja reposar 10 minutos. Desmolda tirando del papel y enfría sobre una rejilla al menos 60 minutos antes de cortar.",
+          "mode": "Enfriado",
+          "order": 9,
+          "reverse": false,
+          "temperature": "Temperatura ambiente"
         }
       ],
-      "storage" : "Conserva hasta 4 días, completamente frío y bien envuelto. En clima cálido, guárdalo en la nevera y déjalo templar antes de servir.",
-      "tags" : [
+      "storage": "Conserva hasta 4 días, completamente frío y bien envuelto. En clima cálido, guárdalo en la nevera y déjalo templar antes de servir.",
+      "tags": [
         "Panasonic SD-YR2550SXE",
         "Solo horneado",
         "plátano",
@@ -1291,145 +1291,145 @@
         "nueces",
         "Panasonic Experience Fresh"
       ],
-      "tips" : "Usa plátanos muy maduros y pesa la harina después de tamizarla. En esta receta la mezcla se prepara fuera de la máquina: no uses un programa de amasado. Receta adaptada de Panasonic Experience Fresh.",
-      "variants" : "Puedes omitir las semillas de amapola o sustituir las sultanas por arándanos secos. No aumentes la cantidad total de fruta y frutos secos para evitar una miga húmeda y pesada."
+      "tips": "Usa plátanos muy maduros y pesa la harina después de tamizarla. En esta receta la mezcla se prepara fuera de la máquina: no uses un programa de amasado. Receta adaptada de Panasonic Experience Fresh.",
+      "variants": "Puedes omitir las semillas de amapola o sustituir las sultanas por arándanos secos. No aumentes la cantidad total de fruta y frutos secos para evitar una miga húmeda y pesada."
     },
     {
-      "allergens" : [
+      "allergens": [
         "Gluten",
         "Lácteos",
         "Huevo"
       ],
-      "appliance" : "Panificadora Panasonic",
-      "caloriesPerServing" : 180,
-      "category" : "Panes",
-      "cookMinutes" : 240,
-      "description" : "Pan de leche tierno y ligeramente dulce, originalmente preparado con el programa 8 de la Croustina y adaptado a la Panasonic SD-YR2550SXE con el menú 1.",
-      "difficulty" : "Fácil",
-      "estimatedCost" : 3.5,
-      "freezing" : "Congela en rebanadas hasta 2 meses, separadas con papel para poder sacar solo las necesarias.",
-      "id" : "pan-leche-croustina-adaptado-panasonic",
-      "ingredients" : [
+      "appliance": "Panificadora Panasonic",
+      "caloriesPerServing": 180,
+      "category": "Panes",
+      "cookMinutes": 240,
+      "description": "Pan de leche tierno y ligeramente dulce, originalmente preparado con el programa 8 de la Croustina y adaptado a la Panasonic SD-YR2550SXE con el menú 1.",
+      "difficulty": "Fácil",
+      "estimatedCost": 3.5,
+      "freezing": "Congela en rebanadas hasta 2 meses, separadas con papel para poder sacar solo las necesarias.",
+      "id": "pan-leche-croustina-adaptado-panasonic",
+      "ingredients": [
         {
-          "category" : "Panadería",
-          "isPantryBasic" : false,
-          "name" : "Harina de fuerza",
-          "note" : "Harina blanca de fuerza",
-          "quantity" : 360,
-          "unit" : "g"
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "name": "Harina de fuerza",
+          "note": "Harina blanca de fuerza",
+          "quantity": 360,
+          "unit": "g"
         },
         {
-          "category" : "Lácteos",
-          "isPantryBasic" : false,
-          "name" : "Leche",
-          "note" : "A temperatura ambiente",
-          "quantity" : 180,
-          "unit" : "ml"
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "name": "Leche",
+          "note": "A temperatura ambiente",
+          "quantity": 180,
+          "unit": "ml"
         },
         {
-          "category" : "Huevos",
-          "isPantryBasic" : false,
-          "name" : "Huevo",
-          "note" : "Tamaño M, ligeramente batidos",
-          "quantity" : 2,
-          "unit" : "ud"
+          "category": "Huevos",
+          "isPantryBasic": false,
+          "name": "Huevo",
+          "note": "Tamaño M, ligeramente batidos",
+          "quantity": 2,
+          "unit": "ud"
         },
         {
-          "category" : "Lácteos",
-          "isPantryBasic" : false,
-          "name" : "Mantequilla sin sal",
-          "note" : "Blanda y cortada en dados",
-          "quantity" : 30,
-          "unit" : "g"
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "name": "Mantequilla sin sal",
+          "note": "Blanda y cortada en dados",
+          "quantity": 30,
+          "unit": "g"
         },
         {
-          "category" : "Despensa",
-          "isPantryBasic" : false,
-          "name" : "Miel",
-          "note" : "Cucharadita rasa",
-          "quantity" : 1,
-          "unit" : "cdta"
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "name": "Miel",
+          "note": "Cucharadita rasa",
+          "quantity": 1,
+          "unit": "cdta"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : true,
-          "name" : "Sal",
-          "note" : "Cucharadita rasa",
-          "quantity" : 1,
-          "unit" : "cdta"
+          "category": "Especias",
+          "isPantryBasic": true,
+          "name": "Sal",
+          "note": "Cucharadita rasa",
+          "quantity": 1,
+          "unit": "cdta"
         },
         {
-          "category" : "Panadería",
-          "isPantryBasic" : false,
-          "name" : "Levadura seca de panadería",
-          "note" : "En el dispensador de levadura",
-          "quantity" : 6,
-          "unit" : "g"
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "name": "Levadura seca de panadería",
+          "note": "En el dispensador de levadura",
+          "quantity": 6,
+          "unit": "g"
         }
       ],
-      "name" : "Pan de leche",
-      "prepMinutes" : 10,
-      "reheating" : "Tuesta las rebanadas directamente desde congeladas o caliéntalas 3-4 minutos a 150 °C.",
-      "revision" : 1,
-      "servings" : 10,
-      "steps" : [
+      "name": "Pan de leche",
+      "prepMinutes": 10,
+      "reheating": "Tuesta las rebanadas directamente desde congeladas o caliéntalas 3-4 minutos a 150 °C.",
+      "revision": 1,
+      "servings": 10,
+      "steps": [
         {
-          "accessory" : "Cubeta, pala y dispensador",
-          "instruction" : "Extrae la cubeta, encaja firmemente la pala de amasado y comprueba que tanto la cubeta como el dispensador de levadura estén limpios y secos.",
-          "mode" : "Preparación",
-          "order" : 1,
-          "reverse" : false
+          "accessory": "Cubeta, pala y dispensador",
+          "instruction": "Extrae la cubeta, encaja firmemente la pala de amasado y comprueba que tanto la cubeta como el dispensador de levadura estén limpios y secos.",
+          "mode": "Preparación",
+          "order": 1,
+          "reverse": false
         },
         {
-          "accessory" : "Cubeta de la panificadora",
-          "instruction" : "Añade a la cubeta, en este orden: harina de fuerza, mantequilla, miel y sal. Bate ligeramente los huevos con la leche y vierte la mezcla al final sobre los ingredientes de la cubeta.",
-          "mode" : "Carga de ingredientes",
-          "order" : 2,
-          "reverse" : false,
-          "temperature" : "Temperatura ambiente"
+          "accessory": "Cubeta de la panificadora",
+          "instruction": "Añade a la cubeta, en este orden: harina de fuerza, mantequilla, miel y sal. Bate ligeramente los huevos con la leche y vierte la mezcla al final sobre los ingredientes de la cubeta.",
+          "mode": "Carga de ingredientes",
+          "order": 2,
+          "reverse": false,
+          "temperature": "Temperatura ambiente"
         },
         {
-          "accessory" : "Dispensador de levadura",
-          "instruction" : "Pon los 6 g de levadura seca en el dispensador de levadura. No la añadas directamente a la cubeta y comprueba que el compartimento no esté húmedo.",
-          "mode" : "Dosificación automática",
-          "order" : 3,
-          "reverse" : false
+          "accessory": "Dispensador de levadura",
+          "instruction": "Pon los 6 g de levadura seca en el dispensador de levadura. No la añadas directamente a la cubeta y comprueba que el compartimento no esté húmedo.",
+          "mode": "Dosificación automática",
+          "order": 3,
+          "reverse": false
         },
         {
-          "accessory" : "Panasonic SD-YR2550SXE",
-          "instruction" : "Coloca y bloquea la cubeta, cierra la tapa y selecciona el menú 1 «Básico», tamaño M y tostado claro. Pulsa Inicio. No utilices el temporizador diferido, ya que la mezcla contiene leche y huevos.",
-          "mode" : "Menú 1 · tamaño M · tostado claro",
-          "order" : 4,
-          "reverse" : false
+          "accessory": "Panasonic SD-YR2550SXE",
+          "instruction": "Coloca y bloquea la cubeta, cierra la tapa y selecciona el menú 1 «Básico», tamaño M y tostado claro. Pulsa Inicio. No utilices el temporizador diferido, ya que la mezcla contiene leche y huevos.",
+          "mode": "Menú 1 · tamaño M · tostado claro",
+          "order": 4,
+          "reverse": false
         },
         {
-          "accessory" : "Panasonic SD-YR2550SXE",
-          "durationSeconds" : 14400,
-          "instruction" : "Deja que la máquina complete el amasado, los levados y el horneado sin abrir la tapa. El ciclo dura aproximadamente 4 horas.",
-          "mode" : "Programa automático",
-          "order" : 5,
-          "reverse" : false
+          "accessory": "Panasonic SD-YR2550SXE",
+          "durationSeconds": 14400,
+          "instruction": "Deja que la máquina complete el amasado, los levados y el horneado sin abrir la tapa. El ciclo dura aproximadamente 4 horas.",
+          "mode": "Programa automático",
+          "order": 5,
+          "reverse": false
         },
         {
-          "accessory" : "Guantes y gancho para pala",
-          "durationSeconds" : 300,
-          "instruction" : "Cuando termine, extrae inmediatamente la cubeta con guantes y desmolda con cuidado. Si la pala queda dentro del pan, retírala con el gancho cuando puedas manipularlo sin quemarte.",
-          "mode" : "Desmoldado",
-          "order" : 6,
-          "reverse" : false
+          "accessory": "Guantes y gancho para pala",
+          "durationSeconds": 300,
+          "instruction": "Cuando termine, extrae inmediatamente la cubeta con guantes y desmolda con cuidado. Si la pala queda dentro del pan, retírala con el gancho cuando puedas manipularlo sin quemarte.",
+          "mode": "Desmoldado",
+          "order": 6,
+          "reverse": false
         },
         {
-          "accessory" : "Rejilla",
-          "durationSeconds" : 3600,
-          "instruction" : "Deja enfriar el pan sobre una rejilla durante al menos 60 minutos antes de cortarlo. Si quieres una corteza más blanda, pincélala muy ligeramente con leche justo después de desmoldar.",
-          "mode" : "Enfriado",
-          "order" : 7,
-          "reverse" : false,
-          "temperature" : "Temperatura ambiente"
+          "accessory": "Rejilla",
+          "durationSeconds": 3600,
+          "instruction": "Deja enfriar el pan sobre una rejilla durante al menos 60 minutos antes de cortarlo. Si quieres una corteza más blanda, pincélala muy ligeramente con leche justo después de desmoldar.",
+          "mode": "Enfriado",
+          "order": 7,
+          "reverse": false,
+          "temperature": "Temperatura ambiente"
         }
       ],
-      "storage" : "Conserva hasta 2 días a temperatura ambiente, completamente frío y en una bolsa o recipiente hermético. Al contener leche y huevo, evita dejarlo en lugares cálidos.",
-      "tags" : [
+      "storage": "Conserva hasta 2 días a temperatura ambiente, completamente frío y en una bolsa o recipiente hermético. Al contener leche y huevo, evita dejarlo en lugares cálidos.",
+      "tags": [
         "Panasonic SD-YR2550SXE",
         "menú 1",
         "pan de leche",
@@ -1437,215 +1437,215 @@
         "desayuno",
         "merienda"
       ],
-      "tips" : "En la Panasonic SD-YR2550SXE, el programa 8 «Pan básico» de la Croustina equivale al menú 1 «Básico». Pon la levadura en su dispensador, usa tostado claro y no programes el inicio diferido porque la receta contiene leche y huevos. Receta adaptada de la versión publicada por Panasonic Experience Fresh para Croustina.",
-      "variants" : "Para una corteza especialmente tierna, pincela el pan recién desmoldado con una capa muy fina de leche y deja que se enfríe sobre una rejilla."
+      "tips": "En la Panasonic SD-YR2550SXE, el programa 8 «Pan básico» de la Croustina equivale al menú 1 «Básico». Pon la levadura en su dispensador, usa tostado claro y no programes el inicio diferido porque la receta contiene leche y huevos. Receta adaptada de la versión publicada por Panasonic Experience Fresh para Croustina.",
+      "variants": "Para una corteza especialmente tierna, pincela el pan recién desmoldado con una capa muy fina de leche y deja que se enfríe sobre una rejilla."
     },
     {
-      "allergens" : [
+      "allergens": [
         "Gluten",
         "Frutos secos",
         "Soja"
       ],
-      "appliance" : "Panificadora Panasonic",
-      "caloriesPerServing" : 295,
-      "category" : "Repostería",
-      "cookMinutes" : 90,
-      "description" : "Bizcocho vegano de manzana, almendra, pasas y canela, mezclado a mano y horneado en la Panasonic SD-YR2550SXE con el menú 26 «Solo horneado».",
-      "difficulty" : "Fácil",
-      "estimatedCost" : 7,
-      "freezing" : "Congela en rebanadas bien envueltas hasta 2 meses. Descongela a temperatura ambiente.",
-      "id" : "bizcocho-almendra-manzana-panasonic",
-      "ingredients" : [
+      "appliance": "Panificadora Panasonic",
+      "caloriesPerServing": 295,
+      "category": "Repostería",
+      "cookMinutes": 90,
+      "description": "Bizcocho vegano de manzana, almendra, pasas y canela, mezclado a mano y horneado en la Panasonic SD-YR2550SXE con el menú 26 «Solo horneado».",
+      "difficulty": "Fácil",
+      "estimatedCost": 7,
+      "freezing": "Congela en rebanadas bien envueltas hasta 2 meses. Descongela a temperatura ambiente.",
+      "id": "bizcocho-almendra-manzana-panasonic",
+      "ingredients": [
         {
-          "category" : "Panadería",
-          "isPantryBasic" : false,
-          "name" : "Harina de trigo duro",
-          "note" : "Según la receta original",
-          "quantity" : 220,
-          "unit" : "g"
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "name": "Harina de trigo duro",
+          "note": "Según la receta original",
+          "quantity": 220,
+          "unit": "g"
         },
         {
-          "category" : "Frutos secos",
-          "isPantryBasic" : false,
-          "name" : "Harina de almendras",
-          "note" : "Almendra molida",
-          "quantity" : 65,
-          "unit" : "g"
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "name": "Harina de almendras",
+          "note": "Almendra molida",
+          "quantity": 65,
+          "unit": "g"
         },
         {
-          "category" : "Panadería",
-          "isPantryBasic" : false,
-          "name" : "Crémor tártaro",
-          "note" : "Impulsor indicado en la receta original",
-          "quantity" : 10,
-          "unit" : "g"
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "name": "Crémor tártaro",
+          "note": "Impulsor indicado en la receta original",
+          "quantity": 10,
+          "unit": "g"
         },
         {
-          "category" : "Frutos secos",
-          "isPantryBasic" : false,
-          "name" : "Pasas",
-          "note" : "Remojadas y bien escurridas",
-          "quantity" : 60,
-          "unit" : "g"
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "name": "Pasas",
+          "note": "Remojadas y bien escurridas",
+          "quantity": 60,
+          "unit": "g"
         },
         {
-          "category" : "Despensa",
-          "isPantryBasic" : false,
-          "name" : "Azúcar de caña",
-          "note" : "Reserva una pizca para decorar",
-          "quantity" : 50,
-          "unit" : "g"
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "name": "Azúcar de caña",
+          "note": "Reserva una pizca para decorar",
+          "quantity": 50,
+          "unit": "g"
         },
         {
-          "category" : "Bebidas",
-          "isPantryBasic" : false,
-          "name" : "Bebida de soja",
-          "note" : "Sin azúcar",
-          "quantity" : 260,
-          "unit" : "ml"
+          "category": "Bebidas",
+          "isPantryBasic": false,
+          "name": "Bebida de soja",
+          "note": "Sin azúcar",
+          "quantity": 260,
+          "unit": "ml"
         },
         {
-          "category" : "Despensa",
-          "isPantryBasic" : true,
-          "name" : "Aceite de girasol",
-          "note" : "De sabor suave",
-          "quantity" : 80,
-          "unit" : "g"
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "name": "Aceite de girasol",
+          "note": "De sabor suave",
+          "quantity": 80,
+          "unit": "g"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : true,
-          "name" : "Sal",
-          "note" : "",
-          "quantity" : 1,
-          "unit" : "pizca"
+          "category": "Especias",
+          "isPantryBasic": true,
+          "name": "Sal",
+          "note": "",
+          "quantity": 1,
+          "unit": "pizca"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : false,
-          "name" : "Canela molida",
-          "note" : "Reserva una pizca para decorar",
-          "quantity" : 1,
-          "unit" : "cda"
+          "category": "Especias",
+          "isPantryBasic": false,
+          "name": "Canela molida",
+          "note": "Reserva una pizca para decorar",
+          "quantity": 1,
+          "unit": "cda"
         },
         {
-          "category" : "Frutas y verduras",
-          "isPantryBasic" : false,
-          "name" : "Limón",
-          "note" : "Ralladura de la piel y zumo",
-          "quantity" : 0.5,
-          "unit" : "ud"
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "name": "Limón",
+          "note": "Ralladura de la piel y zumo",
+          "quantity": 0.5,
+          "unit": "ud"
         },
         {
-          "category" : "Especias",
-          "isPantryBasic" : false,
-          "name" : "Vainilla",
-          "note" : "Al gusto",
-          "quantity" : 1,
-          "unit" : "pizca"
+          "category": "Especias",
+          "isPantryBasic": false,
+          "name": "Vainilla",
+          "note": "Al gusto",
+          "quantity": 1,
+          "unit": "pizca"
         },
         {
-          "category" : "Frutas y verduras",
-          "isPantryBasic" : false,
-          "name" : "Manzana",
-          "note" : "Una en dados y otra en láminas finas",
-          "quantity" : 2,
-          "unit" : "ud"
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "name": "Manzana",
+          "note": "Una en dados y otra en láminas finas",
+          "quantity": 2,
+          "unit": "ud"
         },
         {
-          "category" : "Frutos secos",
-          "isPantryBasic" : false,
-          "name" : "Almendras laminadas",
-          "note" : "Cantidad orientativa para decorar",
-          "quantity" : 25,
-          "unit" : "g"
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "name": "Almendras laminadas",
+          "note": "Cantidad orientativa para decorar",
+          "quantity": 25,
+          "unit": "g"
         },
         {
-          "category" : "Despensa",
-          "isPantryBasic" : false,
-          "name" : "Malta de arroz",
-          "note" : "Diluida con unas gotas de agua, para pincelar",
-          "quantity" : 1,
-          "unit" : "cda"
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "name": "Malta de arroz",
+          "note": "Diluida con unas gotas de agua, para pincelar",
+          "quantity": 1,
+          "unit": "cda"
         }
       ],
-      "name" : "Bizcocho suave de almendra y manzana",
-      "prepMinutes" : 25,
-      "reheating" : "Deja templar las porciones refrigeradas o caliéntalas 3-4 minutos a 150 °C.",
-      "revision" : 1,
-      "servings" : 10,
-      "steps" : [
+      "name": "Bizcocho suave de almendra y manzana",
+      "prepMinutes": 25,
+      "reheating": "Deja templar las porciones refrigeradas o caliéntalas 3-4 minutos a 150 °C.",
+      "revision": 2,
+      "servings": 10,
+      "steps": [
         {
-          "accessory" : "Bol, colador y rallador",
-          "durationSeconds" : 600,
-          "instruction" : "Pon las pasas en agua caliente durante 10 minutos. Después escúrrelas y sécalas bien. Ralla solo la parte amarilla de medio limón y exprime su zumo.",
-          "mode" : "Preparación",
-          "order" : 1,
-          "reverse" : false
+          "accessory": "Bol, colador y rallador",
+          "durationSeconds": 600,
+          "instruction": "Pon las pasas en agua caliente durante 10 minutos. Después escúrrelas y sécalas bien. Ralla solo la parte amarilla de medio limón y exprime su zumo.",
+          "mode": "Preparación",
+          "order": 1,
+          "reverse": false
         },
         {
-          "accessory" : "Bol grande y espátula",
-          "instruction" : "En un bol grande mezcla la harina de trigo duro, la harina de almendras, el azúcar, la ralladura de limón, la sal, la vainilla, la canela y el crémor tártaro.",
-          "mode" : "Ingredientes secos",
-          "order" : 2,
-          "reverse" : false
+          "accessory": "Bol grande y espátula",
+          "instruction": "En un bol grande mezcla la harina de trigo duro, la harina de almendras, el azúcar, la ralladura de limón, la sal, la vainilla, la canela y el crémor tártaro.",
+          "mode": "Ingredientes secos",
+          "order": 2,
+          "reverse": false
         },
         {
-          "accessory" : "Jarra o bol",
-          "durationSeconds" : 300,
-          "instruction" : "En otro recipiente mezcla la bebida de soja con el zumo de medio limón y deja reposar 5 minutos. Añade el aceite de girasol y mezcla.",
-          "mode" : "Ingredientes líquidos",
-          "order" : 3,
-          "reverse" : false
+          "accessory": "Jarra o bol",
+          "durationSeconds": 300,
+          "instruction": "En otro recipiente mezcla la bebida de soja con el zumo de medio limón y deja reposar 5 minutos. Añade el aceite de girasol y mezcla.",
+          "mode": "Ingredientes líquidos",
+          "order": 3,
+          "reverse": false
         },
         {
-          "accessory" : "Bol y espátula",
-          "instruction" : "Vierte los líquidos sobre los ingredientes secos y mezcla con una espátula solo hasta obtener una masa homogénea. Incorpora las pasas escurridas y una de las manzanas cortada en dados pequeños.",
-          "mode" : "Mezcla manual",
-          "order" : 4,
-          "reverse" : false
+          "accessory": "Bol y espátula",
+          "instruction": "Vierte los líquidos sobre los ingredientes secos y mezcla con una espátula solo hasta obtener una masa homogénea. Incorpora las pasas escurridas y una de las manzanas cortada en dados pequeños.",
+          "mode": "Mezcla manual",
+          "order": 4,
+          "reverse": false
         },
         {
-          "accessory" : "Cubeta sin pala y papel de horno",
-          "instruction" : "Extrae la cubeta de la Panasonic SD-YR2550SXE y retira la pala de amasado. Forra la cubeta con papel de horno bien ajustado, sin que sobresalga por encima del borde, y vierte la masa. Alisa la superficie.",
-          "mode" : "Llenado",
-          "order" : 5,
-          "reverse" : false
+          "accessory": "Cubeta sin pala y papel de horno",
+          "instruction": "Extrae la cubeta de la Panasonic SD-YR2550SXE y retira la pala de amasado. Forra la cubeta con papel de horno bien ajustado, sin que sobresalga por encima del borde, y vierte la masa. Alisa la superficie.",
+          "mode": "Llenado",
+          "order": 5,
+          "reverse": false
         },
         {
-          "accessory" : "Pincel de cocina",
-          "instruction" : "Corta la segunda manzana en láminas finas y distribúyelas sobre la superficie. Pincélalas con la malta de arroz diluida con unas gotas de agua y termina con almendras laminadas y una pizca de canela y azúcar de caña.",
-          "mode" : "Decoración",
-          "order" : 6,
-          "reverse" : false
+          "accessory": "Pincel de cocina",
+          "instruction": "Corta la segunda manzana en láminas finas y distribúyelas sobre la superficie. Pincélalas con la malta de arroz diluida con unas gotas de agua y termina con almendras laminadas y una pizca de canela y azúcar de caña.",
+          "mode": "Decoración",
+          "order": 6,
+          "reverse": false
         },
         {
-          "accessory" : "Panasonic SD-YR2550SXE",
-          "durationSeconds" : 5400,
-          "instruction" : "Coloca y bloquea la cubeta. Selecciona el menú 26 «Solo horneado» de la Panasonic SD-YR2550SXE, ajusta 1 hora y 30 minutos y pulsa Inicio.",
-          "mode" : "Menú 26 · Solo horneado · 90 minutos",
-          "order" : 7,
-          "reverse" : false
+          "accessory": "Panasonic SD-YR2550SXE",
+          "durationSeconds": 5400,
+          "instruction": "Coloca y bloquea la cubeta. Selecciona el menú 26 «Solo horneado» de la Panasonic SD-YR2550SXE, ajusta 1 hora y 30 minutos y pulsa Inicio.",
+          "mode": "Menú 26 · Solo horneado · 90 minutos",
+          "order": 7,
+          "reverse": false
         },
         {
-          "accessory" : "Brocheta",
-          "instruction" : "Al finalizar, introduce una brocheta en el centro: debe salir sin masa cruda. Si aún está húmedo, programa unos minutos adicionales de «Solo horneado» y comprueba de nuevo sin superar la capacidad indicada por el manual.",
-          "mode" : "Comprobación",
-          "order" : 8,
-          "reverse" : false
+          "accessory": "Brocheta",
+          "instruction": "Al finalizar, introduce una brocheta en el centro: debe salir sin masa cruda. Si aún está húmedo, programa unos minutos adicionales de «Solo horneado» y comprueba de nuevo sin superar la capacidad indicada por el manual.",
+          "mode": "Comprobación",
+          "order": 8,
+          "reverse": false
         },
         {
-          "accessory" : "Guantes y rejilla",
-          "durationSeconds" : 300,
-          "instruction" : "Extrae la cubeta con guantes y deja reposar 5 minutos. Desmolda con cuidado, retira el papel y deja enfriar completamente sobre una rejilla antes de cortar.",
-          "mode" : "Desmoldado y enfriado",
-          "order" : 9,
-          "reverse" : false,
-          "temperature" : "Temperatura ambiente"
+          "accessory": "Guantes y rejilla",
+          "durationSeconds": 300,
+          "instruction": "Extrae la cubeta con guantes y deja reposar 5 minutos. Desmolda con cuidado, retira el papel y deja enfriar completamente sobre una rejilla antes de cortar.",
+          "mode": "Desmoldado y enfriado",
+          "order": 9,
+          "reverse": false,
+          "temperature": "Temperatura ambiente"
         }
       ],
-      "storage" : "Conserva el bizcocho completamente frío y bien tapado hasta 2 días a temperatura ambiente o 4 días en la nevera.",
-      "tags" : [
+      "storage": "Conserva el bizcocho completamente frío y bien tapado hasta 2 días a temperatura ambiente o 4 días en la nevera.",
+      "tags": [
         "Panasonic SD-YR2550SXE",
         "menú 26",
         "Solo horneado",
@@ -1654,9 +1654,10 @@
         "almendra",
         "Panasonic Experience Fresh"
       ],
-      "tips" : "En la Panasonic SD-YR2550SXE, el programa 13 «Solo cocción» indicado para la Croustina equivale al menú 26 «Solo horneado». Retira la pala antes de verter la masa y no uses programas de amasado. El tiempo se configura en 1 hora y 30 minutos. Receta adaptada de Panasonic Experience Fresh.",
-      "variants" : "Puedes sustituir las pasas por arándanos secos. Si no encuentras malta de arroz, utiliza una capa muy fina de sirope de arce o de agave para dar brillo a la manzana. Comprueba que todos los ingredientes alternativos sean veganos si deseas mantener esa característica."
+      "tips": "En la Panasonic SD-YR2550SXE, el programa 13 «Solo cocción» indicado para la Croustina equivale al menú 26 «Solo horneado». Retira la pala antes de verter la masa y no uses programas de amasado. El tiempo se configura en 1 hora y 30 minutos. Receta adaptada de Panasonic Experience Fresh.",
+      "variants": "Puedes sustituir las pasas por arándanos secos. Si no encuentras malta de arroz, utiliza una capa muy fina de sirope de arce o de agave para dar brillo a la manzana. Comprueba que todos los ingredientes alternativos sean veganos si deseas mantener esa característica.",
+      "imageURL": "https://raw.githubusercontent.com/franacostaperez/nieves_cocinera_recetas/main/images/bizcocho-almendra-manzana-panasonic.jpg"
     }
   ],
-  "schemaVersion" : 1
+  "schemaVersion": 1
 }
