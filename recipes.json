@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 3,
+  "catalogVersion": 4,
   "recipes": [
     {
       "id": "ropa-vieja-canaria-thermomix",
@@ -245,6 +245,192 @@
           "instruction": "Añade las papas cocidas reservadas. Mezcla con la espátula y calienta brevemente con giro inverso. Prueba y ajusta de sal. Deja reposar 5 minutos en una fuente antes de servir.",
           "durationSeconds": 180,
           "temperature": "100 °C",
+          "speed": "Cuchara",
+          "reverse": true,
+          "accessory": "Cubilete",
+          "mode": null
+        }
+      ]
+    },
+    {
+      "id": "salsa-pimienta-carne-thermomix",
+      "revision": 1,
+      "name": "Salsa de pimienta para carne",
+      "description": "Salsa cremosa y aromática con pimienta verde y negra, ideal para solomillo, entrecot, cerdo o pollo, preparada íntegramente en Thermomix.",
+      "appliance": "Thermomix",
+      "category": "Salsas",
+      "servings": 6,
+      "prepMinutes": 8,
+      "cookMinutes": 30,
+      "difficulty": "Fácil",
+      "estimatedCost": 6.5,
+      "caloriesPerServing": 245,
+      "allergens": [
+        "Lácteos",
+        "Mostaza",
+        "Sulfitos"
+      ],
+      "tips": "La salsa espesa al enfriarse. Si queda demasiado densa, añade 20-30 ml de caldo caliente y mezcla 15 segundos a velocidad 3. Añade los granos de pimienta después de triturar para conservar su textura.",
+      "variants": "Para una salsa más suave, reduce la pimienta verde a 12 g. Puedes sustituir el brandy por vino blanco seco o por caldo si prefieres evitar el alcohol.",
+      "storage": "Hasta 3 días en la nevera, en un recipiente hermético.",
+      "freezing": "Puede congelarse hasta 1 mes, aunque la textura puede separarse ligeramente. Emulsiona de nuevo al recalentar.",
+      "reheating": "Calienta 6 minutos a 80 °C y velocidad 3. No dejes que hierva para evitar que la nata se corte.",
+      "tags": [
+        "salsa",
+        "carne",
+        "pimienta",
+        "Thermomix",
+        "sin gluten"
+      ],
+      "imageURL": "https://franacostaperez.github.io/nieves_cocinera_recetas/images/salsa-pimienta-thermomix.jpg",
+      "ingredients": [
+        {
+          "name": "Chalota",
+          "quantity": 60,
+          "unit": "g",
+          "category": "Frutas y verduras",
+          "isPantryBasic": false,
+          "note": "Pelada y en mitades"
+        },
+        {
+          "name": "Mantequilla",
+          "quantity": 25,
+          "unit": "g",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Aceite de oliva",
+          "quantity": 10,
+          "unit": "g",
+          "category": "Despensa",
+          "isPantryBasic": true,
+          "note": ""
+        },
+        {
+          "name": "Brandy",
+          "quantity": 40,
+          "unit": "ml",
+          "category": "Bebidas",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Caldo de carne",
+          "quantity": 120,
+          "unit": "ml",
+          "category": "Conservas",
+          "isPantryBasic": false,
+          "note": "Preferiblemente bajo en sal"
+        },
+        {
+          "name": "Nata para cocinar",
+          "quantity": 250,
+          "unit": "ml",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": "Con al menos 18 % de materia grasa"
+        },
+        {
+          "name": "Mostaza de Dijon",
+          "quantity": 1,
+          "unit": "cdta",
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Pimienta verde en salmuera",
+          "quantity": 20,
+          "unit": "g",
+          "category": "Especias",
+          "isPantryBasic": false,
+          "note": "Escurrida y enjuagada"
+        },
+        {
+          "name": "Pimienta negra",
+          "quantity": 1,
+          "unit": "cdta",
+          "category": "Especias",
+          "isPantryBasic": false,
+          "note": "Recién molida gruesa"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "pizca",
+          "category": "Especias",
+          "isPantryBasic": true,
+          "note": "Ajustar al final"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Pon la chalota en el vaso y trocea. Baja los restos de las paredes con la espátula.",
+          "durationSeconds": 5,
+          "temperature": null,
+          "speed": "5",
+          "reverse": false,
+          "accessory": null,
+          "mode": null
+        },
+        {
+          "order": 2,
+          "instruction": "Añade la mantequilla y el aceite. Sofríe sin cubilete, colocando el cestillo sobre la tapa para evitar salpicaduras.",
+          "durationSeconds": 480,
+          "temperature": "120 °C",
+          "speed": "1",
+          "reverse": false,
+          "accessory": "Cestillo sobre la tapa",
+          "mode": null
+        },
+        {
+          "order": 3,
+          "instruction": "Añade el brandy. Cocina sin cubilete para que se evapore el alcohol; mantén el cestillo sobre la tapa. No acerques ninguna llama al aparato.",
+          "durationSeconds": 240,
+          "temperature": "Varoma",
+          "speed": "1",
+          "reverse": false,
+          "accessory": "Cestillo sobre la tapa",
+          "mode": null
+        },
+        {
+          "order": 4,
+          "instruction": "Incorpora el caldo, la nata, la mostaza y la pimienta negra. Cocina con el cestillo sobre la tapa para permitir una evaporación controlada.",
+          "durationSeconds": 720,
+          "temperature": "98 °C",
+          "speed": "2",
+          "reverse": false,
+          "accessory": "Cestillo sobre la tapa",
+          "mode": null
+        },
+        {
+          "order": 5,
+          "instruction": "Deja reposar la salsa 2 minutos para que baje ligeramente la temperatura. Coloca el cubilete y tritura de forma progresiva para obtener una textura fina.",
+          "durationSeconds": 30,
+          "temperature": null,
+          "speed": "5-7 progresiva",
+          "reverse": false,
+          "accessory": "Cubilete",
+          "mode": null
+        },
+        {
+          "order": 6,
+          "instruction": "Añade la pimienta verde escurrida y mezcla suavemente con giro inverso para mantener los granos enteros.",
+          "durationSeconds": 240,
+          "temperature": "90 °C",
+          "speed": "Cuchara",
+          "reverse": true,
+          "accessory": "Cubilete",
+          "mode": null
+        },
+        {
+          "order": 7,
+          "instruction": "Prueba y ajusta de sal. Sirve inmediatamente sobre la carne o conserva caliente a un máximo de 70 °C durante pocos minutos.",
+          "durationSeconds": 15,
+          "temperature": null,
           "speed": "Cuchara",
           "reverse": true,
           "accessory": "Cubilete",
