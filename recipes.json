@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 5,
+  "catalogVersion": 6,
   "recipes": [
     {
       "id": "ropa-vieja-canaria-thermomix",
@@ -596,6 +596,220 @@
           "speed": null,
           "reverse": false,
           "accessory": null,
+          "mode": null
+        }
+      ]
+    },
+    {
+      "id": "cookies-chocolate-nueces-dulce-leche-panasonic",
+      "revision": 1,
+      "name": "Cookies blandas de chocolate, nueces y dulce de leche",
+      "description": "Cookies tiernas con chocolate con leche, pecanas y almendras; la Panasonic SD-YR2550SXE prepara la masa con el menú 26 y el horneado se completa en horno convencional.",
+      "appliance": "Panificadora Panasonic",
+      "category": "Meriendas",
+      "servings": 12,
+      "prepMinutes": 60,
+      "cookMinutes": 12,
+      "difficulty": "Fácil",
+      "estimatedCost": 14,
+      "caloriesPerServing": 510,
+      "allergens": [
+        "Gluten",
+        "Lácteos",
+        "Huevo",
+        "Frutos secos"
+      ],
+      "tips": "El menú 26 de la SD-YR2550SXE prepara la masa durante 30 minutos, pero no hornea estas cookies. Vigila el horno: deben salir con el borde asentado y el centro todavía blando, porque terminan de fijarse al enfriarse. Receta adaptada de Panasonic Experience Fresh.",
+      "variants": "Puedes sustituir el chocolate con leche por chocolate negro. Para una presentación menos dulce, reduce el dulce de leche de la cobertura o sírvelo aparte.",
+      "storage": "Conserva las cookies sin cobertura hasta 4 días en un recipiente hermético. Una vez decoradas, mantenlas refrigeradas y consúmelas en 3 días.",
+      "freezing": "La masa formada en rollo puede congelarse hasta 2 meses. Descongela una noche en la nevera antes de cortar y hornear.",
+      "reheating": "Templa una cookie sin cobertura durante 3-4 minutos en horno a 150 °C. No calientes el dulce de leche en exceso.",
+      "tags": [
+        "Panasonic SD-YR2550SXE",
+        "menú 26",
+        "cookies",
+        "chocolate",
+        "nueces",
+        "Panasonic Experience Fresh"
+      ],
+      "imageURL": "https://franacostaperez.github.io/nieves_cocinera_recetas/images/cookies-chocolate-nueces-dulce-leche.jpg",
+      "ingredients": [
+        {
+          "name": "Mantequilla",
+          "quantity": 170,
+          "unit": "g",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": "Blanda, cortada en dados"
+        },
+        {
+          "name": "Vaina de vainilla",
+          "quantity": 1,
+          "unit": "ud",
+          "category": "Especias",
+          "isPantryBasic": false,
+          "note": "Solo las semillas"
+        },
+        {
+          "name": "Chocolate con leche",
+          "quantity": 200,
+          "unit": "g",
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "note": "Picado en trozos pequeños"
+        },
+        {
+          "name": "Azúcar moreno",
+          "quantity": 180,
+          "unit": "g",
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Huevo",
+          "quantity": 1,
+          "unit": "ud",
+          "category": "Huevos",
+          "isPantryBasic": false,
+          "note": "Tamaño M"
+        },
+        {
+          "name": "Harina de trigo",
+          "quantity": 320,
+          "unit": "g",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Levadura química",
+          "quantity": 1,
+          "unit": "cdta",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Flor de sal",
+          "quantity": 1,
+          "unit": "pizca",
+          "category": "Especias",
+          "isPantryBasic": false,
+          "note": ""
+        },
+        {
+          "name": "Pecanas y almendras",
+          "quantity": 75,
+          "unit": "g",
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "note": "Picadas; para la masa"
+        },
+        {
+          "name": "Almendras",
+          "quantity": 60,
+          "unit": "g",
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "note": "Enteras o troceadas; para decorar"
+        },
+        {
+          "name": "Dulce de leche",
+          "quantity": 165,
+          "unit": "g",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": "Para decorar"
+        },
+        {
+          "name": "Crema de almendras",
+          "quantity": 100,
+          "unit": "g",
+          "category": "Frutos secos",
+          "isPantryBasic": false,
+          "note": "100 % almendra; para decorar"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ablanda la mantequilla a temperatura ambiente y córtala en dados. Pica por separado el chocolate y los 75 g de pecanas y almendras destinados a la masa. Instala la pala de amasado en la cubeta.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Cubeta y pala de amasado",
+          "mode": null
+        },
+        {
+          "order": 2,
+          "instruction": "Pon en la cubeta la levadura química, la harina, la mantequilla, las semillas de vainilla, el azúcar moreno y el huevo. Mantén reservados el chocolate y los frutos secos picados.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Cubeta de la panificadora",
+          "mode": null
+        },
+        {
+          "order": 3,
+          "instruction": "Selecciona el menú 26 de la Panasonic SD-YR2550SXE y ajusta 30 minutos. Inicia el programa para mezclar y amasar.",
+          "durationSeconds": 1800,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Pala de amasado",
+          "mode": "Menú 26 · 30 minutos"
+        },
+        {
+          "order": 4,
+          "instruction": "Cuando hayan transcurrido aproximadamente 15 minutos, abre brevemente la tapa, incorpora el chocolate y los frutos secos picados y vuelve a cerrarla para que termine el programa.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Cubeta de la panificadora",
+          "mode": "Mitad del menú 26"
+        },
+        {
+          "order": 5,
+          "instruction": "Al finalizar, saca la masa, forma un cilindro compacto de unos 6 cm de diámetro y envuélvelo. Refrigera 30 minutos, hasta que esté firme y pueda cortarse sin deformarse.",
+          "durationSeconds": 1800,
+          "temperature": "Nevera",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Papel reutilizable o film",
+          "mode": "Reposo en frío"
+        },
+        {
+          "order": 6,
+          "instruction": "Durante los últimos 15 minutos de frío, precalienta un horno convencional a 180 °C, calor arriba y abajo. Cubre una bandeja con papel de horno.",
+          "durationSeconds": 900,
+          "temperature": "Horno 180 °C",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Bandeja y papel de horno",
+          "mode": "Horno convencional"
+        },
+        {
+          "order": 7,
+          "instruction": "Corta el cilindro en 12 rodajas similares y colócalas separadas y alternadas en la bandeja. Hornea 12 minutos. Retíralas cuando los bordes estén asentados pero los centros aún se vean blandos. Déjalas 5 minutos en la bandeja y después enfríalas sobre rejilla.",
+          "durationSeconds": 720,
+          "temperature": "Horno 180 °C",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Bandeja y rejilla",
+          "mode": "Hornear fuera de la panificadora"
+        },
+        {
+          "order": 8,
+          "instruction": "Cuando estén completamente frías, decora con pequeñas porciones de dulce de leche y crema de almendras. Termina con las almendras y alguna pecana, procurando que la cobertura no oculte toda la cookie.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Manga pastelera opcional",
           "mode": null
         }
       ]
