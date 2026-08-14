@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 10,
+  "catalogVersion": 11,
   "recipes": [
     {
       "allergens": [
@@ -765,7 +765,7 @@
     },
     {
       "id": "pizza-napolitana-pesto-tomates-amarillos-burrata-panasonic",
-      "revision": 1,
+      "revision": 2,
       "name": "Pizza napolitana con pesto, tomates amarillos y burrata",
       "description": "Dos pizzas de fermentación lenta, con masa preparada en la Panasonic SD-YR2550SXE y terminadas en horno con tomate, burrata, pesto y albahaca.",
       "appliance": "Panificadora Panasonic",
@@ -795,7 +795,7 @@
         "pesto",
         "Panasonic Experience Fresh"
       ],
-      "imageURL": "https://franacostaperez.github.io/nieves_cocinera_recetas/images/pizza-napolitana-pesto-tomates-amarillos-burrata.jpg",
+      "imageURL": "https://raw.githubusercontent.com/franacostaperez/nieves_cocinera_recetas/main/images/pizza-napolitana-pesto-tomates-amarillos-burrata.jpg",
       "ingredients": [
         {
           "name": "Harina de trigo Manitoba",
@@ -961,7 +961,7 @@
     },
     {
       "id": "pan-arandanos-nueces-panasonic",
-      "revision": 1,
+      "revision": 2,
       "name": "Pan con arándanos y nueces",
       "description": "Pan tierno de leche y yogur con arándanos secos y nueces, preparado en la Panasonic SD-YR2550SXE con dispensadores automáticos.",
       "appliance": "Panificadora Panasonic",
@@ -991,7 +991,7 @@
         "pan dulce",
         "Panasonic Experience Fresh"
       ],
-      "imageURL": "https://franacostaperez.github.io/nieves_cocinera_recetas/images/pan-arandanos-nueces-panasonic.jpg",
+      "imageURL": "https://raw.githubusercontent.com/franacostaperez/nieves_cocinera_recetas/main/images/pan-arandanos-nueces-panasonic.jpg",
       "ingredients": [
         {
           "name": "Leche entera",
