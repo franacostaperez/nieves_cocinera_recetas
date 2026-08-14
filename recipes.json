@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 9,
+  "catalogVersion": 10,
   "recipes": [
     {
       "allergens": [
@@ -1359,6 +1359,168 @@
           "speed": null,
           "reverse": false,
           "accessory": "Guantes y rejilla",
+          "mode": "Enfriado"
+        }
+      ]
+    },
+    {
+      "id": "pan-leche-croustina-adaptado-panasonic",
+      "revision": 1,
+      "name": "Pan de leche",
+      "description": "Pan de leche tierno y ligeramente dulce, originalmente preparado con el programa 8 de la Croustina y adaptado a la Panasonic SD-YR2550SXE con el menú 1.",
+      "appliance": "Panificadora Panasonic",
+      "category": "Panes",
+      "servings": 10,
+      "prepMinutes": 10,
+      "cookMinutes": 240,
+      "difficulty": "Fácil",
+      "estimatedCost": 3.5,
+      "caloriesPerServing": 180,
+      "allergens": [
+        "Gluten",
+        "Lácteos",
+        "Huevo"
+      ],
+      "tips": "En la Panasonic SD-YR2550SXE, el programa 8 «Pan básico» de la Croustina equivale al menú 1 «Básico». Pon la levadura en su dispensador, usa tostado claro y no programes el inicio diferido porque la receta contiene leche y huevos. Receta adaptada de la versión publicada por Panasonic Experience Fresh para Croustina.",
+      "variants": "Para una corteza especialmente tierna, pincela el pan recién desmoldado con una capa muy fina de leche y deja que se enfríe sobre una rejilla.",
+      "storage": "Conserva hasta 2 días a temperatura ambiente, completamente frío y en una bolsa o recipiente hermético. Al contener leche y huevo, evita dejarlo en lugares cálidos.",
+      "freezing": "Congela en rebanadas hasta 2 meses, separadas con papel para poder sacar solo las necesarias.",
+      "reheating": "Tuesta las rebanadas directamente desde congeladas o caliéntalas 3-4 minutos a 150 °C.",
+      "tags": [
+        "Panasonic SD-YR2550SXE",
+        "menú 1",
+        "pan de leche",
+        "Croustina adaptada",
+        "desayuno",
+        "merienda"
+      ],
+      "ingredients": [
+        {
+          "name": "Harina de fuerza",
+          "quantity": 360,
+          "unit": "g",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": "Harina blanca de fuerza"
+        },
+        {
+          "name": "Leche",
+          "quantity": 180,
+          "unit": "ml",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": "A temperatura ambiente"
+        },
+        {
+          "name": "Huevo",
+          "quantity": 2,
+          "unit": "ud",
+          "category": "Huevos",
+          "isPantryBasic": false,
+          "note": "Tamaño M, ligeramente batidos"
+        },
+        {
+          "name": "Mantequilla sin sal",
+          "quantity": 30,
+          "unit": "g",
+          "category": "Lácteos",
+          "isPantryBasic": false,
+          "note": "Blanda y cortada en dados"
+        },
+        {
+          "name": "Miel",
+          "quantity": 1,
+          "unit": "cdta",
+          "category": "Despensa",
+          "isPantryBasic": false,
+          "note": "Cucharadita rasa"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "cdta",
+          "category": "Especias",
+          "isPantryBasic": true,
+          "note": "Cucharadita rasa"
+        },
+        {
+          "name": "Levadura seca de panadería",
+          "quantity": 6,
+          "unit": "g",
+          "category": "Panadería",
+          "isPantryBasic": false,
+          "note": "En el dispensador de levadura"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Extrae la cubeta, encaja firmemente la pala de amasado y comprueba que tanto la cubeta como el dispensador de levadura estén limpios y secos.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Cubeta, pala y dispensador",
+          "mode": "Preparación"
+        },
+        {
+          "order": 2,
+          "instruction": "Añade a la cubeta, en este orden: harina de fuerza, mantequilla, miel y sal. Bate ligeramente los huevos con la leche y vierte la mezcla al final sobre los ingredientes de la cubeta.",
+          "durationSeconds": null,
+          "temperature": "Temperatura ambiente",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Cubeta de la panificadora",
+          "mode": "Carga de ingredientes"
+        },
+        {
+          "order": 3,
+          "instruction": "Pon los 6 g de levadura seca en el dispensador de levadura. No la añadas directamente a la cubeta y comprueba que el compartimento no esté húmedo.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Dispensador de levadura",
+          "mode": "Dosificación automática"
+        },
+        {
+          "order": 4,
+          "instruction": "Coloca y bloquea la cubeta, cierra la tapa y selecciona el menú 1 «Básico», tamaño M y tostado claro. Pulsa Inicio. No utilices el temporizador diferido, ya que la mezcla contiene leche y huevos.",
+          "durationSeconds": null,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Panasonic SD-YR2550SXE",
+          "mode": "Menú 1 · tamaño M · tostado claro"
+        },
+        {
+          "order": 5,
+          "instruction": "Deja que la máquina complete el amasado, los levados y el horneado sin abrir la tapa. El ciclo dura aproximadamente 4 horas.",
+          "durationSeconds": 14400,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Panasonic SD-YR2550SXE",
+          "mode": "Programa automático"
+        },
+        {
+          "order": 6,
+          "instruction": "Cuando termine, extrae inmediatamente la cubeta con guantes y desmolda con cuidado. Si la pala queda dentro del pan, retírala con el gancho cuando puedas manipularlo sin quemarte.",
+          "durationSeconds": 300,
+          "temperature": null,
+          "speed": null,
+          "reverse": false,
+          "accessory": "Guantes y gancho para pala",
+          "mode": "Desmoldado"
+        },
+        {
+          "order": 7,
+          "instruction": "Deja enfriar el pan sobre una rejilla durante al menos 60 minutos antes de cortarlo. Si quieres una corteza más blanda, pincélala muy ligeramente con leche justo después de desmoldar.",
+          "durationSeconds": 3600,
+          "temperature": "Temperatura ambiente",
+          "speed": null,
+          "reverse": false,
+          "accessory": "Rejilla",
           "mode": "Enfriado"
         }
       ]
